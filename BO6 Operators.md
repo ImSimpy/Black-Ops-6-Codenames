@@ -121,3 +121,51 @@
  ### Base name `volta `
 
  - Covert - `t10_ita_pl_volta`
+
+ # Caine
+ ### Base name `caine`
+
+ - Taskmaster - `t10_usa_pl_caine_sable`
+
+ - Major Za - `t10_usa_pl_caine_caesars`
+
+ # Niran 
+ ### Base name `niran`
+
+ - Ranger - `t10_tha_pl_niran_sable`
+
+ # Toro
+ ### Base name `alejo`
+ 
+ - Heavyweight - `t10_arg_pl_alejo_sable`
+ 
+ - Absolute Loss - `t10_arg_pl_alejo_bo2`
+
+ # Bailey
+ ### Base name `bailey`
+
+ - Recon - `t10_usa_pl_bailey_sable`
+
+ - Art of War - `t10_usa_pl_bailey_cw`
+
+ # Stone
+ ### Base name `
+
+ - Faceless - `t10_gbr_pl_stone_sable`
+
+ # Carver
+ ### Base name `carver`
+
+ - Unshaken - `t10_usa_pl_carver_infiltration`
+
+ # Grey
+ ### Base name `
+
+ - Frayed - `t10_gbr_pl_grey_sable_lod0`
+
+ - Samantha's PJs - `t10_gbr_pl_grey_pajamas`A
+
+
+
+
+
