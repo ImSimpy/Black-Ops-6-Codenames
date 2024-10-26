@@ -12,48 +12,112 @@
 
  # Redacted
  ### Base name `redacted`
+
  - Redacted  - `t10_usa_pl_redacted_redacted`
 
 
  # Adler  
  ### Base name `adler`
- - Adler - `t10_usa_pl_adler`
+
+ - Umbra - `t10_usa_pl_adler_viper`
 
 
  # Park 
  ### Base name `park`
- - Park - `t10_gbr_pl_park`
+
+ - Oblivion - `t10_gbr_pl_park_nightshade`
 
 
  # Woods 
  ### Base name `woods`
- - Woods  - `jup_mp_woods`
 
+ - Classic Woods  - `t10_usa_pl_woods_rogue` , `jup_mp_woods`
+
+ - Zombie Woods - `t10_usa_pl_woods_zombie` , `jup_mp_woods_10`
+
+ - Numbers Woods - `t10_usa_pl_woods_glass` , `jup_mp_woods_11`
 
  # Nazir   
  ### Base name `nazir`
- - Nazir - `t10_pak_pl_nazir`
+
+ - Renegade - `t10_pak_pl_nazir`
+
+ - Hella Chill - `t10_pak_pl_nazir_emea`
 
 
  # Westpoint 
  ### Base name `westpoint`
- - Westpoint - `t10_usa_pl_westpoint`
+ 
+ - Off Grid - `t10_usa_pl_westpoint`
+
+ - Squish -  `t10_usa_pl_westpoint_squish`
+
+ - Squash - `t10_usa_pl_westpoint_squash`
 
 
  # Bayan 
  ### Base name `bayan`
- - Bayan - `t10_pol_pl_bayan`
+
+ - Maverick - `t10_pol_pl_bayan`
 
 
  #  Alvarez    
  ### Base name `yara`
- - Alvarez - `t10_pri_pl_yara`
+
+ - Nomad - `t10_pri_pl_yara`
+
+ - Cold Trail - `???` 
+
+ - The Beast Inside - `???`
+
+ - Unleash The Truth - `t10_pri_pl_yara_monster`
 
 
  # Payne  
  ### Base name `ratcliff`
- - Payne - `t10_gbr_pl_ratcliff`
+
+ - Safeguard - `t10_gbr_pl_ratcliff`
+
+ - My Name Is... - `t10_gbr_pl_ratcliff_bo1`
+
+ - SC1 - `t10_gbr_pl_ratcliff_code`
 
  # Marshall 
- ### base name `marshall`
- - Marshall - `t10_usa_pl_marshall`
+ ### Base name `marshall`
+
+ - Heist - `t10_usa_pl_marshall_heist`
+
+ - Stting Bull Reborn - `t10_usa_pl_marshall_bo6`
+
+ - Sandman - `t10_usa_pl_marshall_brawn`
+ 
+ # Weaver 
+ ### Base name `weaver`
+
+ - Timber - `t10_rus_pl_weaver`
+
+ - Nacht Raider - `t10_rus_pl_weaver_waw`
+
+ # Maya 
+ ### Base name `maya`
+
+ - Vengeance - `t10_phl_pl_maya`
+
+ - Specialist Fan - `t10_phl_pl_maya_battery`
+
+ - Trophy Colloctor - `t10_phl_pl_maya_terminus`
+
+ # Brutus
+ ### Base name `warden`
+
+ - Warden Of Alcatraz - `t10_usa_pl_warden`
+
+ # Klaus
+ ### Base name `dummy`
+
+ - Reborn - `t10_ger_pl_dummy`
+ 
+ # Rossi
+ ### Base name `volta `
+
+ - Covert - `t10_ita_pl_volta`
