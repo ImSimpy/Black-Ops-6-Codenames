@@ -36,7 +36,7 @@
 # MODEL L
 ### Base name `clove`
 
- Warrior's Blood - `prestige`
+- Warrior's Blood - `prestige`
 
 # XM4 
 ### Base name `coslo723`
