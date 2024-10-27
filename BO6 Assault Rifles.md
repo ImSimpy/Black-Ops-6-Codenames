@@ -13,7 +13,7 @@
 # AMES 85 
 ### Base name `able18`
  
- Classified Arsenal - `Prestige`
+ Classified Arsenal - `prestige`
 
  Plague Doctor - `vault`
 
@@ -36,7 +36,7 @@
 # MODEL L
 ### Base name `clove`
 
- Warrior's Blood - `Prestige`
+ Warrior's Blood - `prestige`
 
 # XM4 
 ### Base name `coslo723`
