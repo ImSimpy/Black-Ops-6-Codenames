@@ -16,4 +16,4 @@
 
  - Flight Path BlackCell - ` t10_pri_pl_yara_flight_blackcell`
 
- - TBA - ` t10_pri_pl_yara_tundra `
+ - N/A - ` t10_pri_pl_yara_tundra `
