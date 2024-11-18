@@ -3,8 +3,8 @@
 
  - Recon - `t10_usa_pl_bailey_sable`
 
- - Anarchist BlackCell - `N/A`
+ - Anarchist BlackCell - `10_usa_pl_bailey_vigilante_blackcell`
 
- - Anarchist - `N/A`
+ - Anarchist - `10_usa_pl_bailey_vigilante`
  
  - Art of War - `t10_usa_pl_bailey_cw`
