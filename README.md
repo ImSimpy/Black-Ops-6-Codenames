@@ -8,7 +8,7 @@
 # Help
 `Where do i go to find the asset names?`
 
-Great question just press the any `BO6` file and Press any `.md` file like BO6 Weapons or BO6 Operators 
+Great question just press the any `Folder` and Press any `.md` file like a BO6 Weapon or a BO6 Operator
 
 # Cant Find This Model
  If you cant find a Model or i forgot to add one just let me know  
