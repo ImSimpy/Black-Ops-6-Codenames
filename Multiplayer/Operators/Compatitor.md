@@ -3,7 +3,7 @@
 # COMPETITOR 
 ### Base name `N/A`
 
- - 2025 CDL Home - `N/A`'
+ - 2025 CDL Home - `N/A`
 
  - B06 Ranked Competitor - `N/A`
 
