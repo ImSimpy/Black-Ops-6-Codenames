@@ -1,5 +1,12 @@
 
 
+> [!TIP]
+> Rogue Black Ops - ` Home `
+>
+> Crimson One - `Away `
+>
+
+ 
 # COMPETITOR 
 ### Base name `N/A`
 
