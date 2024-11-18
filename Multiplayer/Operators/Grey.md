@@ -2,8 +2,8 @@
 # Grey
 ### Base name `
 
- - Frayed - `t10_gbr_pl_grey_sable_lod0`
+ - Frayed - `t10_gbr_pl_grey_sable`
 
- - Exterminator - `N/A`
+ - Exterminator - `t10_gbr_pl_grey_exterminato`
 
  - Samantha's PJs - `t10_gbr_pl_grey_pajamas`
