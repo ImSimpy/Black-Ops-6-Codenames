@@ -4,4 +4,6 @@
 
  - Ranger - `t10_tha_pl_niran_sable`
 
- -  Big Slick `N/A`
+ -  Big Slick `t10_tha_pl_niran_equipped`
+
+ -  N/A - `t10_tha_pl_niran_raccoon`
