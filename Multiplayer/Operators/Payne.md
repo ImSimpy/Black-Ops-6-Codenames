@@ -8,3 +8,4 @@
 
  - SC1 - `t10_gbr_pl_ratcliff_code`
 
+ - N/A    -  `t10_gbr_pl_ratcliff_bodyguard`
