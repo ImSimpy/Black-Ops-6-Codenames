@@ -9,3 +9,9 @@
  - The Beast Inside - `t10_pri_pl_yara_monster`
 
  - Unleash The Truth - `N/A`
+
+ - Get Bent - ` N/A `
+
+ - Flight Path - ` N/A `
+
+ - Flight Path BlackCell - ` N/A`
