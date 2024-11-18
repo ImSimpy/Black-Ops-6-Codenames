@@ -8,6 +8,6 @@
 
  - Squash - `t10_usa_pl_westpoint_squash`
 
- - Dune Wraith - `N/A`
+ - Dune Wraith - `t10_usa_pl_westpointsand`
 
- - Dragon Knight - `N/A`
+ - Dragon Knight - `t10_usa_pl_westpoint_dragon`
