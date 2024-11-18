@@ -10,8 +10,8 @@
 
  - Unleash The Truth - `N/A`
 
- - Get Bent - ` N/A `
+ - Get Bent - ` t10_pri_pl_yara_plaid `
 
- - Flight Path - ` N/A `
+ - Flight Path - ` t10_pri_pl_yara_filght `
 
- - Flight Path BlackCell - ` N/A`
+ - Flight Path BlackCell - ` t10_pri_pl_yara_flight_blackcell`
