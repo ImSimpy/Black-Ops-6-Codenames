@@ -1,5 +1,5 @@
 
 # Goliath 
-### Base name `N/A`
+### Base name `Brimstone`
 
- - GOLIATH - `N/A`
+ - GOLIATH - `t10_usa_pl_brimstone_hooded`
