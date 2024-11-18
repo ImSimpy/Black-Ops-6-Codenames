@@ -4,8 +4,8 @@
 
  - Faceless - `t10_gbr_pl_stone_sable`
 
- - Zip Tie BlackCell - `N/A`
+ - Zip Tie BlackCell - `t10_gbr_pl_stone_mobilized_blackcell`
 
- - Zip Tie - `N/A`
+ - Zip Tie - `t10_gbr_pl_stone`
 
- - Deco - `N/A`
+ - Deco - `t10_gbr_pl_stone_deco`
