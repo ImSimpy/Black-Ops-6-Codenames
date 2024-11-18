@@ -24,7 +24,7 @@ Great question just press the any `BO6` file and Press any `.md` file like BO6 W
 # Future Projects
 Games that i be getting asset names from
 
-  -
+  - N/A
 
-  -
+ 
 
