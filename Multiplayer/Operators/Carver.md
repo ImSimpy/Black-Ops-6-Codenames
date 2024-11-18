@@ -7,3 +7,5 @@
  - Tarnished - `t10_usa_pl_carver__dust`
 
  - Host - `t10_usa_pl_carver__parasstie`
+
+ -  N/A - `t10_usa_pl_carver_shark`
