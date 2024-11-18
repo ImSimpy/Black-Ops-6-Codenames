@@ -4,6 +4,6 @@
 
  - Maverick - `t10_pol_pl_bayan`
 
- - Drifter - `N/A`
+ - Drifter - `t10_pol_pl_bayan_artillery`
 
- - Drifter BlackCell - ` N/A `
+ - Drifter BlackCell - ` t10_pol_pl_bayan_artillery_blackcell `
