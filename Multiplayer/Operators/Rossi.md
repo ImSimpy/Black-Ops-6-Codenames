@@ -2,8 +2,8 @@
 # Rossi
 ### Base name `volta `
 
- - Covert - `t10_ita_pl_volta`
+ - Covert - `t10_ita_pl_volta_hike`
 
- - Mean Streets - `N/A`
+ - Mean Streets - `t10_ita_pl_volta_silent`
 
- - Volatile - `N/A`
+ - Volatile - `t10_ita_pl_volta_bit`
