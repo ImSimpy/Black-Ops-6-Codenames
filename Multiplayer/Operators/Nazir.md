@@ -6,6 +6,8 @@
 
  - Hella Chill - `t10_pak_pl_nazir_emea`
 
- - Clear Cut - `N/A`
+ - Clear Cut - `t10_pak_pl_nazir_trooper`
 
- - Slick Style `N/A`
+ - Slick Style `t10_pak_pl_nazir_shrapnal`
+
+ - N/A - `t10_pak_pl_nazir_steam`
