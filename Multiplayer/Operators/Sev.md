@@ -1,11 +1,11 @@
 
 # Sev
-### Base name ``
+### Base name `sev`
 
-- SEV - `N/A`
+- SEV - `t10_ava_pl_sev_rogue`
 
-- Sev BlackCell - ` N/A `
+- Sev BlackCell - ` t10_ava_pl_sev_rogue_blackcell `
 
-- Opulent  - ` N/A `
+- Opulent  - ` t10_ava_pl_sev_opulent `
 
-- Opulent BlackCell - ` N/A `
+- Opulent BlackCell - ` t10_ava_pl_sev_opulent_blackcell `
