@@ -4,6 +4,6 @@
 
  - Unshaken - `t10_usa_pl_carver_infiltration`
 
- - Tarnished - `N/A`
+ - Tarnished - `t10_usa_pl_carver__dust`
 
- - Host - `N/A`
+ - Host - `t10_usa_pl_carver__parasstie`
