@@ -8,23 +8,23 @@
 
  
 # COMPETITOR 
-### Base name `N/A`
+### Base name `cdl`
 
- - 2025 CDL Home - `N/A`
+ - 2025 CDL Home - `t10_usa_pl_cdl_home_base`
 
- - B06 Ranked Competitor - `N/A`
+ - B06 Ranked Competitor - `t10_usa_pl_cdl_ranked_mp_base`
 
- - Gold Competitor - `N/A`
+ - Gold Competitor - `t10_usa_pl_cdl_ranked_mp_gold`
 
- - Platinum Competitor - `N/A`
+ - Platinum Competitor - `t10_usa_pl_cdl_ranked_mp_emerald`
 
- - Diamond Competitor -  `N/A`
+ - Diamond Competitor -  `t10_usa_pl_cdl_ranked_mp_diamond`
 
- - Crimson Compatitor - `N/A`
+ - Crimson Compatitor - `t10_usa_pl_cdl_ranked_mp_crimson`
 
- - Iridescent Compatitor - `N/A`
+ - Iridescent Compatitor - `t10_usa_pl_cdl_ranked_mp_iridescent`
 
- - Top 250 Compatitor - `N/A`
+ - Top 250 Compatitor - `t10_usa_pl_cdl_ranked_mp_250`
 
- - Top 250 Champion - `N/A`
+ - Top 250 Champion - `t10_usa_pl_cdl_ranked_mp__1`
 
