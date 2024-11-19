@@ -11,5 +11,7 @@
 
  Truth Serum - `N/A`
 
+ Seaworthy Strength - `endow `
+
 
  
