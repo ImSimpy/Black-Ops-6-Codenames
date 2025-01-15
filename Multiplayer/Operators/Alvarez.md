@@ -1,19 +1,7 @@
 
-#  Alvarez    
-### Base name `yara`
+# Alvarez 
 
- - Nomad - `t10_pri_pl_yara`
+| Skin | Body | Head | Arms
+| :--: | :--: | :--: | :--: |
+| Nomad | body_c_t10_pri_pl_yara_rouge | head_c_t10_pri_pl_yara_rouge | vm_c_t10_pri_pl_yara_rouge |
 
- - Cold Trail - `N/A` 
-
- - The Beast Inside - `t10_pri_pl_yara_monster`
-
- - Unleash The Truth - `N/A`
-
- - Get Bent - ` t10_pri_pl_yara_plaid `
-
- - Flight Path - ` t10_pri_pl_yara_filght `
-
- - Flight Path BlackCell - ` t10_pri_pl_yara_flight_blackcell`
-
- - N/A - ` t10_pri_pl_yara_tundra `
