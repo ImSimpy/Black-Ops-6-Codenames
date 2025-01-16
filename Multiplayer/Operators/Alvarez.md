@@ -3,7 +3,7 @@
 | Icon | Skin | Body | Head | Arms
 | :--: | :--: | :--: | :--: | :--:
 | | | | | 
-|  | Nomad | body_c_t10_pri_pl_yara_rouge | head_c_t10_pri_pl_yara_rouge | vm_c_t10_pri_pl_yara_rouge 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/64/Alvarez_Nomad_Skin_BO6.png/revision/latest/scale-to-width-down/100?cb=20241028013534) | Nomad | body_c_t10_pri_pl_yara_rouge | head_c_t10_pri_pl_yara_rouge | vm_c_t10_pri_pl_yara_rouge 
 | | | | | 
 | |  Reverb | body_c_t10_pri_pl_yara_takedown | head_c_t10_pri_pl_yara_takedown | vm_c_t10_pri_pl_yara_takedown  
 | | | | | 
