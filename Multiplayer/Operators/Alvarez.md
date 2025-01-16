@@ -1,9 +1,9 @@
 # Alvarez 
 
-| Skin | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | |
-| Nomad | body_c_t10_pri_pl_yara_rouge | head_c_t10_pri_pl_yara_rouge | vm_c_t10_pri_pl_yara_rouge 
+| Icon | Skin | Body | Head | Arms
+| :--: | :--: | :--: | :--: | :--:
+| | | | | 
+|  | Nomad | body_c_t10_pri_pl_yara_rouge | head_c_t10_pri_pl_yara_rouge | vm_c_t10_pri_pl_yara_rouge 
 | | | |
 | Reverb | body_c_t10_pri_pl_yara_takedown | head_c_t10_pri_pl_yara_takedown | vm_c_t10_pri_pl_yara_takedown  
 | | | |
