@@ -1,4 +1,4 @@
-# klaus
+# Klaus
 
 | Icon  | Body | Head | Arms
 | :--: | :--: | :--: | :--:
