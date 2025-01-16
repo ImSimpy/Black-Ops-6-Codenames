@@ -13,7 +13,7 @@
 | | | | | 
 | ![Preview]() |  Unleash The Truth | body_c_t10_pri_pl_yara_monster | head_c_t10_pri_pl_yara_monster | vm_c_t10_pri_pl_yara_monster
 | | | | | 
-| ![Preview]() | Get Bent | body_c_t10_pri_pl_yara_plaid| head_c_t10_pri_pl_yara_plaid | vm_c_t10_pri_pl_yara_plaid
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/40/Alvarez_Get_Bent_Skin_BO6.png/revision/latest/scale-to-width-down/100?cb=20241119185600) | Get Bent | body_c_t10_pri_pl_yara_plaid| head_c_t10_pri_pl_yara_plaid | vm_c_t10_pri_pl_yara_plaid
 | | | | | 
 | ![Preview]() | Flight Path| body_c_t10_pri_pl_yara_filght | head_c_t10_pri_pl_yara_filght | vm_c_t10_pri_pl_yara_filght
 | | | | | 
