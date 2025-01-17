@@ -1,4 +1,4 @@
- #  Bayan
+ #  Witold Bayan
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
