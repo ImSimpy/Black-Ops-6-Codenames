@@ -1,3 +1,4 @@
+ # Masked VIPs
  > [!IMPORTANT]
  > In Cordycep
  > 
@@ -7,7 +8,6 @@
  >
 
 
-# Masked VIPs
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
