@@ -1,4 +1,4 @@
-# Grey
+# Elizabeth Grey
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
