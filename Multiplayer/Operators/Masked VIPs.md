@@ -1,7 +1,7 @@
  > [!IMPORTANT]
  > In Cordycep
  > 
- >`Lion VIP - Loadwc *nazir_grim*`
+ > `Lion VIP - Loadwc *nazir_grim*`
  >
  > `Panther VIP - Loadwc *ratcliff_banshee*`
  >
