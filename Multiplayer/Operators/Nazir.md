@@ -16,4 +16,3 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Nazir_SlickStyle_Skin_BO6.png/revision/latest?cb=20241119185611) <br>Slick Style | body_c_t10_pak_pl_nazir_shrapnel | head_c_t10_pak_pl_nazir_shrapnel | vm_c_t10_pak_pl_nazir_shrapnel
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel <br>_blackcell | head_c_t10_pak_pl_nazir_shrapnel <br>_blackcell | vm_c_t10_pak_pl_nazir_shrapnel <br>_blackcell
-| | | | | 
