@@ -1,4 +1,4 @@
-# Nazir
+# Hasib Nazir
 
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
