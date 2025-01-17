@@ -12,4 +12,3 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/64/Grey_Vocator_Skin_BO6.png/revision/latest?cb=20241211224448) <br>Vocator | body_c_t10_gbr_pl_grey_rune | head_c_t10_gbr_pl_grey_rune | vm_c_t10_gbr_pl_grey_rune |
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Astro-Chick | body_c_t10_gbr_pl_grey_doa | head_c_t10_gbr_pl_grey_doa | vm_c_t10_gbr_pl_grey_doa |
-| | | | | 
