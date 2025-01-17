@@ -1,4 +1,4 @@
- #  Weaver
+ #  Grigori Weaver
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
