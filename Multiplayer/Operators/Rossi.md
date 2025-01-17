@@ -1,4 +1,4 @@
- #  Rossi
+ #  Volta Rossi
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
