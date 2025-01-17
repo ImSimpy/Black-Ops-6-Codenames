@@ -1,4 +1,4 @@
- #  Maya
+ #  Maya Aguinaldo
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
