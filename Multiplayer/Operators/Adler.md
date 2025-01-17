@@ -1,4 +1,4 @@
-# Adler
+# Russel Adler
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
