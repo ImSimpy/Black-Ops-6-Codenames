@@ -1,4 +1,4 @@
-# Alvarez 
+# Nazir
 
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
