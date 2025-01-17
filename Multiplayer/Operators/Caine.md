@@ -1,4 +1,4 @@
- #  Caine
+ # Jackson Caine
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
