@@ -16,4 +16,3 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Marshall_Attrition_Skin_BO6.png/revision/latest?cb=20241201225800) <br>Attrition | body_c_t10_usa_pl_marshall_cyborg | head_c_t10_usa_pl_marshall_cyborg | vm_c_t10_usa_pl_marshall_cyborg |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d2/Marshall_Irradiated_Skin_BO6.png/revision/latest?cb=20250115220408) <br>Irradiated | body_c_t10_usa_pl_marshall_xray | head_c_t10_usa_pl_marshall_xray | vm_c_t10_usa_pl_marshall_xray |
-| | | | | 
