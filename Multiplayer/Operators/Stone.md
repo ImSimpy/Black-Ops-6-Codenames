@@ -1,4 +1,4 @@
-# Stone
+# Harry Stone
 
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
