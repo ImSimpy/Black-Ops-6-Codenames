@@ -12,4 +12,3 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f7/Caine_RideNDie_Skin_BO6.png/revision/latest?cb=20250115220407) <br>Ride-N-Die |  body_c_t10_usa_pl_caine_biker  | head_c_t10_usa_pl_caine_biker | vm_c_t10_usa_pl_caine_biker | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ec/Caine_TheBull_Skin_BO6.png/revision/latest?cb=20241120221835) <br>The Bull | body_c_t10_usa_pl_caine_longhorn  | head_c_t10_usa_pl_caine_longhorn | vm_c_t10_usa_pl_caine_longhorn | 
-| | | | | 
