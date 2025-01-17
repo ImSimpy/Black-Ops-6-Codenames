@@ -1,4 +1,4 @@
-# Marshall
+# Troy Marshall
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
