@@ -1,4 +1,4 @@
- #  Bailey
+ #  Tess Bailey
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
