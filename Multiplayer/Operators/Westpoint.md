@@ -1,4 +1,4 @@
-# Westpoint
+# Tamira "Westpoint" Chambers
 
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
