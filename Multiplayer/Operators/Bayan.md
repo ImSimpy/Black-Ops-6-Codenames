@@ -13,4 +13,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell| 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>unknown  | body_c_t10_pol_pl_bayan_red  | head_c_t10_pol_pl_bayan_red | vm_c_t10_pol_pl_bayan_red | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Cauterize  | body_c_t10_pol_pl_bayan_red  | head_c_t10_pol_pl_bayan_red | vm_c_t10_pol_pl_bayan_red | 
