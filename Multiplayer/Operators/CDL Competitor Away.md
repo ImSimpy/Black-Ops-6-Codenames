@@ -29,7 +29,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2a/TorontoUltra_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105935) <br>Toronto Ultra  | body_c_t10_usa_pl_cdl_away_ultra | head_c_t10_usa_pl_cdl_away_ultra | vm_c_t10_usa_pl_cdl_away_ultra |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d7/VancouverSurge_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105937) <br>Vancouver Surge | body_c_t10_usa_pl_cdl_awaye_surge | head_c_t10_usa_pl_cdl_away_surge | vm_c_t10_usa_pl_cdl_away_surge | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d7/VancouverSurge_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105937) <br>Vancouver Surge | body_c_t10_usa_pl_cdl_away_surge | head_c_t10_usa_pl_cdl_away_surge | vm_c_t10_usa_pl_cdl_away_surge | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f1/VegasFalcons_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105938) <br>Vegas Falcons | body_c_t10_usa_pl_cdl_away_falcons | head_c_t10_usa_pl_cdl_away_falcons | vm_c_t10_usa_pl_cdl_away_falcons | 
 
