@@ -1,7 +1,7 @@
 # CDL Rogue Black Ops Competitor (Home)
 
  > [!Tip] 
- > > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Open - [CDL Competitor Away](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Away.md)!
+ > > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Visit - [CDL Competitor Away](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Away.md)!
  >
 > > If you are searching for *WARZONE* CDL Operator Skins, Visit [CDL Competitor Warzone](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Away.md)
  
