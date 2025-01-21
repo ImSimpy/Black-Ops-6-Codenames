@@ -33,7 +33,6 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f1/VegasFalcons_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105938) <br>Vegas Falcons | body_c_t10_usa_pl_cdl_away_falcons | head_c_t10_usa_pl_cdl_away_falcons | vm_c_t10_usa_pl_cdl_away_falcons | 
 
-
 # Call of Duty League Competitor Ranked
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
