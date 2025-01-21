@@ -1,7 +1,7 @@
 # CDL Warzone Competitor (Home)
 
  > [!Tip] 
- > > ### If you are searching for the *MULTIPLAYER* CDL Operator Skins:
+ >  ### If you are searching for the *MULTIPLAYER* CDL Operator Skins:
  > >  *Open [Competitor Away](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Away.md) or [Competitor Home](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Home.md)!*
  >
  
