@@ -1,7 +1,7 @@
-# Call of Duty League Competitor (Away)
+# CDL Crimson One Competitor (Away)
 
  > [!Tip] 
- > ### *If you are looking for the* Rogue Black ops *(Home) Operators, Open [placeholder filename]!*
+ > > ### If you are looking for the *'ROGUE BLACK OPS'* Operator Skins, Open [CDL Competitor Home](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Home.md)!
  >
  
 | Icon | Body | Head | Arms
