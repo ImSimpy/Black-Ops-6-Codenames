@@ -1,7 +1,7 @@
-# Call of Duty League Competitor (Home)
+# CDL Rogue Black Ops Competitor (Home)
 
  > [!Tip] 
- > ### *If you are looking for the* Crimson One *(Away) Operators, Open [placeholder filename]!*
+ > > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Open [CDL Competitor Away](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Away.md)!
  >
  
 | Icon | Body | Head | Arms
@@ -30,6 +30,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/db/TorontoUltra_Home_Competitor_Skin_BO6.png/revision/latest?cb=20250111105936) <br>Toronto Ultra  | body_c_t10_usa_pl_cdl_home_ultra | head_c_t10_usa_pl_cdl_home_ultra | vm_c_t10_usa_pl_cdl_home_ultra |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ee/VancouverSurge_Home_Competitor_Skin_BO6.png/revision/latest?cb=20250111105937) <br>Vancouver Surge | body_c_t10_usa_pl_cdl_home_surge | head_c_t10_usa_pl_cdl_home_surge | vm_c_t10_usa_pl_cdl_home_surge | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/03/VegasFalcons_Home_Competitor_Skin_BO6.png/revision/latest?cb=20250111105939) <br>Vegas Falcons | body_c_t10_usa_pl_cdl_home_falcons | head_c_t10_usa_pl_cdl_home_falcons | vm_c_t10_usa_pl_cdl_home_falcons | 
 
 # Call of Duty League Competitor Ranked
 | Icon | Body | Head | Arms
