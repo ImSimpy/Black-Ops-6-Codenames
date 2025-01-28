@@ -1,8 +1,12 @@
 # 𝐁𝐥𝐚𝐜𝐤 𝐎𝐩𝐬 𝟔 𝐂𝐨𝐝𝐞𝐧𝐚𝐦𝐞𝐬 
  
- > [!IMPORTANT]
- > This archive will be Under Construction for the Season 2 update.
- > 
+> [!IMPORTANT]
+> This archive will be under construction immediately after the Season 2 update!
+>
+>  `Nothing will be affected, only added!` 😁👍
+>
+> - Gealuvuh
+> 
 
 > [!TIP]
 > 
