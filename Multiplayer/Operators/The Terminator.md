@@ -1,8 +1,4 @@
 # The Terminator
-> [!Important]
-> This is Under Construction, it will be finished shortly.
-> 
-
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
