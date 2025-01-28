@@ -1,13 +1,5 @@
 # 𝐁𝐥𝐚𝐜𝐤 𝐎𝐩𝐬 𝟔 𝐂𝐨𝐝𝐞𝐧𝐚𝐦𝐞𝐬 
  
-> [!IMPORTANT]
-> This archive will be under construction immediately after the Season 2 update!
->
->  `Nothing will be affected, only added!` 😁👍
->
-> - Gealuvuh
-> 
-
 > [!TIP]
 > 
 >𝐁𝐎𝟔 𝐟𝐢𝐥𝐞 𝐧𝐚𝐦𝐞𝐬 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐡𝐚𝐯𝐞 𝐚 `𝐭𝟏𝟎` 𝐢𝐧 𝐭𝐡𝐞𝐢𝐫 𝐟𝐢𝐥𝐞 𝐧𝐚𝐦𝐞.
