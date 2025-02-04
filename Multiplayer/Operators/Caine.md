@@ -13,4 +13,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ec/Caine_TheBull_Skin_BO6.png/revision/latest?cb=20241120221835) <br>The Bull | body_c_t10_usa_pl_caine_longhorn  | head_c_t10_usa_pl_caine_longhorn | vm_c_t10_usa_pl_caine_longhorn | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Falconer | body_c_t10  | head_c_t10 | vm_c_t10 | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6838c300f398fa6f7c1234853cdd82c1e347ec4b79c3869e58f8d6cedac61136e_large.webp) <br>No Love | body_c_t10_usa_pl_caine_single  | head_c_t10_usa_pl_caine_single | vm_c_t10_usa_pl_caine_single | 
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6b3713b1a7d1ed36ef3435d4998f03af58cd165be9ef562e05e56153688386e2f_large.webp) <br>Falconer | body_c_t10_usa_pl_caine_cleaver  | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_judo  | head_c_t10_usa_pl_judo | vm_c_t10_usa_pl_caine_judo | 
