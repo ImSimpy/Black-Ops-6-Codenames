@@ -17,4 +17,4 @@
 | | | | | 
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6b3713b1a7d1ed36ef3435d4998f03af58cd165be9ef562e05e56153688386e2f_large.webp) <br>Falconer | body_c_t10_usa_pl_caine_cleaver  | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_judo  | head_c_t10_usa_pl_judo | vm_c_t10_usa_pl_caine_judo | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Caine_Swordmaster_Skin_BO6.png/revision/latest?cb=20250201180615) <br>Swordmaster | body_c_t10_usa_pl_judo  | head_c_t10_usa_pl_judo | vm_c_t10_usa_pl_caine_judo | 
