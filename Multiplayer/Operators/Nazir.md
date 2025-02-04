@@ -9,6 +9,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b8/Nazir_ClearCut_Skin_BO6.png/revision/latest?cb=20241119185610) <br>Clear Cut | body_c_t10_pak_pl_nazir_trooper | head_c_t10_pak_pl_nazir_trooper | vm_c_t10_pak_pl_nazir_trooper
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo64199aac5d5385aa4d9c6be61479e002e114ce2429ac000ea598d8fd7236b0a2d_large.webp) <br>Haxor | body_c_t10_pak_pl_nazir_hacker | head_c_t10_pak_pl_nazir_hacker | vm_c_t10_pak_pl_nazir_hacker
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Nazir_Dapper_Skin_BO6.png/revision/latest?cb=20241211224450) <br>Dapper | body_c_t10_pak_pl_nazir_robber | head_c_t10_pak_pl_nazir_robber | vm_c_t10_pak_pl_nazir_robber
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/30/Nazir_Merciless_Skin_BO6.png/revision/latest?cb=20241129224912) <br>Merciless | body_c_t10_pak_pl_nazir_steam | head_c_t10_pak_pl_nazir_steam | vm_c_t10_pak_pl_nazir_steam
