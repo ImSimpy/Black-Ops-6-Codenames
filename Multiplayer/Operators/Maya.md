@@ -16,3 +16,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/ce/Maya_Joyride_Skin_BO6.png/revision/latest?cb=20250111010301) <br>Joyride | body_c_t10_phl_pl_maya_rebel | head_c_t10_phl_pl_maya_rebel | vm_c_t10_phl_pl_maya_rebel | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a4/Maya_Player115_Skin_BO6.png/revision/latest?cb=20250103235852) <br>Player 115 | body_c_t10_phl_pl_maya_spirit | head_c_t10_phl_pl_maya_spirit | vm_c_t10_phl_pl_maya_spirit | 
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6207a0dd1ac538b82cf9d47743b5a3d93f7afd85843cc933ecdbfdaaf3646bfe2_large.webp) <br>Aetherella | body_c_t10_phl_pl_maya_aether | head_c_t10_phl_pl_maya_aether | vm_c_t10_phl_pl_maya_aether | 
