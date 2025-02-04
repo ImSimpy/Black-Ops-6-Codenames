@@ -9,6 +9,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e1/Niran_BigSlick_Skin_BO6.png/revision/latest?cb=20241119185612) <br>Big Slick | body_c_t10_tha_pl_niran_equipped | head_c_t10_tha_pl_niran_equipped | vm_c_t10_tha_pl_niran_equipped 
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo64199aac5d5385aa4d9c6be61479e002e114ce2429ac000ea598d8fd7236b0a2d_large.webp) <br>Haxor | body_c_t10_pak_pl_nazir_hacker | head_c_t10_pak_pl_nazir_hacker | vm_c_t10_pak_pl_nazir_hacker
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/49/Niran_Player006_Skin_BO6.png/revision/latest?cb=20250103235853) <br>Player 006 | body_c_t10_tha_pl_niran_ghoul | head_c_t10_tha_pl_niran_ghoul | vm_c_t10_tha_pl_niran_ghoul
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Niran_RaccoonGoon_Skin_BO6.png/revision/latest?cb=20241126214919) <br>Raccoon Goon | body_c_t10_tha_pl_niran_raccoon | head_c_t10_tha_pl_niran_raccoon | vm_c_t10_tha_pl_niran_raccoon
