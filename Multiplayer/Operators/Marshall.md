@@ -13,6 +13,14 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/18/Marshall_Watchdog_Skin_BO6.png/revision/latest?cb=20250111010300) <br>Watchdog | body_c_t10_usa_pl_marshall_swat | head_c_t10_usa_pl_marshall_swat | vm_c_t10_usa_pl_marshall_swat |
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/01/Marshall_Sleetburn_Skin_BO6.png/revision/latest?cb=20250201180627) <br>Sleetburn| body_c_t10_usa_pl_marshall_melted| head_c_t10_usa_pl_marshall_melted | vm_c_t10_usa_pl_marshall_melted |
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Marshall_Attrition_Skin_BO6.png/revision/latest?cb=20241201225800) <br>Attrition | body_c_t10_usa_pl_marshall_cyborg | head_c_t10_usa_pl_marshall_cyborg | vm_c_t10_usa_pl_marshall_cyborg |
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Marshall_Unseen_Skin_BO6.png/revision/latest?cb=20250201180629) <br>Unseen | body_c_t10_usa_pl_marshall_strips | head_c_t10_usa_pl_marshall_strips | vm_c_t10_usa_pl_marshall_strips |
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d2/Marshall_Irradiated_Skin_BO6.png/revision/latest?cb=20250115220408) <br>Irradiated | body_c_t10_usa_pl_marshall_xray | head_c_t10_usa_pl_marshall_xray | vm_c_t10_usa_pl_marshall_xray |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a5/Marshall_Kingmaker_Skin_BO6.png/revision/latest?cb=20250201180626) <br>Kingmaker | body_c_t10_usa_pl_marshall_breaker | head_c_t10_usa_pl_marshall_breaker | vm_c_t10_usa_pl_marshall_breaker |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Marshall_HitmakerBlackCell_Skin_BO6.png/revision/latest?cb=20250201180625) <br>Hitmaker | body_c_t10_usa_pl_marshall_samurai| head_c_t10_usa_pl_marshall_samurai | vm_c_t10_usa_pl_marshall_samurai |
