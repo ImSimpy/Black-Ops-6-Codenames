@@ -11,9 +11,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Nazir_Dapper_Skin_BO6.png/revision/latest?cb=20241211224450) <br>Dapper | body_c_t10_pak_pl_nazir_robber | head_c_t10_pak_pl_nazir_robber | vm_c_t10_pak_pl_nazir_robber
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo62cec77e53cec3fabd0c3a3b8fcbd9c4a0558709115f9da6dbc5fd2ccb8958d0c_large.webp) <br>Sleet | body_c_t10_tha_pl_niran_frost | head_c_t10_tha_pl_niran_frost | vm_c_t10_tha_pl_niran_frost
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo62cec77e53cec3fabd0c3a3b8fcbd9c4a0558709115f9da6dbc5fd2ccb8958d0c_large.webp) <br>Sleet | body_c_t10_tha_pl_nazir_frost | head_c_t10_tha_pl_niran_frost | vm_c_t10_tha_pl_niran_frost
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1a/Nazir_GoldDipped_Skin_BO6.png/revision/latest?cb=20250201180630) <br>Gold Dipped| body_c_t10_tha_pl_niran_crimson | head_c_t10_tha_pl_niran_crimson | vm_c_t10_tha_pl_niran_crimson
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1a/Nazir_GoldDipped_Skin_BO6.png/revision/latest?cb=20250201180630) <br>Gold Dipped| body_c_t10_tha_pl_nazir_crimson | head_c_t10_tha_pl_niran_crimson | vm_c_t10_tha_pl_niran_crimson
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/30/Nazir_Merciless_Skin_BO6.png/revision/latest?cb=20241129224912) <br>Merciless | body_c_t10_pak_pl_nazir_steam | head_c_t10_pak_pl_nazir_steam | vm_c_t10_pak_pl_nazir_steam
 | | | | | 
