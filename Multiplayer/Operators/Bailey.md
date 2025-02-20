@@ -7,9 +7,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fe/Bailey_Art_Of_War_Skin_BO6.png/revision/latest?cb=20241028013542) <br>Art Of War | body_c_t10_usa_pl_bailey_cw | head_c_t10_usa_pl_bailey_cw | vm_c_t10_usa_pl_bailey_cw | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6108a1e4697df40eef7a7a22cbf0d649c4b2f7eefb370ee33a759ee76d7b2a6c1_large.webp) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_fatale | head_c_t10_usa_pl_bailey_fatale | vm_c_t10_usa_pl_bailey_fatale | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2f/Bailey_SmokingGun_Skin_BO6.png/revision/latest?cb=20250213213912) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_fatale | head_c_t10_usa_pl_bailey_fatale | vm_c_t10_usa_pl_bailey_fatale | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo638b0d7f53b5dafc7c231f2e91cadead0a15edab92df316d94393bcec6846e82f_large.webp) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_space | head_c_t10_usa_pl_bailey_space | vm_c_t10_usa_pl_bailey_space | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo638b0d7f53b5dafc7c231f2e91cadead0a15edab92df316d94393bcec6846e82f_large.webp) <br>Velocity  | body_c_t10_usa_pl_bailey_space | head_c_t10_usa_pl_bailey_space | vm_c_t10_usa_pl_bailey_space | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
 | | | | | 
