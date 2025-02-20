@@ -19,4 +19,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/89/Maya_Aetherella_Skin_BO6.png/revision/latest?cb=20250214005951) <br>Aetherella | body_c_t10_phl_pl_maya_aether | head_c_t10_phl_pl_maya_aether | vm_c_t10_phl_pl_maya_aether | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Crimson Chaos | body_c_t10_phl_pl_maya_chaos | head_c_t10_phl_pl_maya_chaos | vm_c_t10_phl_pl_maya_chaos | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo61427622e6f91f6e0430e0163d3cf42a7fd4e1e872f7e2fcc35601e0caeda37ac_large.webp) <br>Crimson Chaos | body_c_t10_phl_pl_maya_chaos | head_c_t10_phl_pl_maya_chaos | vm_c_t10_phl_pl_maya_chaos | 
