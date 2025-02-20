@@ -11,4 +11,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8c/Sev_Opulent_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185615) <br>Opulent Blackcell |  body_c_t10_ava_pl_sev_opulent<br>_blackcell  | head_c_t10_ava_pl_sev_opulent<br>_blackcell | vm_c_t10_ava_pl_sev_opulent<br>_blackcell | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo61cd1e2bc96eef22a0a7e33fd6551c7d9e012f2a1c30ca91308efae88f8057004_large.webp) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Sev_Paradox_Skin_BO6.png/revision/latest?cb=20250201180638) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
