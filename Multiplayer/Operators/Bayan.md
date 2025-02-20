@@ -19,4 +19,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell| 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/93/Bayan_BlackDiamond_Skin_BO6.png/revision/latest?cb=20250213213914) <br>Black Diamond  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
