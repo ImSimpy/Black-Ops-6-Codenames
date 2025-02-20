@@ -15,4 +15,4 @@
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>unknown | body_c_t10_gbr_pl_ratcliff_banshee  | head_c_t10_gbr_pl_ratcliff_banshee | vm_c_t10_gbr_pl_ratcliff_banshee | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>unknown  | body_c_t10_gbr_pl_ratcliff_wizard  | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6e267d52cb42e045089186cc581d5ca786edb65351d3d93d409ad160f38b5bff9_large.webp) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard  | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
