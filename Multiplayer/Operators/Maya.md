@@ -18,3 +18,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a4/Maya_Player115_Skin_BO6.png/revision/latest?cb=20250103235852) <br>Player 115 | body_c_t10_phl_pl_maya_spirit | head_c_t10_phl_pl_maya_spirit | vm_c_t10_phl_pl_maya_spirit | 
 | | | | | 
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6207a0dd1ac538b82cf9d47743b5a3d93f7afd85843cc933ecdbfdaaf3646bfe2_large.webp) <br>Aetherella | body_c_t10_phl_pl_maya_aether | head_c_t10_phl_pl_maya_aether | vm_c_t10_phl_pl_maya_aether | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Crimson Chaos | body_c_t10_phl_pl_maya_chaos | head_c_t10_phl_pl_maya_chaos | vm_c_t10_phl_pl_maya_chaos | 
