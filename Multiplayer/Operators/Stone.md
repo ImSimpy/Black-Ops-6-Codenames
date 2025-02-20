@@ -18,3 +18,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_ShadowWork_Skin_BO6.png/revision/latest?cb=20250201180639) <br>Shadow Work | body_c_t10_gbr_pl_stone_scorn | head_c_t10_gbr_pl_stone_scorn | vm_c_t10_gbr_pl_stone_scorn
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/34/Stone_ShadowWorkBlackCell_Skin_BO6.png/revision/latest?cb=20250201180640) <br>Shadow Work BlackCell | body_c_t10_gbr_pl_stone_valor | head_c_t10_gbr_pl_stone_valor | vm_c_t10_gbr_pl_stone_valor
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro
