@@ -15,4 +15,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b2/Westpoint_Sinslayer_Skin_BO6.png/revision/latest?cb=20250214011055) <br>Sinslayer | body_c_t10_usa_pl_westpoint_oracle | head_c_t10_usa_pl_westpoint_oracle | vm_c_t10_usa_pl_westpoint_oracle
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66106f3b4e1c804717663834e000e6c737c0763f67c551cee60636f0ea22243c6_large.webp) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
