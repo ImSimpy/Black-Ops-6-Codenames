@@ -20,3 +20,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Toro_FlowState_Skin_BO6.png/revision/latest?cb=20250201180644) <br>Flow State | body_c_t10_arg_pl_alejo_foil  | head_c_t10_arg_pl_alejo_foil | vm_c_t10_arg_pl_alejo_foil | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c8/Toro_FlowStateBlackCell_Skin_BO6.png/revision/latest?cb=20250201180646) <br>Flow State BlackCell | body_c_t10_arg_pl_alejo_sabre  | head_c_t10_arg_pl_alejo_sabre | vm_c_t10_arg_pl_alejo_sabre | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
