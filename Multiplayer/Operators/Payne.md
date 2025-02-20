@@ -12,3 +12,7 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Payne_Fixer_Skin_BO6.png/revision/latest?cb=20241119221807) <br>Fixer  | body_c_t10_gbr_pl_ratcliff_bodyguard | head_c_t10_gbr_pl_ratcliff_bodyguard | vm_c_t10_gbr_pl_ratcliff_bodyguard |  
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo  | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>unknown | body_c_t10_gbr_pl_ratcliff_banshee  | head_c_t10_gbr_pl_ratcliff_banshee | vm_c_t10_gbr_pl_ratcliff_banshee | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>unknown  | body_c_t10_gbr_pl_ratcliff_wizard  | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
