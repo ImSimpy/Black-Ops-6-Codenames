@@ -11,7 +11,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Nazir_Dapper_Skin_BO6.png/revision/latest?cb=20241211224450) <br>Dapper | body_c_t10_pak_pl_nazir_robber | head_c_t10_pak_pl_nazir_robber | vm_c_t10_pak_pl_nazir_robber
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/71/Nazir_Mongoose_Skin_BO6.png/revision/latest?cb=20250213213917) <br>Mongoose | body_c_t10_tha_pl_nazir_nights | head_c_t10_tha_pl_niran_nights | vm_c_t10_tha_pl_niran_nights
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/71/Nazir_Mongoose_Skin_BO6.png/revision/latest?cb=20250213213917) <br>Mongoose | body_c_t10_tha_pl_nazir_grim | head_c_t10_tha_pl_niran_grim | vm_c_t10_tha_pl_niran_grim
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1a/Nazir_GoldDipped_Skin_BO6.png/revision/latest?cb=20250201180630) <br>Gold Dipped| body_c_t10_tha_pl_nazir_crimson | head_c_t10_tha_pl_niran_crimson | vm_c_t10_tha_pl_niran_crimson
 | | | | | 
@@ -21,4 +21,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel <br>_blackcell | head_c_t10_pak_pl_nazir_shrapnel <br>_blackcell | vm_c_t10_pak_pl_nazir_shrapnel <br>_blackcell
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown| body_c_t10_pak_pl_nazir_grim | head_c_t10_pak_pl_nazir_grim | vm_c_t10_pak_pl_nazir_grim
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown| body_c_t10_pak_pl_nazir_nights | head_c_t10_pak_pl_nazir_nights | vm_c_t10_pak_pl_nazir_nights 
