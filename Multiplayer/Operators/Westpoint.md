@@ -14,3 +14,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/92/Westpoint_DuneWraith_Skin_BO6.png/revision/latest?cb=20241119185623) <br>Dune Wraith | body_c_t10_usa_pl_westpoint_sand | head_c_t10_usa_pl_westpoint_sand | vm_c_t10_usa_pl_westpoint_sand
 | | | | | 
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66109f23b3a348c3dc419f637bbd5506ddcd99c697c427b7bf541b38508c5b78b_large.webp) <br>Sinslayer | body_c_t10_usa_pl_westpoint_oracle | head_c_t10_usa_pl_westpoint_oracle | vm_c_t10_usa_pl_westpoint_oracle
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
