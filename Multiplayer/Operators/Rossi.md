@@ -18,3 +18,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f1/Volta_Gunsmoke_Skin_BO6.png/revision/latest?cb=20250201180648) <br>Gunsmoke | body_c_t10_ita_pl_volta_commando | head_c_t10_ita_pl_volta_commando | vm_c_t10_ita_pl_volta_commando |  
 | | | | |  
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Volta_GunsmokeBlackCell_Skin_BO6.png/revision/latest?cb=20250201180650) <br>Gunsmoke Blackcell | body_c_t10_ita_pl_volta_shroud | head_c_t10_ita_pl_volta_shroud | vm_c_t10_ita_pl_volta_shroud |  
+| | | | |  
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_ita_pl_volta_joke | head_c_t10_ita_pl_volta_joke | vm_c_t10_ita_pl_volta_joke |  
