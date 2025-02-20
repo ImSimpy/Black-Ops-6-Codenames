@@ -21,4 +21,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9a/Alvarez_Flight_Path_Skin_BO6.png/revision/latest?cb=20241119185559) <br>Flight Path| body_c_t10_pri_pl_yara_flight | head_c_t10_pri_pl_yara_flight | vm_c_t10_pri_pl_yara_flight
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_pri_pl_yara_cdl | head_c_t10_pri_pl_yara_cdl| vm_c_t10_pri_pl_yara_cdl 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_pri_pl_yara_disk  | head_c_t10_pri_pl_yara_disk | vm_c_t10_pri_pl_yara_disk 
