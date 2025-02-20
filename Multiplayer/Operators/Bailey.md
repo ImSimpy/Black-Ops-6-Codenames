@@ -20,4 +20,5 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell | 
-
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
