@@ -13,6 +13,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
 | | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_AllSmiles_Skin_BO6.png/revision/latest?cb=20241226225705) <br>All Smiles | body_c_t10_usa_pl_bailey_positive | head_c_t10_usa_pl_bailey_positive | vm_c_t10_usa_pl_bailey_positive | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/79/Bailey_Aero_Skin_BO6.png/revision/latest?cb=20241218224607) <br>Aero | body_c_t10_usa_pl_bailey_mech | head_c_t10_usa_pl_bailey_mech | vm_c_t10_usa_pl_bailey_mech | 
@@ -20,5 +22,3 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell | 
-| | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
