@@ -3,6 +3,10 @@
 | Icon | Body |
 | :--: | :--: | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d0/Adler_Umbra_Skin_BO6.png/revision/latest?cb=20241119185549) <br> Default |  | 
+|  <br> Default |  | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br> | |
+| ![skateboard](https://github.com/user-attachments/assets/ac95d7be-38f7-4693-a76b-483db32fd482) <br> | |
+
+
+
+
