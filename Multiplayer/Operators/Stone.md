@@ -19,4 +19,4 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/34/Stone_ShadowWorkBlackCell_Skin_BO6.png/revision/latest?cb=20250201180640) <br>Shadow Work BlackCell | body_c_t10_gbr_pl_stone_valor | head_c_t10_gbr_pl_stone_valor | vm_c_t10_gbr_pl_stone_valor
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo62ab80df500b2ec6ce3cadcfbaabb07b891d5b851b324acdf6559a0e0431acfa8_large.webp) <br>Siphon | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d8/Stone_Siphon_Skin_BO6.png/revision/latest?cb=20250227234727) <br>Siphon | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro
