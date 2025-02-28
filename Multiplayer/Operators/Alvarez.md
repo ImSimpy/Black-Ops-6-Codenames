@@ -9,7 +9,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7b/Alvarez_Reverb_Skin_BO6.png/revision/latest?cb=20241220174629) <br>Reverb | body_c_t10_pri_pl_yara_takedown | head_c_t10_pri_pl_yara_takedown | vm_c_t10_pri_pl_yara_takedown  
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo643d4dd18c5ae2de629f04c161cf25857215dce11de0b779aa99c2e7ee45fbf80_large.webp) <br>Vacation Vibes | body_c_t10_pri_pl_yara_cdl | head_c_t10_pri_pl_yara_cdl| vm_c_t10_pri_pl_yara_cdl 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a8/Alvarez_VacationVibes_Skin_BO6.png/revision/latest?cb=20250223214950) <br>Vacation Vibes | body_c_t10_pri_pl_yara_cdl | head_c_t10_pri_pl_yara_cdl| vm_c_t10_pri_pl_yara_cdl 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/18/Alvarez_Cruiser_Skin_BO6.png/revision/latest?cb=20241128214954) <br>Cruiser | body_c_t10_pri_pl_yara_tundra | head_c_t10_pri_pl_yara_tundra | vm_c_t10_pri_pl_yara_tundra
 | | | | | 
