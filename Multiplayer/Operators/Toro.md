@@ -13,7 +13,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/32/Toro_DaddyClaus_Skin_BO6.png/revision/latest?cb=20241220174632) <br>Daddy Claus | body_c_t10_arg_pl_alejo_santa | head_c_t10_arg_pl_alejo_santa | vm_c_t10_arg_pl_alejo_santa |  
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/Toro_UndeadFootClan_Skin_BO6.png/revision/latest?cb=20250227234728) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/07/Toro_ToyMan_Skin_BO6.png/revision/latest?cb=20241226225715) <br>Toy Man | body_c_t10_arg_pl_alejo_action  | head_c_t10_arg_pl_alejo_action | vm_c_t10_arg_pl_alejo_action | 
 | | | | | 
