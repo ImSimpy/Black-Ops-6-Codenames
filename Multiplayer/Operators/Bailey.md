@@ -13,7 +13,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_AllSmiles_Skin_BO6.png/revision/latest?cb=20241226225705) <br>All Smiles | body_c_t10_usa_pl_bailey_positive | head_c_t10_usa_pl_bailey_positive | vm_c_t10_usa_pl_bailey_positive | 
 | | | | | 
