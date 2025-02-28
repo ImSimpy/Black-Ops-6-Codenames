@@ -11,7 +11,7 @@
 | | | | | 
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo625982284e7b57bbc832a673d812c38ce84cbbd5f39a17a091084facbf991775d_large.webp) <br>Michelangelo | body_c_t10_usa_pl_jay_base_mld | head_c_t10_usa_pl_jay_base  | vm_c_t10_usa_pl_jay_base |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Splinter | body_c_t10_usa_pl_buck_base | head_c_t10_usa_pl_buck_base | vm_c_t10_usa_pl_buck_base |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a2/Splinter_Default_Skin_BO6.png/revision/latest?cb=20250227234726) <br>Splinter | body_c_t10_usa_pl_buck_base | head_c_t10_usa_pl_buck_base | vm_c_t10_usa_pl_buck_base |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
 | | | | | 
