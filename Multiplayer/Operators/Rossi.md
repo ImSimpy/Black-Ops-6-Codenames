@@ -13,7 +13,7 @@
 | | | | |  
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3e/Volta_Volatile_Skin_BO6.png/revision/latest?cb=20241119185620) <br>Volatile  | body_c_t10_ita_pl_volta_bite | head_c_t10_ita_pl_volta_bite | vm_c_t10_ita_pl_volta_bite | 
 | | | | |  
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6b0339ee1f7d089e7d176484251edfd18167fd8741d4bab855bb08ab1ef26c161_large.webp) <br>Smirk Merc | body_c_t10_ita_pl_volta_joke | head_c_t10_ita_pl_volta_joke | vm_c_t10_ita_pl_volta_joke |  
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4b/Volta_SmirkMerc_Skin_BO6.png/revision/latest?cb=20250227234725) <br>Smirk Merc | body_c_t10_ita_pl_volta_joke | head_c_t10_ita_pl_volta_joke | vm_c_t10_ita_pl_volta_joke |  
 | | | | |  
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/70/Volta_Brightraider_Skin_BO6.png/revision/latest?cb=20250111010306) <br>Brightrider  | body_c_t10_ita_pl_volta_unicorn | head_c_t10_ita_pl_volta_unicorn | vm_c_t10_ita_pl_volta_unicorn |  
 | | | | |  
