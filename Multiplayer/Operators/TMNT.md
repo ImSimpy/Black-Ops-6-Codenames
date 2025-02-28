@@ -13,6 +13,6 @@
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Splinter | body_c_t10_usa_pl_buck_base | head_c_t10_usa_pl_buck_base | vm_c_t10_usa_pl_buck_base |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/Toro_UndeadFootClan_Skin_BO6.png/revision/latest?cb=20250227234728) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
