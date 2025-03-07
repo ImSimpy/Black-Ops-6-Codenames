@@ -34,9 +34,8 @@
 <br> Truce | me_knife_frill  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/727a07ce-7f21-4dc4-b7db-1797564b1937) <br> Whisper | me_knife_nightshade   | 
-
- 
 | | | | | 
+
 
 
 # Baseball Bat
@@ -51,9 +50,8 @@
 ![image](https://github.com/user-attachments/assets/3cef4c5c-9184-49d2-ad60-903bc516b548) <br> Batter Up | me_bat_egaux  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ebf43232-d866-45b5-b8e9-6d14dd823f04) <br> Club Thumper | me_bat_gvibes  | 
-
-
 | | | | | 
+
 
 
 # Power Drill 
