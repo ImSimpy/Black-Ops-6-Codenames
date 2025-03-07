@@ -135,7 +135,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-|  <br> | |
+| ![image](https://github.com/user-attachments/assets/27dd9eb7-376d-41a2-acac-b2b8aa69b254) <br> Default | me_nunchaku |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/5505c233-c05d-4d57-bab6-e9ea506bc0c5) <br> Michelangelo's Nunchucks | me_nunchaku_assam |
 | | | | | 
 
 
