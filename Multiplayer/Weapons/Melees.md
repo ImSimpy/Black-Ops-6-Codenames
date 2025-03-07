@@ -3,7 +3,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/1bad4af4-a61e-46cf-8511-d16f0e8902dc) <br> Knife | me_knife  | 
+![image](https://github.com/user-attachments/assets/1bad4af4-a61e-46cf-8511-d16f0e8902dc) <br> Default | me_knife  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/98d33978-4252-442e-99f2-2b0175277d54) <br> 1000 Win Knife | me_knife_1000wins  | 
 | | | | | 
@@ -43,7 +43,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/aa43f146-fd5b-4ed9-a838-0a307d62000d) <br> Baseball Bat | me_bat  | 
+![image](https://github.com/user-attachments/assets/aa43f146-fd5b-4ed9-a838-0a307d62000d) <br> Default | me_bat  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ab000d55-2b73-4fd5-a583-c7743d05a652) <br> Batter Down | me_bat_receiver_slasher  | 
 | | | | | 
@@ -59,12 +59,75 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/87963860-b705-48c5-98a3-f191d393fd90) <br> Power Drill | me_drill |
+| ![image](https://github.com/user-attachments/assets/87963860-b705-48c5-98a3-f191d393fd90) <br> Default | me_drill |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/cca4d4c3-3779-44f2-a16d-cd4918441219) <br> Kill Bit | me_drill_ | 
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/da2b8a6c-057d-4d73-8246-dd17404231ec) <br> Scour Drill| me_drill_ |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/ca6e2628-b3a3-4d3c-9c5b-94d073c5cf51) <br>  Umbral Bit | me_drill_ |
+| | | | | 
+
+
+# Cleaver
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+|  <br> | |
+| | | | | 
+
+
+
+# Katanas
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+|  <br> | |
+| | | | | 
+
+
+
+# Bo Staff 
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+|  <br> | |
+| | | | | 
+
+
+
+# Sai
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+|  <br> | |
+| | | | | 
+
+
+# Nunchaku
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+|  <br> | |
+| | | | | 
+
+
+
+# Skateboard 
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/132fd759-d51c-4a53-8ab8-887f18c5aa3f) <br> Default | att_t10_vm_p36_me_skateboard  | 
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/9c78f976-fff2-4f98-a2d8-6a3f794d203a) <br> Rolling Laughter | att_t10_vm_p36_me_skateboard_bigjoke
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/c64e114f-6770-4a42-be57-ae543fb16cb5) <br> Sewer Surfer | att_t10_vm_p36_me_skateboard_brownsugar |
+
+
 
 
