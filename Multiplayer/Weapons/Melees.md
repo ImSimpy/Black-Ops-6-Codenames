@@ -98,7 +98,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-|  <br> | |
+| ![image](https://github.com/user-attachments/assets/759adb92-210d-4b7a-8c05-7d43e404ae96) <br> Default | me_katanas |
+| | | | | 
+| <br> Leonardo's Katanas | me_katanas_taro |
 | | | | | 
 
 
@@ -108,7 +110,11 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-|  <br> | |
+| ![image](https://github.com/user-attachments/assets/c9379681-43ca-4a2a-b128-48348ae3cb7c) <br> Default | me_bostaff |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/00ea7e0e-f837-4d45-9063-08a9c9f283ec) <br> Donatello's Bo Staff | me_bostaff_jasmine |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/b754716f-c598-43e1-8c19-804c3f756c50) <br> Splinter's Cane | me_bostaff_brownsugar |
 | | | | | 
 
 
