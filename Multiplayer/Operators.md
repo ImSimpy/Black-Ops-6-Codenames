@@ -67,4 +67,248 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell |
+| | | | | 
+
+
+ #  Witold Bayan
+ 
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0d/Bayan_Maverick_Skin_BO6.png/revision/latest?cb=20241028013549) <br>Maverick | body_c_t10_pol_pl_bayan_rouge | head_c_t10_pol_pl_bayan_rouge | vm_c_t10_pol_pl_bayan_rouge | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c1/Bayan_Wrap_Skin_BO6.png/revision/latest?cb=20250201180612) <br>Wrap  | body_c_t10_pol_pl_bayan_shrouded  | head_c_t10_pol_pl_bayan_shrouded | vm_c_t10_pol_pl_bayan_shrouded | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/df/Bayan_Quiet_Skin_BO6.png/revision/latest?cb=20241211224447) <br>Quiet | body_c_t10_pol_pl_bayan_mime | head_c_t10_pol_pl_bayan_mime | vm_c_t10_pol_pl_bayan_mime | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e4/Bayan_Cauterize_Skin_BO6.png/revision/latest?cb=20250201180609) <br>Cauterize  | body_c_t10_pol_pl_bayan_red  | head_c_t10_pol_pl_bayan_red | vm_c_t10_pol_pl_bayan_red | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Bayan_Jack_Skin_BO6.png/revision/latest?cb=20250201180610) <br>Jack  | body_c_t10_pol_pl_bayan_deck  | head_c_t10_pol_pl_bayan_deck | vm_c_t10_pol_pl_bayan_deck | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Bayan_DivineMalice_Skin_BO6.png/revision/latest?cb=20250111010256) <br>Divine Malice  | body_c_t10_pol_pl_bayan_longshot | head_c_t10_pol_pl_bayan_longshot | vm_c_t10_pol_pl_bayan_longshot |  
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/43/Bayan_Drifter_Skin_BO6.png/revision/latest?cb=20241119185602) <br>Drifter  | body_c_t10_pol_pl_bayan_artillery | head_c_t10_pol_pl_bayan_artillery  | vm_c_t10_pol_pl_bayan_artillery  | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell| 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/93/Bayan_BlackDiamond_Skin_BO6.png/revision/latest?cb=20250213213914) <br>Black Diamond  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
+| | | | | 
+
+
+
+ #  Brutus
+ 
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5c/Brutus_WardenOfAlcatraz_Skin_BO6.png/revision/latest?cb=20241028013554) <br>Warden of Alcatraz | body_c_t10_usa_pl_warden_damned  | head_c_t10_usa_pl_warden_damned | vm_c_t10_usa_pl_warden_damned | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4a/Brutus_Tackle_Skin_BO6.png/revision/latest?cb=20250213213916) <br>Tackle | body_c_t10_usa_pl_warden_tackle  | head_c_t10_usa_pl_warden_tackle | vm_c_t10_usa_pl_warden_tackle | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Brutus_Calamity_Skin_BO6.png/revision/latest?cb=20250213213915) <br>Calamity | body_c_t10_usa_pl_warden_metal  | head_c_t10_usa_pl_warden_metal | vm_c_t10_usa_pl_warden_metal | 
+| | | | | 
+
+
+
+
+
+# CDL Crimson One Competitor (Away)
+
+ > [!Tip] 
+ >  ### If you are looking for the *'ROGUE BLACK OPS'* Operator Skins, Visit - [CDL Competitor Home](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Home.md)!
+ > >
+>  > If you are searching for *WARZONE* CDL Operator Skins, Visit [CDL Competitor Warzone](https://github.com/ImSimpy/BO6-Codenames/blob/main/Multiplayer/Operators/CDL%20Competitor%20Away.md)
+ 
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/27/2025CDLAway_Skin_BO6.png/revision/latest?cb=20241119222645) <br>2025 CDL Away | body_c_t10_usa_pl_cdl_away_base | head_c_t10_usa_pl_cdl_away_base | vm_c_t10_usa_pl_cdl_away_base | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/16/AtlantaFaZe_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105919) <br>Atlanta FaZe | body_c_t10_usa_pl_cdl_away_faze | head_c_t10_usa_pl_cdl_away_faze | vm_c_t10_usa_pl_cdl_away_faze | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/60/BostonBreach_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105921) <br>Boston Breach | body_c_t10_usa_pl_cdl_away_breach | head_c_t10_usa_pl_cdl_away_breach | vm_c_t10_usa_pl_cdl_away_breach |  
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f7/CarolinaRoyalRavens_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105923) <br>Carolina Royal Ravens  | body_c_t10_usa_pl_cdl_away_ravens | head_c_t10_usa_pl_cdl_away_ravens  | vm_c_t10_usa_pl_cdl_away_ravens | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/58/Cloud9NewYork_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105924) <br>Cloud9 New York  | body_c_t10_usa_pl_cdl_away_cloud9  | head_c_t10_usa_pl_cdl_away_cloud9 | vm_c_t10_usa_pl_cdl_away_cloud9 | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/59/LosAngelesGuerrillasM8_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105926) <br>Los Angeles Guerrillas M8  | body_c_t10_usa_pl_cdl_away_guerrillas  | head_c_t10_usa_pl_cdl_away_guerrillas | vm_c_t10_usa_pl_cdl_away_guerrillas | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/LosAngelesThieves_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105928) <br>Los Angeles Thieves | body_c_t10_usa_pl_cdl_away_thieves | head_c_t10_usa_pl_cdl_away_thieves | vm_c_t10_usa_pl_cdl_away_thieves | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8f/MiamiHeretics_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105929) <br>Miami Heretics | body_c_t10_usa_pl_cdl_away_heretics | head_c_t10_usa_pl_cdl_away_heretics | vm_c_t10_usa_pl_cdl_away_heretics | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/be/MinnesotaRokkr_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105931) <br>Minnesota Rokkr  | body_c_t10_usa_pl_cdl_away_rokker | head_c_t10_usa_pl_cdl_away_rokker | vm_c_t10_usa_pl_cdl_away_rokker | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3f/OpticTexas_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105933) <br>Optic Texas  | body_c_t10_usa_pl_cdl_away_optic | head_c_t10_usa_pl_cdl_away_optic | vm_c_t10_usa_pl_cdl_away_optic | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2a/TorontoUltra_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105935) <br>Toronto Ultra  | body_c_t10_usa_pl_cdl_away_ultra | head_c_t10_usa_pl_cdl_away_ultra | vm_c_t10_usa_pl_cdl_away_ultra |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d7/VancouverSurge_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105937) <br>Vancouver Surge | body_c_t10_usa_pl_cdl_away_surge | head_c_t10_usa_pl_cdl_away_surge | vm_c_t10_usa_pl_cdl_away_surge | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f1/VegasFalcons_Away_Competitor_Skin_BO6.png/revision/latest?cb=20250111105938) <br>Vegas Falcons | body_c_t10_usa_pl_cdl_away_falcons | head_c_t10_usa_pl_cdl_away_falcons | vm_c_t10_usa_pl_cdl_away_falcons | 
+
+# Call of Duty League Competitor Ranked
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2c/BO6RankedCompetitor_Away_Skin_BO6.png/revision/latest?cb=20241119222647) <br>BO6 Ranked Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_base | head_c_t10_usa_pl_cdl_away_ranked_mp_base | vm_c_t10_usa_pl_cdl_away_ranked_mp_base | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/08/GoldCompetitor_Away_Skin_BO6.png/revision/latest?cb=20241119222652) <br>Gold Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_gold | head_c_t10_usa_pl_cdl_away_ranked_mp_gold | vm_c_t10_usa_pl_cdl_away_ranked_mp_gold | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4d/PlatinumCompetitor_Away_Skin_BO6.png/revision/latest?cb=20241119222656) <br>Platinum Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_emerald | head_c_t10_usa_pl_cdl_away_ranked_mp_emerald | vm_c_t10_usa_pl_cdl_away_ranked_mp_emerald | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/37/DiamondCompetitor_Away_Skin_BO6.png/revision/latest?cb=20241119222650) <br>Diamond Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_diamond | head_c_t10_usa_pl_cdl_away_ranked_mp_diamond | vm_c_t10_usa_pl_cdl_away_ranked_mp_diamond | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/84/CrimsonCompetitor_Away_Skin_BO6.png/revision/latest?cb=20241119222649) <br>Crimson Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_crimson | head_c_t10_usa_pl_cdl_away_ranked_mp_crimson | vm_c_t10_usa_pl_cdl_away_ranked_mp_crimson | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/35/IridescentCompetitor_Away_Skin_BO6.png/revision/latest?cb=20241119222654) <br>Iridescent Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_iridescent | head_c_t10_usa_pl_cdl_away_ranked_mp_iridescent | vm_c_t10_usa_pl_cdl_away_ranked_mp_iridescent | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/73/Top250Competitor_Away_Skin_BO6.png/revision/latest?cb=20241119222659) <br>Top 250 Competitor | body_c_t10_usa_pl_cdl_away_ranked_mp_250 | head_c_t10_usa_pl_cdl_away_ranked_mp_250 | vm_c_t10_usa_pl_cdl_away_ranked_mp_250 | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/99/Top250Champion_Away_Skin_BO6.png/revision/latest?cb=20241119222658) <br>Top 250 Champion | body_c_t10_usa_pl_cdl_away_ranked_mp_1 | head_c_t10_usa_pl_cdl_away_ranked_mp_1 | vm_c_t10_usa_pl_cdl_away_ranked_mp_250 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
