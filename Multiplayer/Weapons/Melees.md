@@ -82,7 +82,17 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-|  <br> | |
+| ![image](https://github.com/user-attachments/assets/b0e12fd2-4b40-4b8b-b238-f4399cf4aef2)
+ <br> Default | me_cleaver |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/b31dc1a9-f307-4e6d-b8a5-586d7c988db9)
+ <br> Gut Wrencher | me_cleaver_mystery |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/d11323d0-5f9b-41ab-9379-7c2a5964c352)
+ <br> Mince Meat | me_cleaver_slasher |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/beb93d18-4148-48d4-b642-3136d006dd72)
+ <br> Razorbreak | me_cleaver_cartoon |
 | | | | | 
 
 
