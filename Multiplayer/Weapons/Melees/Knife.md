@@ -5,9 +5,9 @@
 | | | | | 
  <br> Knife |   | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/a03a912f-6f6d-423d-97ba-15820b464573) <br> 1000 Win Knife |   | 
+![image](https://github.com/user-attachments/assets/98d33978-4252-442e-99f2-2b0175277d54) <br> 1000 Win Knife |   | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/5bcc7ff4-39da-4875-8975-9d37102ca1b1) <br> Backup Plan |   | 
+![image](https://github.com/user-attachments/assets/71176b63-b385-48bd-9081-c3c01682e8e2)<br> Backup Plan |   | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/915cc838-fa47-4a78-9417-b0434b530c48) <br> Butcher's Friend |   | 
 | | | | | 
