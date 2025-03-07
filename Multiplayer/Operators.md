@@ -114,10 +114,9 @@
  > [!Tip] 
  > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Visit [CDL Competitor Away]
  >
- > If you are searching for *WARZONE* CDL Operator Skins, Visit [CDL Competitor Warzone]
- 
+ > > If you are searching for *WARZONE* CDL Operator Skins, Visit [CDL Competitor Warzone]
  >
-| | | | | 
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
