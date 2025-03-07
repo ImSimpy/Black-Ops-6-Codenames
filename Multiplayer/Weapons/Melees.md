@@ -123,8 +123,11 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-|  <br> | |
+| ![image](https://github.com/user-attachments/assets/7a1b9576-471b-495b-9081-5d1ba3849806) <br> Default | me_sais |
 | | | | | 
+|  <br> Raphael's Sai | me_sais_thai |
+| | | | | 
+
 
 
 # Nunchaku
