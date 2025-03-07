@@ -5,9 +5,11 @@
 | | | | | 
  <br> Knife |   | 
 | | | | | 
-https://static.wikia.nocookie.net/callofduty/images/9/97/1000WinKnife_Knife_Blueprint_BO6.png/revision/latest/scale-to-width-down/150?cb=20241123220016 <br> 1000 Win Knife |   | 
+![image](https://github.com/user-attachments/assets/a03a912f-6f6d-423d-97ba-15820b464573)
+ <br> 1000 Win Knife |   | 
 | | | | | 
- <br> Knife |   | 
+![image](https://github.com/user-attachments/assets/5bcc7ff4-39da-4875-8975-9d37102ca1b1)
+ <br> Backup Plan |   | 
 | | | | | 
  <br> Knife |   | 
 | | | | | 
