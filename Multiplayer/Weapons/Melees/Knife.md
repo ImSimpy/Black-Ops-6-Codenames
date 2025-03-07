@@ -3,9 +3,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br> Knife |   | 
+![image](https://github.com/user-attachments/assets/1bad4af4-a61e-46cf-8511-d16f0e8902dc) <br> Knife | att_t10_vm_p15_me_knife  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/98d33978-4252-442e-99f2-2b0175277d54) <br> 1000 Win Knife |   | 
+![image](https://github.com/user-attachments/assets/98d33978-4252-442e-99f2-2b0175277d54) <br> 1000 Win Knife | att_t10_vm_p15_me_knife_1000wins  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/71176b63-b385-48bd-9081-c3c01682e8e2)<br> Backup Plan |   | 
 | | | | | 
