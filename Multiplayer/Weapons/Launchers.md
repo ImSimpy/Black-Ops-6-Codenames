@@ -12,7 +12,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![ximage_344e2e7402aa84e]([https://github.com/user-attachments/assets/946f8870-18ca-48c2-bf39-d8f0b9dd303e](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)) <br> Default | la_pable3  | 
+![ximage_344e2e7402aa84e](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Default | la_pable3  | 
 | | | | | 
 ![ximage_1d8f7bcacda159a](https://static.wikia.nocookie.net/callofduty/images/8/83/Voltage_HE1_Blueprint_BO6.png/revision/latest/scale-to-width-down/1000?cb=20250122223755)<br> Voltage | la_pable3_rec_plastic  | 
 | | | | | 
