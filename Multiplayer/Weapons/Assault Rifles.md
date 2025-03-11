@@ -21,26 +21,19 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/37ecb6d5-89c4-4b02-bc3e-1dd6ddb5ee99)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0b673337-84e3-4b35-829e-74f02e2a3700)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/0b673337-84e3-4b35-829e-74f02e2a3700)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c4a39e83-58a6-4841-a0c5-0d36fd8a81f3)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/c4a39e83-58a6-4841-a0c5-0d36fd8a81f3)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0df3d8b4-77a4-4320-9f70-fd555e4ba82a)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/0df3d8b4-77a4-4320-9f70-fd555e4ba82a)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c299c540-6a7f-4181-afb1-6c3af168adde)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/c299c540-6a7f-4181-afb1-6c3af168adde)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/397381f8-d1a9-47ee-8d13-b5d8bb1c9bdc)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/397381f8-d1a9-47ee-8d13-b5d8bb1c9bdc)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/f46b9a9f-316d-4a63-9435-0b9494b51198)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/f46b9a9f-316d-4a63-9435-0b9494b51198)<br>  | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/88d3899e-8dc4-4ffc-80f3-083541b38b95)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/88d3899e-8dc4-4ffc-80f3-083541b38b95)<br>  | ar_coslo723 | 
 | | | | | 
 
 
