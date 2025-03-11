@@ -12,16 +12,15 @@
 | :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3fdf6a5a-9531-4b88-a831-f5efc5782942)
- <br> Default | ar_coslo723 | 
+<br> Default | ar_coslo723 | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/fccb8ad3-ab60-48c5-ac02-18fbd0478268)
- <br>  | ar_coslo723 | 
+<br>  | ar_coslo723 | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/902f869d-8531-49bd-be66-2c22f5b7495d)
- <br>  | ar_coslo723 | 
+<br>  | ar_coslo723 | 
 | | | | |  
-![image](https://github.com/user-attachments/assets/d4b4f20a-5a06-4824-8467-60f4a16634c5)
- <br>  | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/d4b4f20a-5a06-4824-8467-60f4a16634c5) <br>  | ar_coslo723 | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/37ecb6d5-89c4-4b02-bc3e-1dd6ddb5ee99)
 <br>  | ar_coslo723 | 
