@@ -19,11 +19,11 @@
 | | | | |  
 ![image](https://github.com/user-attachments/assets/d4b4f20a-5a06-4824-8467-60f4a16634c5)<br> Gumball Ballistics | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/37ecb6d5-89c4-4b02-bc3e-1dd6ddb5ee99)<br> High Authority | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/37ecb6d5-89c4-4b02-bc3e-1dd6ddb5ee99)<br> High Authority | ar_coslo723_stingray04 | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0b673337-84e3-4b35-829e-74f02e2a3700)<br> Plundergut | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c4a39e83-58a6-4841-a0c5-0d36fd8a81f3)<br> Razor Burn | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/c4a39e83-58a6-4841-a0c5-0d36fd8a81f3)<br> Razor Burn | ar_coslo723_steam | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0df3d8b4-77a4-4320-9f70-fd555e4ba82a)<br> Shared Fate | ar_coslo723 | 
 | | | | | 
