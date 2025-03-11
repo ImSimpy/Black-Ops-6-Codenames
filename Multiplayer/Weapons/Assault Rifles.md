@@ -9,7 +9,7 @@
 # XM4
 
 | Icon | Name |
-| :--: | :--: | \
+| :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3fdf6a5a-9531-4b88-a831-f5efc5782942)
  <br>  |  | 
