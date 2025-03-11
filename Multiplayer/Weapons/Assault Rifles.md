@@ -1,3 +1,5 @@
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> The model will be in seperete parts
+>
+> Like there *receiver* or *mag*
