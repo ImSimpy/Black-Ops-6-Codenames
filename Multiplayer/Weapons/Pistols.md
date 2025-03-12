@@ -36,8 +36,6 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/6c4ebcd8-41f3-45d8-9889-ab72a86ae9f9)<br> Omertà | pi_aps_ | 
 | | | | | 
-<br>  |  | 
-| | | | | 
 
 
 
