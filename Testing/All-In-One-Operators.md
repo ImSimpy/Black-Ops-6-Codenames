@@ -290,33 +290,12 @@
 
 
 
-# Teenage Mutant Ninja Turtles
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | | |
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6d62221b2b3cf1e8630ad69b668826d7cf09b903367275dc17d57dca1401e805a_large.webp) <br>Leonardo | body_c_t10_usa_pl_oriole_base_mld | head_c_t10_usa_pl_oriole_base | vm_c_t10_usa_pl_oriole_base |
-| | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo690e45ccda67ca30487ec0ef3a9d7202e67745e924d062f425b3c1dd7855d8e0a_large.webp) <br>Donatello | body_c_t10_usa_pl_martin_base_mld | head_c_t10_usa_pl_martin_base | vm_c_t10_usa_pl_martin_base |
-| | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66af9e65ceb4d318bce35c7fcf81f1310f5d9bccd84782b4cde4781df0b9d3cfe_large.webp) <br>Raphael | body_c_t10_usa_pl_flycatcher_base_mld | head_c_t10_usa_pl_flycatcher_base | vm_c_t10_usa_pl_flycatcher_base |
-| | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo625982284e7b57bbc832a673d812c38ce84cbbd5f39a17a091084facbf991775d_large.webp) <br>Michelangelo | body_c_t10_usa_pl_jay_base_mld | head_c_t10_usa_pl_jay_base  | vm_c_t10_usa_pl_jay_base |
-| | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a2/Splinter_Default_Skin_BO6.png/revision/latest?cb=20250227234726) <br>Splinter | body_c_t10_usa_pl_buck_base | head_c_t10_usa_pl_buck_base | vm_c_t10_usa_pl_buck_base |
-| | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
-| | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/Toro_UndeadFootClan_Skin_BO6.png/revision/latest?cb=20250227234728) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
-
-
-
 # Crimson One
 
 ![image](https://github.com/user-attachments/assets/152970fe-dd16-409e-874d-5faa6ff9d58d)
 
 
-# Squid Games 
+# Squid Game
 
 ![image](https://github.com/user-attachments/assets/68d2573d-5eb3-421f-9aea-85ed8e385f70)
 
@@ -339,7 +318,52 @@
 
 
 
+ # Pink Guards
 
+ > [!IMPORTANT]
+ > In Cordycep
+ > 
+ > `Masked Worker - Loadwc *stone_pumpkin*`
+ >
+ > `Masked Soldier - Loadwc *bailey_leaf*`
+ >
+ >`Masked Manager - Loadwc *caine_fall`
+
+
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2e/Masked_Worker_Default_Skin_BO6.png/revision/latest?cb=20250104102430) <br>Masked Worker | body_c_t10_gbr_pl_pumpkin_sable | head_c_t10_gbr_pl_pumpkin_sable | vm_c_t10_gbr_pl_pumpkin_sable |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8f/Masked_Soldier_Default_Skin_BO6.png/revision/latest?cb=20250104102429) <br>Masked Soldier | body_c_t10_usa_pl_leaf_sable | head_c_t10_usa_pl_leaf_sable | vm_c_t10_usa_pl_leaf_sable |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/53/Masked_Manager_Default_Skin_BO6.png/revision/latest?cb=20250104102428) <br>Masked Manager | body_c_t10_usa_pl_fall_sable | head_c_t10_usa_pl_fall_sable | vm_c_t10_usa_pl_fall_sable |
+
+
+
+# Teenage Mutant Ninja Turtles
+
+![image](https://github.com/user-attachments/assets/84b42cce-e19c-43f7-8857-6d37cbb1a3cb)
+
+
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | |
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6d62221b2b3cf1e8630ad69b668826d7cf09b903367275dc17d57dca1401e805a_large.webp) <br>Leonardo | body_c_t10_usa_pl_oriole_base_mld | head_c_t10_usa_pl_oriole_base | vm_c_t10_usa_pl_oriole_base |
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo690e45ccda67ca30487ec0ef3a9d7202e67745e924d062f425b3c1dd7855d8e0a_large.webp) <br>Donatello | body_c_t10_usa_pl_martin_base_mld | head_c_t10_usa_pl_martin_base | vm_c_t10_usa_pl_martin_base |
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66af9e65ceb4d318bce35c7fcf81f1310f5d9bccd84782b4cde4781df0b9d3cfe_large.webp) <br>Raphael | body_c_t10_usa_pl_flycatcher_base_mld | head_c_t10_usa_pl_flycatcher_base | vm_c_t10_usa_pl_flycatcher_base |
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo625982284e7b57bbc832a673d812c38ce84cbbd5f39a17a091084facbf991775d_large.webp) <br>Michelangelo | body_c_t10_usa_pl_jay_base_mld | head_c_t10_usa_pl_jay_base  | vm_c_t10_usa_pl_jay_base |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a2/Splinter_Default_Skin_BO6.png/revision/latest?cb=20250227234726) <br>Splinter | body_c_t10_usa_pl_buck_base | head_c_t10_usa_pl_buck_base | vm_c_t10_usa_pl_buck_base |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/Toro_UndeadFootClan_Skin_BO6.png/revision/latest?cb=20250227234728) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
 
 
 
