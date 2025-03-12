@@ -1,6 +1,6 @@
 # The Terminator
 
-![image](https://github.com/user-attachments/assets/84b42cce-e19c-43f7-8857-6d37cbb1a3cb)
+![image](https://github.com/user-attachments/assets/a21ef7fe-7f0b-4f26-9596-42ce1d58974a)
 
 > [!IMPORTANT]
 > 
