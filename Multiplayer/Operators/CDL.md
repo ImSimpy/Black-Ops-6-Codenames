@@ -12,9 +12,9 @@
 # CDL Rogue Black Ops Competitor (Home)
 
  > [!Tip] 
- > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Visit - [CDL Competitor Away]
+ > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Visit - (CDL Competitor Away)
  >
-> > If you are searching for *WARZONE* CDL Operator Skins, Visit [CDL Competitor Warzone]
+> > If you are searching for *WARZONE* CDL Operator Skins, Visit (CDL Competitor Warzone)
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
@@ -71,9 +71,9 @@
 # CDL Crimson One Competitor (Away)
 
  > [!Tip] 
- >  ### If you are looking for the *'ROGUE BLACK OPS'* Operator Skins, Visit - [CDL Competitor Home]!
+ >  ### If you are looking for the *'ROGUE BLACK OPS'* Operator Skins, Visit - (CDL Competitor Home)!
  > >
->  > If you are searching for *WARZONE* CDL Operator Skins, Visit [CDL Competitor Warzone]
+>  > If you are searching for *WARZONE* CDL Operator Skins, Visit (CDL Competitor Warzone)
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -129,7 +129,7 @@
 
  > [!Tip] 
  >  ### If you are searching for the *MULTIPLAYER* CDL Operator Skins:
- > >  *Open [Competitor Away] or [Competitor Home]!*
+ > >  *Open (Competitor Away) or (Competitor Home)!*
  >
  
 | Icon | Body | Head | Arms
