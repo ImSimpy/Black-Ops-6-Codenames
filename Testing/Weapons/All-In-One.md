@@ -7,7 +7,7 @@
 
 
 
-## Assualt Rifle
+# Assualt Rifle
 
 
 ## XM4 
