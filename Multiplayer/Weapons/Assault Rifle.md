@@ -59,7 +59,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/13b5be0d-a247-433e-8829-7f8405c66ab3)<br> Default | ar_able18  | 
 | | | | | 
 
 # GPR 91
@@ -67,7 +67,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/ff491533-2aaf-4829-91fd-8164bc8b4227)<br> Default | ar_love85 | 
 | | | | | 
 
 
@@ -78,7 +78,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/d83e22df-eb6e-454b-b03d-b5b0a3981e6a)<br> Default | ar_leasy | 
 | | | | | 
 
 
@@ -89,7 +89,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/0fd49883-6794-4169-b99d-f381e7be6d3e)<br> Default | ar_rmary2  | 
 | | | | | 
 
 
@@ -99,7 +99,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/a68ec5c0-cb99-4cf5-83bf-50a790e2de53)<br> Default | ar_asvalor | 
 | | | | | 
 
 
