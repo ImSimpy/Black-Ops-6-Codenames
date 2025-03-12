@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br> | | 
+![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br> | sm_chuck9 | 
 | | | | | 
 
 
@@ -51,7 +51,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default| | 
+![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Default | sm_geasy9 | 
 | | | | | 
 
 
@@ -61,7 +61,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bae94e17-71aa-48b7-900c-985b6ac57ded)<br> Default |sm_geasy9 | 
+![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Default | sm_safox | 
 | | | | | 
 
 
