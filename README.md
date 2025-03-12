@@ -1,12 +1,10 @@
-
-# 𝐁𝐥𝐚𝐜𝐤 𝐎𝐩𝐬 𝟔 𝐂𝐨𝐝𝐞𝐧𝐚𝐦𝐞𝐬 
-
-
 ![image](https://github.com/user-attachments/assets/01d60042-a485-4c36-b99b-03d21ea042a2)
 
 
+# 𝐁𝐥𝐚𝐜𝐤 𝐎𝐩𝐬 𝟔 𝐂𝐨𝐝𝐞𝐧𝐚𝐦𝐞𝐬 
 
- 
+Since alot of yall requested for a codename sheet. This will content most asset names you can think of. Will be working on it here and there. Let me know if yall want me to add something or im missing something
+
 > [!TIP]
 > 
 >𝐁𝐎𝟔 𝐟𝐢𝐥𝐞 𝐧𝐚𝐦𝐞𝐬 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐡𝐚𝐯𝐞 𝐚 `𝐭𝟏𝟎` 𝐢𝐧 𝐭𝐡𝐞𝐢𝐫 𝐟𝐢𝐥𝐞 𝐧𝐚𝐦𝐞.
