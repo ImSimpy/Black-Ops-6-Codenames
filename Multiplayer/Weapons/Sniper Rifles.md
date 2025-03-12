@@ -32,21 +32,21 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/916a226f-96ae-4bbb-8b4b-1a99aab9dc4b)<br> Default | sn_droger | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/46864d16-d4b8-48d0-8753-b65a3185b3dd)<br> Axel |  | 
+![image](https://github.com/user-attachments/assets/46864d16-d4b8-48d0-8753-b65a3185b3dd)<br> Axel | sn_droger_  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/eebd4d3d-8161-404e-a361-99d5df6451bc)<br> Brainplow |  | 
+![image](https://github.com/user-attachments/assets/eebd4d3d-8161-404e-a361-99d5df6451bc)<br> Brainplow | sn_droger_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/a9e6921e-7d82-4e28-8f68-3d8abaa5e633)<br> Darkflare |  | 
+![image](https://github.com/user-attachments/assets/a9e6921e-7d82-4e28-8f68-3d8abaa5e633)<br> Darkflare | sn_droger_ | 
 | | | | | 
 <br> Floatin' Around |  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c7498dbd-3b2c-4c8a-9eea-cfef4ca3b2da)<br> Forced Retreat |  | 
+![image](https://github.com/user-attachments/assets/c7498dbd-3b2c-4c8a-9eea-cfef4ca3b2da)<br> Forced Retreat | sn_droger_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/45932749-4bbf-454f-956c-9a7ee9a0940b)<br> Loveless |  | 
+![image](https://github.com/user-attachments/assets/45932749-4bbf-454f-956c-9a7ee9a0940b)<br> Loveless | sn_droger_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/4432f652-fb74-4b96-b503-0e477d0f3ac1)<br> Max Damage |  | 
+![image](https://github.com/user-attachments/assets/4432f652-fb74-4b96-b503-0e477d0f3ac1)<br> Max Damage | sn_droger_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/651e7f23-c60c-406c-8fe7-e520930f7c8f)<br> Scorcher |  | 
+![image](https://github.com/user-attachments/assets/651e7f23-c60c-406c-8fe7-e520930f7c8f)<br> Scorcher | sn_droger_ | 
 | | | | | 
 <br> |  | 
 | | | | | 
@@ -60,7 +60,24 @@
 | :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/e88599b8-0707-4f77-9a39-137f9dd35e24)<br> Default | sn_ultiger | 
+| | | | |  
+![image](https://github.com/user-attachments/assets/97d44b15-a25f-439d-880b-922167303a03)<br> Brainstorm | sn_ultiger_ | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/7298b0b0-5861-4b9b-adb6-6606e5e15f90)<br> Ghostly Guile | sn_ultiger_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/3c2115d0-85e2-4142-bdd0-9b12acf37fd5)<br> Green Fury | sn_ultiger_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/2d8c04f2-8bf5-4306-be4c-a2bca3525913)<br> Lacquered | sn_ultiger_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/72d0c10b-d5bd-41dd-b005-8650b3436567)<br> Like | sn_ultiger_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/f08b314b-0c04-4e90-a1f5-f91db1946450)<br> Onyx Echo |sn_ultiger_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/b1b51b1f-1a20-4d36-9152-cc352d98d2bd)<br> Sanctifier | sn_ultiger_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/96edcdd3-ee3f-4a3e-b910-60a80ea66114)<br> Snowpiece | sn_ultiger_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/2fe618cd-6792-4812-837e-576b12d0d974)<br> Stratagem | sn_ultiger_ | 
 
 
 
