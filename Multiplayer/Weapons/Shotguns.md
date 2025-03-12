@@ -50,9 +50,9 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/c0b04f20-d729-47ba-a7a3-be52f43f19cb)<br> Mother Clucker | sh_uncle12_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/7cc2bbc5-a8f2-4a87-a49c-d8a59870e6f6)<br> Pythonicus | sh_uncle12_ | 
+![image](https://github.com/user-attachments/assets/1b9cfb48-09e1-4017-b454-c8edd7511606)<br> Pythonicus | sh_uncle12_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/710acd55-81eb-4f4b-b6ee-f3d0475e1eed)<br> Pythonicus BlackCell | sh_uncle12_ | 
+![image](https://github.com/user-attachments/assets/7b7fd71e-37f8-481a-80c1-265b9b91799f)<br> Pythonicus BlackCell | sh_uncle12_ | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d4be732e-f8d1-490f-bc8b-74cfdf05ba45)<br> Severer | sh_uncle12_ | 
 | | | | | 
