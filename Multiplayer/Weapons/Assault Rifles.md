@@ -1,4 +1,4 @@
-# Assault Rifle
+# Assault Rifles
 
 > [!IMPORTANT]
 > The model will be in seperete parts
