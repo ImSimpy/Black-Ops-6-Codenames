@@ -3,12 +3,6 @@
 ![image](https://github.com/user-attachments/assets/a5cba8db-3438-402e-a743-03db51ad8e03)
 
 
-> [!IMPORTANT]
-> 
-> 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
->
-
-
 # CDL Rogue Black Ops Competitor (Home)
 
 > [!IMPORTANT]
