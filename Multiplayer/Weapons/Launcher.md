@@ -7,7 +7,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/e30c3417-0cde-4a1a-9ed6-4ff664c92096)<br> Screaming Thunder | la_stisaac_rec_arsenal  | 
 
-# He-1
+# HE-1
 
 | Icon | Name |
 | :--: | :--: | 
