@@ -105,7 +105,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/5b15e1d3-25d5-4a00-b3b2-81ff015ab0c9)<br> Default  |ar_fable  | 
 | | | | | 
 
 
@@ -115,7 +115,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
- <br>  |  | 
+![image](https://github.com/user-attachments/assets/2151a0de-9cc8-4c2c-af79-cbac57533a54)<br> Default | ar_tbaker  | 
 | | | | | 
 
 
