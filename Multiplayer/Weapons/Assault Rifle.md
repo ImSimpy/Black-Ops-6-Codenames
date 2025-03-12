@@ -15,9 +15,9 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/b0a938ba-2ccb-422c-9e54-51ee7c0d431a)<br> Atomic Commando  | ar_coslo723_prestige | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/902f869d-8531-49bd-be66-2c22f5b7495d)<br> Bug Smasher | ar_coslo723_beta01 | 
+![image](https://github.com/user-attachments/assets/f8e03fb6-ebcd-45d6-8aea-7148319ecfbf)<br> Bug Smasher | ar_coslo723_beta01 | 
 | | | | |  
-![image](https://github.com/user-attachments/assets/d4b4f20a-5a06-4824-8467-60f4a16634c5)<br> Gumball Ballistics | ar_coslo723_repair | 
+![image](https://github.com/user-attachments/assets/d06e1e02-b20f-461e-b101-6e87c4dc565d)<br> Gumball Ballistics | ar_coslo723_repair | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/37ecb6d5-89c4-4b02-bc3e-1dd6ddb5ee99)<br> High Authority | ar_coslo723_stingray04 | 
 | | | | | 
