@@ -14,6 +14,14 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f959c30e-8f7a-4dbf-bfdb-66d13f3e7ea4)<br> Default | pi_mable | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/feae59dc-c1bb-41ed-badd-d5520cad6cea)<br> Firecracker | pi_mable_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/0c8c4902-64b1-4c27-8a49-bae8556a46cd)<br> Major Gift | pi_mable_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/062f45a7-48b0-4e89-a214-2e4037332f42)<br> Scrub  | pi_mable_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/f4a563c3-f8ee-4d4c-8930-f25d92bf8802)<br> Thronebuster | pi_mable_ | 
+| | | | | 
 
 
 
@@ -23,6 +31,12 @@
 | :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/5f59554d-2f4f-4577-a044-ca80671449d8)<br> Default | pi_aps | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/198adcc6-1224-4280-9d20-71fe848b6a72)<br> Brutal Stings | pi_aps_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/6c4ebcd8-41f3-45d8-9889-ab72a86ae9f9)<br> Omertà | pi_aps_ | 
+| | | | | 
+<br>  |  | 
 | | | | | 
 
 
@@ -34,7 +48,19 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3b34db51-d3dd-4803-b1db-ef2c867ffd5b)<br> Default | pi_usugar9 | 
 | | | | | 
-<br>  |  | 
+![image](https://github.com/user-attachments/assets/877ca6b1-d8eb-46b4-9194-1664ccdd8081)<br> Curator | pi_usugar9_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/fa8bc43c-a74c-401d-8ccc-dc0d834d8e41)<br> Custodian | pi_usugar9_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/fa04d2ab-3a7e-4879-851c-82bcc6742401)<br> Fate Maker  | pi_usugar9_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/220b7832-fe94-4251-8612-adf5568a08ce)<br> Sunburst | pi_usugar9_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/9efac731-f36e-4d61-affd-3761f6c7218c)<br> Tide Turner | pi_usugar9_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4c1698de-4099-409f-b1a0-aa309873e7e7)<br> Viperous | pi_usugar9_ | 
+| | | | | 
+<br> Waterworks |  | 
 | | | | | 
 
 
