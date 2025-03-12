@@ -20,8 +20,6 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/747ad735-c160-4e8d-bf04-c8ce1916fae6)<br> Helm | sn_love96_ | 
 | | | | | 
-<br> |  | 
-| | | | | 
 
 
 
@@ -38,7 +36,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/a9e6921e-7d82-4e28-8f68-3d8abaa5e633)<br> Darkflare | sn_droger_ | 
 | | | | | 
-<br> Floatin' Around |  | 
+<br> Floatin' Around | sn_droger_ | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/c7498dbd-3b2c-4c8a-9eea-cfef4ca3b2da)<br> Forced Retreat | sn_droger_ | 
 | | | | | 
@@ -78,6 +76,7 @@
 ![image](https://github.com/user-attachments/assets/96edcdd3-ee3f-4a3e-b910-60a80ea66114)<br> Snowpiece | sn_ultiger_ | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/2fe618cd-6792-4812-837e-576b12d0d974)<br> Stratagem | sn_ultiger_ | 
+| | | | |
 
 
 
