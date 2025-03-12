@@ -318,7 +318,7 @@
 
 # Squid Games 
 
-![image](https://github.com/user-attachments/assets/6e69ba9a-3206-4593-8501-28e8eec0d686)
+![image](https://github.com/user-attachments/assets/68d2573d-5eb3-421f-9aea-85ed8e385f70)
 
  # Masked VIPs
  
