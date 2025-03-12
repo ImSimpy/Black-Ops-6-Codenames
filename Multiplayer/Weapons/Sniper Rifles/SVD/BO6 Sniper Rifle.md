@@ -1,4 +1,0 @@
-# SVD 
-### Base name `droger`
-
- - 
