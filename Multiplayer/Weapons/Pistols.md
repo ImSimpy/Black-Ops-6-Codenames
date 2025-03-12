@@ -34,6 +34,8 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3b34db51-d3dd-4803-b1db-ef2c867ffd5b)<br> Default | pi_usugar9 | 
 | | | | | 
+<br>  |  | 
+| | | | | 
 
 
 
@@ -43,6 +45,10 @@
 | :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/388654c0-0522-44ec-b5eb-e76421da8b0e)<br> Default | pi_paris30 | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/14f42d3e-398e-49d9-9b9d-e793f1d908fe)<br> Quick Mercy | pi_paris30_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4288c0b7-8eb8-45b2-91d6-24a79010c448)<br> Remain Silent  | pi_paris30_ | 
 | | | | | 
 
 
