@@ -202,6 +202,133 @@
 
 
 
+# Frank Woods
+
+| Icon  | Body | Head | Arms 
+| :--: | :--: | :--: | :--: 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d3/Woods_Classic_Woods_Skin_BO6.png/revision/latest?cb=20241028014048) <br>Classic Woods | body_c_t10_usa_pl_woods_rogue | head_c_t10_usa_pl_woods_rogue | vm_c_t10_usa_pl_woods_rogue
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3f/Woods_Zombie_Woods_Skin_BO6.png/revision/latest?cb=20241028014055) <br>Zombie Woods | body_c_t10_usa_pl_woods_zombie | head_c_t10_usa_pl_woods_zombie | vm_c_t10_usa_pl_woods_zombie
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/72/Woods_Numbers_Woods_Skin_BO6.png/revision/latest?cb=20241028014054) <br>Numbers Woods | body_c_t10_usa_pl_woods_glass | head_c_t10_usa_pl_woods_glass | vm_c_t10_usa_pl_woods_glass
+
+
+
+ #  Grigori Weaver
+ 
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/55/Weaver_Timber_Skin_BO6.png/revision/latest?cb=20241028013822) <br>Timber| body_c_t10_rus_pl_weaver_rogue | head_c_t10_rus_pl_weaver_rogue | vm_c_t10_rus_pl_weaver_rogue | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/59/Weaver_Nacht_Raider_Skin_BO6.png/revision/latest?cb=20241028013821) <br>Nacht Raider| body_c_t10_rus_pl_weaver_waw | head_c_t10_rus_pl_weaver_waw | vm_c_t10_rus_pl_weaver_waw | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/61/Weaver_Jackknife_Skin_BO6.png/revision/latest?cb=20241211224451) <br>Jackknife | body_c_t10_rus_pl_weaver_bloodstone | head_c_t10_rus_pl_weaver_bloodstone | vm_c_t10_rus_pl_weaver_bloodstone | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c8/Weaver_Guerilla_Skin_BO6.png/revision/latest?cb=20250201180654) <br>Guerilla | body_c_t10_rus_pl_weaver_echo | head_c_t10_rus_pl_weaver_echo | vm_c_t10_rus_pl_weaver_echo | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f9/Weaver_Detonator_Skin_BO6.png/revision/latest?cb=20250201180653) <br>Detonator | body_c_t10_rus_pl_weaver_boom  | head_c_t10_rus_pl_weaver_boom | vm_c_t10_rus_pl_weaver_boom | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/85/Weaver_Pullover_Skin_BO6.png/revision/latest?cb=20241211224452) <br>Pullover | body_c_t10_rus_pl_weaver_sweater | head_c_t10_rus_pl_weaver_sweater | vm_c_t10_rus_pl_weaver_sweater |  
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Weaver_Repairman_Skin_BO6.png/revision/latest?cb=20241119185621) <br>Repairman | body_c_t10_rus_pl_weaver_repairman  | head_c_t10_rus_pl_weaver_repairman | vm_c_t10_rus_pl_weaver_repairman | 
+
+
+
+ #  Maya Aguinaldo
+ 
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/34/Maya_Vengeance_Skin_BO6.png/revision/latest?cb=20241028013631) <br>Vengeance  | body_c_t10_phl_pl_maya_rogue | head_c_t10_phl_pl_maya_rogue | vm_c_t10_phl_pl_maya_rogue | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/23/Maya_Specialist_Fan_Skin_BO6.png/revision/latest?cb=20241028013629) <br>Specialist Fan  | body_c_t10_phl_pl_maya_battery | head_c_t10_phl_pl_maya_battery | vm_c_t10_phl_pl_maya_battery | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/80/Maya_Trophy_Collector_Skin_BO6.png/revision/latest?cb=20241028013630) <br>Trophy Collector | body_c_t10_phl_pl_maya_terminus | head_c_t10_phl_pl_maya_terminus | vm_c_t10_phl_pl_maya_terminus | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f2/Maya_Underground_Skin_BO6.png/revision/latest?cb=20241119185609) <br>Underground | body_c_t10_phl_pl_maya_crash | head_c_t10_phl_pl_maya_crash | vm_c_t10_phl_pl_maya_crash | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5c/Maya_KnittedOut_Skin_BO6.png/revision/latest?cb=20241211224449) <br>Knitted Out | body_c_t10_phl_pl_maya_sweater | head_c_t10_phl_pl_maya_sweater | vm_c_t10_phl_pl_maya_sweater | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/ce/Maya_Joyride_Skin_BO6.png/revision/latest?cb=20250111010301) <br>Joyride | body_c_t10_phl_pl_maya_rebel | head_c_t10_phl_pl_maya_rebel | vm_c_t10_phl_pl_maya_rebel | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a4/Maya_Player115_Skin_BO6.png/revision/latest?cb=20250103235852) <br>Player 115 | body_c_t10_phl_pl_maya_spirit | head_c_t10_phl_pl_maya_spirit | vm_c_t10_phl_pl_maya_spirit | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/89/Maya_Aetherella_Skin_BO6.png/revision/latest?cb=20250214005951) <br>Aetherella | body_c_t10_phl_pl_maya_aether | head_c_t10_phl_pl_maya_aether | vm_c_t10_phl_pl_maya_aether | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Maya_CrimsonChaos_Skin_BO6.png/revision/latest?cb=20250223160716) <br>Crimson Chaos | body_c_t10_phl_pl_maya_chaos | head_c_t10_phl_pl_maya_chaos | vm_c_t10_phl_pl_maya_chaos | 
+
+
+
+# Goliath 
+
+| Icon  | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8b/Goliath_Default_Skin_BO6.png/revision/latest?cb=20241119185607) Goliath | body_c_t10_usa_pl_brimstone_hooded | head_c_t10_usa_pl_brimstone_hooded | vm_c_t10_usa_pl_brimstone_hooded |
+
+
+
+# The Replacer
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4f/TheReplacer_Default_Skin_BO6.png/revision/latest?cb=20241123001546) <br>The Replacer | body_c_t10_usa_pl_freelance_tie_bc | head_c_t10_usa_pl_freelance_tie_bc | vm_c_t10_usa_pl_freelance_tie_bc |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/TheReplacer_TheReplacerBlackCell_Skin_BO6.png/revision/latest?cb=20241123001547) <br>The Replacer Blackcell | body_c_t10_usa_pl_freelance_tie_bc | head_c_t10_usa_pl_freelance_tie_bc | vm_c_t10_usa_pl_freelance_tie_bc |
+
+
+
+# Eric Samuels
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/98/Samuels_NewOrders_Skin_BO6.png/revision/latest?cb=20241201204335) <br>New Orders | body_c_t10_usa_pl_redacted_redacted | head_c_t10_usa_pl_redacted_redacted | vm_c_t10_usa_pl_redacted_redacted |
+
+
+
+ # Masked VIPs
+ 
+ > [!IMPORTANT]
+ > In Cordycep
+ > 
+ > `Lion VIP - Loadwc *nazir_grim*`
+ >
+ > `Panther VIP - Loadwc *ratcliff_banshee*`
+ >
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fa/Lion_Mask_VIP_Default_Skin_BO6.png/revision/latest?cb=20250104102427) <br>Lion Mask VIP | body_c_t10_ury_pl_vip_west_rogue | head_c_t10_ury_pl_vip_west_rogue | vm_c_t10_ury_pl_vip_west_rogue |   
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Panther_Mask_VIP_Default_Skin_BO6.png/revision/latest?cb=20250104102431) <br>Panther Mask VIP | body_c_t10_ury_pl_vip_east_sable | head_c_t10_ury_pl_vip_east_sable | vm_c_t10_ury_pl_vip_east_sable |   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Crimson One
 
 ![image](https://github.com/user-attachments/assets/152970fe-dd16-409e-874d-5faa6ff9d58d)
