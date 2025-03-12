@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> | | 
+![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br> | | 
 | | | | | 
 
 
