@@ -46,9 +46,6 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/651e7f23-c60c-406c-8fe7-e520930f7c8f)<br> Scorcher | sn_droger_ | 
 | | | | | 
-<br> |  | 
-| | | | | 
-<br> |  | 
 
 
 
