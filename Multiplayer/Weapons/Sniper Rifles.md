@@ -32,7 +32,21 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/916a226f-96ae-4bbb-8b4b-1a99aab9dc4b)<br> Default | sn_droger | 
 | | | | | 
-<br> |  | 
+![image](https://github.com/user-attachments/assets/46864d16-d4b8-48d0-8753-b65a3185b3dd)<br> Axel |  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/eebd4d3d-8161-404e-a361-99d5df6451bc)<br> Brainplow |  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/a9e6921e-7d82-4e28-8f68-3d8abaa5e633)<br> Darkflare |  | 
+| | | | | 
+<br> Floatin' Around |  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/c7498dbd-3b2c-4c8a-9eea-cfef4ca3b2da)<br> Forced Retreat |  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/45932749-4bbf-454f-956c-9a7ee9a0940b)<br> Loveless |  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4432f652-fb74-4b96-b503-0e477d0f3ac1)<br> Max Damage |  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/651e7f23-c60c-406c-8fe7-e520930f7c8f)<br> Scorcher |  | 
 | | | | | 
 <br> |  | 
 | | | | | 
