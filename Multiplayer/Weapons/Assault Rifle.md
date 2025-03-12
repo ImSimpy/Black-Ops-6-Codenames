@@ -11,10 +11,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/3fdf6a5a-9531-4b88-a831-f5efc5782942)<br> Default | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/9b8e3f07-acd5-4c0e-8c07-efd97136c155)<br> Default | ar_coslo723 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b0a938ba-2ccb-422c-9e54-51ee7c0d431a)
-<br> Atomic Commando  | ar_coslo723_prestige | 
+![image](https://github.com/user-attachments/assets/b0a938ba-2ccb-422c-9e54-51ee7c0d431a)<br> Atomic Commando  | ar_coslo723_prestige | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/902f869d-8531-49bd-be66-2c22f5b7495d)<br> Bug Smasher | ar_coslo723_beta01 | 
 | | | | |  
