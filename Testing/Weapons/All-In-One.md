@@ -32,17 +32,13 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/95b15dd5-f596-49ec-8a2e-4489064f435c)<br> Shared Fate | ar_coslo723_senses | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/df1176e6-3640-4883-a5bb-0fcdebe2c01d)
-<br> Venomer | ar_coslo723_snake | 
+![image](https://github.com/user-attachments/assets/df1176e6-3640-4883-a5bb-0fcdebe2c01d)<br> Venomer | ar_coslo723_snake | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/8035560c-1cf6-4793-863e-9ec57b31630b)
-<br> Vile Tribute | ar_coslo723_vhunter | 
+![image](https://github.com/user-attachments/assets/8035560c-1cf6-4793-863e-9ec57b31630b)<br> Vile Tribute | ar_coslo723_vhunter | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/05c75d09-ea91-4565-baff-35721fc5276e)
-<br> Wild Mannered | ar_coslo723_dots | 
+![image](https://github.com/user-attachments/assets/05c75d09-ea91-4565-baff-35721fc5276e)<br> Wild Mannered | ar_coslo723_dots | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/3a4b83ae-81fb-495d-829c-19dc799517ec)
-<br> Wild Mannered BlackCell | ar_coslo723_dotsblk | 
+![image](https://github.com/user-attachments/assets/3a4b83ae-81fb-495d-829c-19dc799517ec)<br> Wild Mannered BlackCell | ar_coslo723_dotsblk | 
 | | | | | 
 
 
