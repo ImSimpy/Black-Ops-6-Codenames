@@ -18,8 +18,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/e3ce5e1e-c8b5-406d-8df1-b4015fed1bf2)<br> Debt Collector | sl_goslo_ | 
 | | | | | 
-<br> |  | 
-| | | | | 
+
 
 
 
@@ -30,9 +29,12 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3c5cd600-80f7-4154-810c-42d9459d7593)<br> Default | sl_blauncher | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/f51a9f74-846d-44b4-901e-d2fac9ff75e5)<br> Sliced | sl_blauncher_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/324b2c61-e157-4cc1-9773-d03e50333298)<br> Unconscious | sl_blauncher_ | 
+| | | | | 
 <br> |  | 
 | | | | | 
-
 
 
 
