@@ -48,11 +48,21 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/39f0fc59-2e31-42f4-9a2a-44009baff928) <br> Default | ar_aking74 | 
+ | | | | | 
  <br>  |  | 
-| | | | | 
+ | | | | | 
+ <br>  |  | 
+ | | | | | 
+ <br>  |  | 
+ | | | | | 
+ <br>  |  | 
+ | | | | | 
 
 
 
+
+ 
 # AMES 85
 
 | Icon | Name |
@@ -60,6 +70,13 @@
 | | | | | 
  <br>  |  | 
 | | | | | 
+ <br>  |  | 
+| | | | | 
+ <br>  |  | 
+| | | | | 
+ <br>  |  | 
+| | | | | 
+ <br>  |  | 
 
 
 
