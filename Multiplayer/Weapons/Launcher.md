@@ -1,4 +1,3 @@
-# Launchers
 
 # Cigma 2B
 
