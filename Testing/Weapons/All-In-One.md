@@ -1,4 +1,4 @@
-
+# Weapons 
 
 > [!IMPORTANT]
 > The model will be in seperete parts
@@ -7,7 +7,7 @@
 
 
 
-# Assualt Rifle
+## Assualt Rifle
 
 
 ## XM4 
