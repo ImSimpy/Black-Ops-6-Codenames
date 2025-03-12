@@ -11,7 +11,7 @@
 
 ![image](https://github.com/user-attachments/assets/132ebd77-7d21-4be1-ad8b-88f53fa18b8e)
 
-## Russel Adler
+# Russel Adler
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
