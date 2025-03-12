@@ -11,7 +11,7 @@ Since alot of yall requested for a codename sheet. This will content most asset 
 
 𝐆𝐫𝐞𝐚𝐭 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐣𝐮𝐬𝐭 𝐩𝐫𝐞𝐬𝐬 𝐭𝐡𝐞 𝐚𝐧𝐲 `𝐅𝐨𝐥𝐝𝐞𝐫` 𝐚𝐧𝐝 𝐏𝐫𝐞𝐬𝐬 𝐚𝐧𝐲 `.𝐦𝐝` 𝐟𝐢𝐥𝐞 𝐥𝐢𝐤𝐞 𝐚 𝐁𝐎𝟔 𝐖𝐞𝐚𝐩𝐨𝐧 𝐨𝐫 𝐚 𝐁𝐎𝟔 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫.
 
-# 𝐂𝐚𝐧'𝐭 𝐅𝐢𝐧𝐝 𝐓𝐡𝐢𝐬 𝐌𝐨𝐝𝐞𝐥
+# 𝐂𝐚𝐧'𝐭 𝐅𝐢𝐧𝐝 𝐀 𝐂𝐨𝐝𝐞𝐧𝐚𝐦𝐞?
  𝐈𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧𝐭 𝐟𝐢𝐧𝐝 𝐚 𝐌𝐨𝐝𝐞𝐥 𝐨𝐫 𝐢 𝐟𝐨𝐫𝐠𝐨𝐭 𝐭𝐨 𝐚𝐝𝐝 𝐨𝐧𝐞 𝐣𝐮𝐬𝐭 𝐥𝐞𝐭 𝐮𝐬 𝐤𝐧𝐨𝐰.  
  
  𝐃𝐢𝐬𝐜𝐨𝐫𝐝 : 𝐒𝐢𝐦𝐩𝐲 𝐓𝐡𝐞 𝐒𝐢𝐦𝐩 
@@ -21,7 +21,7 @@ Since alot of yall requested for a codename sheet. This will content most asset 
 # 𝐇𝐞𝐥𝐩
  𝐈𝐟 𝐂𝐨𝐫𝐝𝐲𝐂𝐞𝐩 𝐨𝐫 𝐆𝐫𝐞𝐲𝐡𝐨𝐮𝐧𝐝 𝐝𝐨𝐞𝐬𝐧𝐭 𝐥𝐨𝐚𝐝 𝐭𝐡𝐞 𝐧𝐚𝐦𝐞𝐬 𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐨𝐦𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐝𝐢𝐬𝐜𝐨𝐫𝐝 𝐬𝐞𝐫𝐯𝐞𝐫 𝐟𝐨𝐫 𝐡𝐞𝐥𝐩
  
- 𝐂𝐨𝐫𝐝𝐲𝐂𝐞𝐩/𝐆𝐫𝐞𝐲𝐡𝐨𝐮𝐧𝐝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭:
+ ## 𝐂𝐨𝐫𝐝𝐲𝐂𝐞𝐩/𝐆𝐫𝐞𝐲𝐡𝐨𝐮𝐧𝐝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭:
   [Dest1yo's Server](https://discord.gg/eY2Y5p2PEp)
 
 
