@@ -9,7 +9,7 @@
 
 # Assualt Rifle
 
-**XM4 
+##XM4 
 
 | Icon | Name |
 | :--: | :--: | 
