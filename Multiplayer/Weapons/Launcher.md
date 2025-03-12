@@ -1,4 +1,9 @@
 
+
+> [!IMPORTANT]
+> Launchers will be one whole model so no need to merge anything
+>
+
 # Cigma 2B
 
 | Icon | Name |
