@@ -33,8 +33,6 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/324b2c61-e157-4cc1-9773-d03e50333298)<br> Unconscious | sl_blauncher_ | 
 | | | | | 
-<br> |  | 
-| | | | | 
 
 
 
