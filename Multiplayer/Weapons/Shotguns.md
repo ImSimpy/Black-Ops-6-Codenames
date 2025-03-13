@@ -31,7 +31,6 @@
 ![image](https://github.com/user-attachments/assets/5b549c7d-ddb5-434b-b461-e283dd57439a)<br> Unrepentant | sh_moslo500_vault | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/9fd4e423-2263-4f51-aed2-ae4a39d33cab)<br> Wrapped | sh_moslo500_cdlope | 
-| | | | | 
 
 
 
@@ -59,7 +58,6 @@
 ![image](https://github.com/user-attachments/assets/3020885e-b743-4953-8989-a95a12633eb1)<br> Turmoil | sh_uncle12_dots | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/274467d6-6fec-46f6-b378-306a92dceae2)<br> Violation | sh_uncle12_angelmon | 
-| | | | | 
 
 
 
@@ -81,8 +79,6 @@
 ![image](https://github.com/user-attachments/assets/992ad839-4c76-4cc6-b7a7-185ef75d8d1b)<br> Riff Ripper | sh_jhavana_ | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/23d432a5-08f6-43f0-9c3a-0bf92bd98089)<br> Shuffle | sh_jhavana_diamond | 
-| | | | | 
-
 
 
 
