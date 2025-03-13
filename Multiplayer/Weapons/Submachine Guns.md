@@ -30,6 +30,7 @@
 ![image](https://github.com/user-attachments/assets/d908e5fc-9132-4839-a2fa-6a048a45a6a5)<br>Kill Switch | sm_chuck9_cyber | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/a2f7cf88-dab1-4089-a25b-a67b36f2fa04)<br>Gold Standard | sm_chuck9_bloody | 
+| | | | | 
 
 
 
@@ -53,6 +54,7 @@
 ![image](https://github.com/user-attachments/assets/68511e33-440e-44c5-8a18-7407ce41a8c7)<br> Bongshot | sm_sroger3_bong | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/43a9209a-742d-45a8-a9e4-48b4b3d9b9c3) <br> TBA | sm_sroger3_highend | 
+| | | | | 
 
 
 
@@ -61,26 +63,26 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sm_roger31 | 
+![image](https://github.com/user-attachments/assets/ec768f67-c3f3-4dda-b82c-cd34d5d35ea2)<br> Default | sm_roger31 | 
 | | | | | 
-<br> Quantum Reaver | sm_roger31_cyberhack | 
+![image](https://github.com/user-attachments/assets/9d98ce9b-5022-448b-aa49-4939128e83bf)<br> Quantum Reaver | sm_roger31_cyberhack | 
 | | | | | 
-<br> Cat's Claw | sm_roger31_tattooed | 
+![image](https://github.com/user-attachments/assets/e8c9bfc8-af8e-4dd9-829d-0ae6d237a461)<br> Cat's Claw | sm_roger31_tattooed | 
 | | | | | 
-<br> Shadowed | sm_roger31_scorn | 
+![image](https://github.com/user-attachments/assets/2d05c74f-e874-4a45-bf2d-56bda5445148)<br> Shadowed | sm_roger31_scorn | 
 | | | | | 
-<br> Thorn | sm_roger31_flower | 
+![image](https://github.com/user-attachments/assets/00459d46-7619-484e-b9cb-190a258188d0)<br> Thorn | sm_roger31_flower | 
 | | | | | 
-<br> Proxima | sm_roger31_scifi | 
+![image](https://github.com/user-attachments/assets/895b717f-54ed-4ce3-b444-67329b1e4b7b)<br> Proxima | sm_roger31_scifi | 
 | | | | | 
-<br> Punker | sm_roger31_pklaus | 
+![image](https://github.com/user-attachments/assets/5dca5dd8-8dc8-44ba-8227-f92cf0b90ca9)<br> Punker | sm_roger31_pklaus | 
 | | | | | 
-<br> Riptear | sm_roger31_steam | 
+![image](https://github.com/user-attachments/assets/6de19abc-c70d-4dad-ac4e-1b1b39174466)<br> Riptear | sm_roger31_steam | 
 | | | | | 
-<br> Broken Silence | sm_roger31_wnpeace | 
+![image](https://github.com/user-attachments/assets/f362a1f2-13c6-48fc-b0e9-3689ad2f7435)<br> Broken Silence | sm_roger31_wnpeace | 
 | | | | | 
-<br> Deck Cutter | sm_roger31_diamond | 
-
+![image](https://github.com/user-attachments/assets/c8141007-e0fc-4ed5-821f-9803bbbc299d)<br> Deck Cutter | sm_roger31_diamond | 
+| | | | | 
 
 
 
@@ -118,7 +120,7 @@
 <br> Close Range BlackCell | sm_pparis90_s2blk | 
 | | | | | 
 <br> Unknown | sm_pparis90_shg01 | 
-
+| | | | | 
 
 
 
@@ -150,6 +152,7 @@
 <br> Boneshard | sm_geasy9_s2blk | 
 | | | | | 
 <br> Bass Boost | sm_geasy9_cdplayer | 
+| | | | | 
 
 
 
@@ -158,19 +161,20 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Default | sm_safox | 
+<br> Default | sm_safox | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Bling Bling | sm_safox_hiphop | 
+<br> Bling Bling | sm_safox_hiphop | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Radical | sm_safox_actionf | 
+<br> Radical | sm_safox_actionf | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Exquisitor | sm_safox_shrouded | 
+<br> Exquisitor | sm_safox_shrouded | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Halfpipe Handler | sm_safox_tundra | 
+<br> Halfpipe Handler | sm_safox_tundra | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Satin Slayer | sm_safox_stingray02 | 
+<br> Satin Slayer | sm_safox_stingray02 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcc7bd99-4039-451d-8260-0dc72f3fe5c2)<br> Scrapper | sm_safox_taro | 
+<br> Scrapper | sm_safox_taro | 
+| | | | | 
 
 
 
@@ -179,24 +183,24 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Default | sm_saug | 
+<br> Default | sm_saug | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Scratch One | sm_saug_volt | 
+<br> Scratch One | sm_saug_volt | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Desecration | sm_saug_angelmon | 
+<br> Desecration | sm_saug_angelmon | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Exhumation | sm_saug_dig | 
+<br> Exhumation | sm_saug_dig | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Boss Orders | sm_saug_stingray04 | 
+<br> Boss Orders | sm_saug_stingray04 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Striking Distance | sm_saug_aether | 
+<br> Striking Distance | sm_saug_aether | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Mecha-Drake | sm_saug_forge | 
+<br> Mecha-Drake | sm_saug_forge | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Salutations | sm_saug_sporty | 
+<br> Salutations | sm_saug_sporty | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c05bce73-248f-42bb-89bc-f08a8e506b7f)<br> Salutations BlackCell | sm_saug_magmablk | 
-
+<br> Salutations BlackCell | sm_saug_magmablk | 
+| | | | | 
 
 
 # PPSh-41
@@ -204,17 +208,16 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ea00ccca-7c07-491d-8ca3-2d1ce4afacfa)<br> Default | sm_perth | 
+<br> Default | sm_perth | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ea00ccca-7c07-491d-8ca3-2d1ce4afacfa)<br> Jester | sm_perth_bigjoke | 
+<br> Jester | sm_perth_bigjoke | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ea00ccca-7c07-491d-8ca3-2d1ce4afacfa)<br> Reef Hunter | sm_perth_creature | 
+<br> Reef Hunter | sm_perth_creature | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ea00ccca-7c07-491d-8ca3-2d1ce4afacfa)<br> Gloomnaught | sm_perth_echo | 
+<br> Gloomnaught | sm_perth_echo | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ea00ccca-7c07-491d-8ca3-2d1ce4afacfa)<br> Gloomnaught BlackCell | sm_perth_s2blk | 
-
-
+<br> Gloomnaught BlackCell | sm_perth_s2blk | 
+| | | | | 
 
 
 
