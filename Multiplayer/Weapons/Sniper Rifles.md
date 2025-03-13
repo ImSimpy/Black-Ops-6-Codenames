@@ -84,17 +84,17 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/61ca3417-5eb4-4d21-ac39-030cadd78a82)<br> Default | sn_mary82 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/f2b8ef0b-eb2b-469e-9b50-15715bf58dd3)<br> Blacksmoke | sn_mary82_ | 
+![image](https://github.com/user-attachments/assets/f2b8ef0b-eb2b-469e-9b50-15715bf58dd3)<br> Blacksmoke | sn_mary82_s2blk | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/14cf34fa-af44-4757-8a78-7d3b7a8a2287)<br> Battering Ram | sn_mary82_  | 
+![image](https://github.com/user-attachments/assets/14cf34fa-af44-4757-8a78-7d3b7a8a2287)<br> Battering Ram | sn_mary82_police  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/7b9ad72f-d45e-4d85-ace6-2eeeb0a9d44d)<br> Coiled Strike | sn_mary82_ | 
+![image](https://github.com/user-attachments/assets/7b9ad72f-d45e-4d85-ace6-2eeeb0a9d44d)<br> Coiled Strike | sn_mary82_snake | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/7585d81f-f6d8-4573-86ff-216ed0286ac0)<br> Dethroned | sn_mary82_ | 
+![image](https://github.com/user-attachments/assets/7585d81f-f6d8-4573-86ff-216ed0286ac0)<br> Dethroned | sn_mary82_yellow | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ae56b362-a548-4893-88ac-207908df92f8)<br> High Sight | sn_mary82_ | 
+![image](https://github.com/user-attachments/assets/ae56b362-a548-4893-88ac-207908df92f8)<br> High Sight | sn_mary82_takedown | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/43034a59-a566-4254-87e9-d5c4e6836784)<br> Homegrown | sn_mary82_ | 
+![image](https://github.com/user-attachments/assets/43034a59-a566-4254-87e9-d5c4e6836784)<br> Homegrown | sn_mary82_wizard | 
 | | | | | 
 
 
