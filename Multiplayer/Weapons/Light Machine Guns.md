@@ -1,7 +1,7 @@
 # Light Machine Guns
 
 > [!IMPORTANT]
-> The model will be in seperete parts
+> Models are separated based on their respective attachments
 >
 > Like `receiver` or `mag`
 
