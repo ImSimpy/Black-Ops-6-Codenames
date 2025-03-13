@@ -21,8 +21,6 @@
 ![image](https://github.com/user-attachments/assets/062f45a7-48b0-4e89-a214-2e4037332f42)<br> Scrub  | pi_mable_hiphop | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f4a563c3-f8ee-4d4c-8930-f25d92bf8802)<br> Thronebuster | pi_mable_yellow | 
-| | | | | 
-
 
 
 #  Grekhova
@@ -34,8 +32,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/198adcc6-1224-4280-9d20-71fe848b6a72)<br> Brutal Stings | pi_stiger_desert  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/6c4ebcd8-41f3-45d8-9889-ab72a86ae9f9)<br> Omertà | pi_stiger_pmorte | 
-| | | | | 
+![image](https://github.com/user-attachments/assets/6c4ebcd8-41f3-45d8-9889-ab72a86ae9f9)<br> Omertà | pi_stiger_pmorte |  
 
 
 
@@ -59,7 +56,6 @@
 ![image](https://github.com/user-attachments/assets/4c1698de-4099-409f-b1a0-aa309873e7e7)<br> Viperous | pi_usugar9_bsnake | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/09a99352-e791-4959-b48b-1ce4c87084dc)<br> Waterworks | pi_usugar9_tparent | 
-| | | | | 
 
 
 
@@ -73,7 +69,6 @@
 ![image](https://github.com/user-attachments/assets/14f42d3e-398e-49d9-9b9d-e793f1d908fe)<br> Quick Mercy | pi_paris30_silver | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/4288c0b7-8eb8-45b2-91d6-24a79010c448)<br> Remain Silent  | pi_paris30_police | 
-| | | | | 
 
 
 
