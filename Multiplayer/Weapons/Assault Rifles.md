@@ -249,11 +249,14 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/2151a0de-9cc8-4c2c-af79-cbac57533a54)<br> Default | ar_tbaker  | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/ab3b2e0b-d244-43e5-85f4-5f95531622c5)<br> Death Blow | ar_tbaker_map | 
 | | | | | 
-
-
-
+![image](https://github.com/user-attachments/assets/7aa38a54-80eb-4a3a-bdd7-302756546895)<br> Death Blow BlackCell | ar_tbaker_s2blk | 
+| | | | |
+![image](https://github.com/user-attachments/assets/0b1839e3-ba26-4f17-bf65-cd0d39ef9232)<br> Playbook | ar_tbaker_biggame | 
+| | | | |
+![image](https://github.com/user-attachments/assets/6ad7f32e-6a51-411f-b1a3-96de28e859c4)<br> Stream Team | ar_tbaker_vtuber | 
+| | | | |
 
 
 
