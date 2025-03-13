@@ -1,7 +1,7 @@
 # Assault Rifles
 
 > [!IMPORTANT]
-> The model will be in seperete parts
+> Models are separated by their attachments
 >
 > Like `receiver` or `mag`
 
