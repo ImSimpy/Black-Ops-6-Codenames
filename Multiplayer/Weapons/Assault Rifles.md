@@ -198,19 +198,19 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/a68ec5c0-cb99-4cf5-83bf-50a790e2de53)<br> Default | ar_asvalor | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/a358c384-649b-44c3-9e3c-012b914f5a22)<br> Cannibal | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/a358c384-649b-44c3-9e3c-012b914f5a22)<br> Cannibal | ar_asvalor_mystery | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/4aa4c358-d86c-4411-8641-f0953c66fc35)<br> Dreadfin | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/4aa4c358-d86c-4411-8641-f0953c66fc35)<br> Dreadfin | ar_asvalor_creature | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/73241f9d-8a4c-44d9-89b9-e4ed197a909f)<br> Dreadhorn | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/73241f9d-8a4c-44d9-89b9-e4ed197a909f)<br> Dreadhorn | ar_asvalor_unicorn | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/505ada8c-c14d-43cc-b2db-93a890c68f1a)<br> Icebite | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/505ada8c-c14d-43cc-b2db-93a890c68f1a)<br> Icebite | ar_asvalor_jfrost | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/d24628dd-da50-467b-84ea-2bf67f59332c)<br> Quick Wit | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/d24628dd-da50-467b-84ea-2bf67f59332c)<br> Quick Wit | ar_asvalor_seahorse  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/1c1e6bac-637e-4d46-bcf8-81da31008ecf)<br> Rapier | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/1c1e6bac-637e-4d46-bcf8-81da31008ecf)<br> Rapier | ar_asvalor_templar | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/94024f5c-3976-45fd-a8bc-3f2ad71a760f)<br> Ripple | ar_asvalor_ | 
+![image](https://github.com/user-attachments/assets/94024f5c-3976-45fd-a8bc-3f2ad71a760f)<br> Ripple | ar_asvalor_fatale | 
 | | | | | 
 
 
