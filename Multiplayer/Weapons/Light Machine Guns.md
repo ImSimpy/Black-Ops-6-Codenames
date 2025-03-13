@@ -58,19 +58,19 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Default | lm_ksugar58 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Dead End | lm_ksugar58_slayer | 
+![image](https://github.com/user-attachments/assets/e7155df2-5cd6-47ef-b835-4b8c61a24120)<br> Dead End | lm_ksugar58_slayer | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Encrypted | lm_ksugar58_hacker | 
+![image](https://github.com/user-attachments/assets/3e444b77-9df6-45ed-928f-cf85e192ad4c)<br> Encrypted | lm_ksugar58_hacker | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Big Brained | lm_ksugar58_thai | 
+![image](https://github.com/user-attachments/assets/550c9377-ee26-45b7-9255-3e510023e259)<br> Big Brained | lm_ksugar58_thai | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Blunt Trauma | lm_ksugar58_bong | 
+![image](https://github.com/user-attachments/assets/b7cc2dd5-2ef8-4b79-bae1-ece6f197601c)<br> Blunt Trauma | lm_ksugar58_bong | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Exo-Organism | lm_ksugar58_parasite | 
+![image](https://github.com/user-attachments/assets/b07f0d48-a16f-43e5-9707-8f2a63dee39f)<br> Exo-Organism | lm_ksugar58_parasite | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Hither Slither | lm_ksugar58_decay | 
+![image](https://github.com/user-attachments/assets/02d8a4b2-13f3-4a54-9ef9-669a0dde949b)<br> Hither Slither | lm_ksugar58_decay | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ff4dbe4e-c9cd-49c7-9528-98781c700499)<br> Hither Slither BlackCell | lm_ksugar58_decayblk | 
+![image](https://github.com/user-attachments/assets/120f1dd7-c976-4093-9817-9b9bb10728ec)<br> Hither Slither BlackCell | lm_ksugar58_decayblk | 
 
 
 # Feng 82
@@ -80,13 +80,13 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Default | lm_uxray | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Get Lucky | lm_uxray_saintpat |
+<br> Get Lucky | lm_uxray_saintpat |
 | | | | | 
-![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Shred | lm_uxray_dmetal |
+<br> Shred | lm_uxray_dmetal |
 | | | | | 
-![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Tourniquet | lm_uxray_mapv2 |
+<br> Tourniquet | lm_uxray_mapv2 |
 | | | | | 
-![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Tourniquet Blackcell | lm_uxray_s2blk |
+<br> Tourniquet Blackcell | lm_uxray_s2blk |
 
 
 
