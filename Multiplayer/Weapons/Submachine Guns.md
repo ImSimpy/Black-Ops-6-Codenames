@@ -216,8 +216,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/4669a088-a8a1-451d-91c2-a8bea7819dd4)<br> Gloomnaught | sm_perth_echo | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/1426d068-c0d4-40f8-b2bf-3b6039717895)
-<br> Gloomnaught BlackCell | sm_perth_s2blk | 
+![image](https://github.com/user-attachments/assets/1426d068-c0d4-40f8-b2bf-3b6039717895)<br> Gloomnaught BlackCell | sm_perth_s2blk | 
 | | | | | 
 
 
