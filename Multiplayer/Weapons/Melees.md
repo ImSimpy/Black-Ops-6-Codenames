@@ -1,7 +1,7 @@
 # Melees
 
 > [!IMPORTANT]
-> Melees will be one whole model so no need to merge anything
+> Melee weapons are a single model, so no merging is needed!
 >
 
 
