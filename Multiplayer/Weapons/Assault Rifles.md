@@ -35,7 +35,6 @@
 ![image](https://github.com/user-attachments/assets/05c75d09-ea91-4565-baff-35721fc5276e)<br> Wild Mannered | ar_coslo723_dots | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3a4b83ae-81fb-495d-829c-19dc799517ec)<br> Wild Mannered BlackCell | ar_coslo723_dotsblk | 
-| | | | | 
 
 
 
@@ -65,7 +64,6 @@
 ![image](https://github.com/user-attachments/assets/e43d4ef2-c78c-4f78-b2f8-5ddd7a6eb2f5)<br> Vitriol BlackCell | ar_aking74_s2blk | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/06e90a2c-f6d0-4864-b036-3b10b5691573)<br> Yeehaw |  ar_aking74_cowboy | 
-| | | | | 
 
 
  
@@ -101,8 +99,6 @@
 ![image](https://github.com/user-attachments/assets/7f62fb6d-eee6-45a0-9793-ec5e7f4c8068)<br> The Redactor | ar_able18_in01 | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/6eeb9cdc-c8aa-4f5c-bba3-fc132d9c36f7)<br> Truth Serum | ar_able18_spsafehouse | 
-| | | | | 
-
 
 
 # GPR 91
@@ -131,7 +127,6 @@
 ![image](https://github.com/user-attachments/assets/9beec063-2c31-4e69-981d-b54484d01963)<br> Retaliator | ar_love85_panda01 | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/121c1fb7-1a86-494e-9c1d-2e1d8157023a)<br> Vault Security | ar_love85_maskbank | 
-| | | | | 
 
 
 
@@ -159,8 +154,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d7c6c770-40bf-498d-b759-7a7746117e95)<br> Robotic Ninja | ar_clove_brownsugar | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/3ec5f4e5-4045-4d57-9315-772ddb210c14)<br> Warrior's Blood | ar_clove_prestige | 
-| | | | | 
+![image](https://github.com/user-attachments/assets/3ec5f4e5-4045-4d57-9315-772ddb210c14)<br> Warrior's Blood | ar_clove_prestige |  
 
 
 # Goblin MK2
@@ -185,7 +179,6 @@
 ![image](https://github.com/user-attachments/assets/efa90eee-962c-44b5-a853-e55bcbfde158)<br> Tip the Scales | ar_rmary2_pscale | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/79e9aa28-600c-4d74-9d5a-b503f9cc64fd)<br> Ushered Peace | ar_rmary2_wnpeace | 
-| | | | |
 
 
 
@@ -237,7 +230,6 @@
 ![image](https://github.com/user-attachments/assets/3d3389f7-0f40-4790-affb-fdda21fea67c)<br> Seasonal Aggression | ar_fable_bagnog | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/91ed0c58-826c-4840-822b-fa4fcbfa33a5)<br> Silverbite | ar_fable_pristine | 
-| | | | | 
 
 
 
@@ -256,8 +248,6 @@
 ![image](https://github.com/user-attachments/assets/0b1839e3-ba26-4f17-bf65-cd0d39ef9232)<br> Playbook | ar_tbaker_biggame | 
 | | | | |
 ![image](https://github.com/user-attachments/assets/6ad7f32e-6a51-411f-b1a3-96de28e859c4)<br> Stream Team | ar_tbaker_vtuber | 
-| | | | |
-
 
 
 
