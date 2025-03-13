@@ -13,23 +13,23 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Default | sm_chuck9 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Teddy is a Liar | sm_chuck9_prestige | 
+![image](https://github.com/user-attachments/assets/393835be-fd2b-45da-aa1e-0739e469032a)<br>Teddy is a Liar | sm_chuck9_prestige | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Howler | sm_chuck9_gsquad | 
+![image](https://github.com/user-attachments/assets/9be63e3a-b4b6-4996-818f-511be5dd750b)<br>Howler | sm_chuck9_gsquad | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Subverter | sm_chuck9_stealth | 
+![image](https://github.com/user-attachments/assets/7a367e56-0938-48d2-b01b-ea0780e79389)<br>Subverter | sm_chuck9_stealth | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Tank | sm_chuck9_thai | 
+![image](https://github.com/user-attachments/assets/90479c13-1537-4d43-8c5e-d013afe504cb)<br>Tank | sm_chuck9_thai | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Hardwire | sm_chuck9_mecha | 
+![image](https://github.com/user-attachments/assets/ed3c69a6-9c63-4cdd-83b5-c610e79b5752)<br>Hardwire | sm_chuck9_mecha | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Demoted | sm_chuck9_exec | 
+![image](https://github.com/user-attachments/assets/24af8206-24fb-4021-b95c-d57e23eb2bdc)<br>Demoted | sm_chuck9_exec | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Liar's Gambit | sm_chuck9_beaumont | 
+![image](https://github.com/user-attachments/assets/d78e80b1-9271-405b-b9ef-940933267345)<br>Liar's Gambit | sm_chuck9_beaumont | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Kill Switch | sm_chuck9_cyber | 
+![image](https://github.com/user-attachments/assets/d908e5fc-9132-4839-a2fa-6a048a45a6a5)<br>Kill Switch | sm_chuck9_cyber | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e99e7344-0621-403f-8ce3-09c33d1631ac)<br>Gold Standard | sm_chuck9_bloody | 
+![image](https://github.com/user-attachments/assets/a2f7cf88-dab1-4089-a25b-a67b36f2fa04)<br>Gold Standard | sm_chuck9_bloody | 
 
 
 
@@ -40,7 +40,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Default | sm_sroger3 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Purifier | sm_sroger3_zexterm | 
+<br> Purifier | sm_sroger3_zexterm | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Long Bomb | sm_sroger3_biggame | 
 | | | | | 
