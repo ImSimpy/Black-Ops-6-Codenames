@@ -14,17 +14,17 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Default | lm_puncle21 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Oxblood | lm_puncle21_lacquer | 
+![image](https://github.com/user-attachments/assets/0d92a10c-d6c8-49ba-824e-47d1ad4ee695)<br> Oxblood | lm_puncle21_lacquer | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Iron Fist | lm_puncle21_echo | 
+![image](https://github.com/user-attachments/assets/7f85b6bc-c4c0-4b24-b383-f59d345afe5e)<br> Iron Fist | lm_puncle21_echo | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Hog Wild | lm_puncle21_arsenal | 
+![image](https://github.com/user-attachments/assets/79487a02-7da7-4230-b9fa-7cac4d1bd1fd)<br> Hog Wild | lm_puncle21_arsenal | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Ramifications | lm_puncle21_seahorse | 
+![image](https://github.com/user-attachments/assets/31c35b24-3df6-4042-8534-9eacb79933db)<br> Ramifications | lm_puncle21_seahorse | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Myth Horse | lm_puncle21_unicorn | 
+![image](https://github.com/user-attachments/assets/d2d2c966-f640-424e-853c-1d11e58a1aa6)<br> Myth Horse | lm_puncle21_unicorn | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Ill Wind | lm_puncle21_jfrost | 
+![image](https://github.com/user-attachments/assets/eb39d71a-9dc2-4ab3-9ba8-7fc723b7b01e)<br> Ill Wind | lm_puncle21_jfrost | 
 
 
 
@@ -35,21 +35,21 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Default | lm_aroger10 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Get Wiped | lm_aroger10_launchtwitch | 
+![image](https://github.com/user-attachments/assets/7ead17f9-a406-4b13-84ea-eeae6fb3961a)<br> Get Wiped | lm_aroger10_launchtwitch | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Idle Hands | lm_aroger10_pcobra | 
+![image](https://github.com/user-attachments/assets/0c7ec012-a026-41da-8459-8214bcd19ccc)<br> Idle Hands | lm_aroger10_pcobra | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Espionage | lm_aroger10_stealth | 
+![image](https://github.com/user-attachments/assets/e5975116-a7ba-40f9-87d6-3fa9a2d29825)<br> Espionage | lm_aroger10_stealth | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Route | lm_aroger10_sable | 
+![image](https://github.com/user-attachments/assets/30870e8a-d7f1-4184-8856-835025028a6e)<br> Route | lm_aroger10_sable | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Dismemberment | lm_aroger10_zposter | 
+![image](https://github.com/user-attachments/assets/0557b4b6-cc02-4b75-beb7-910aa991c8b5)<br> Dismemberment | lm_aroger10_zposter | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Chain Drive | lm_aroger10_biker | 
+![image](https://github.com/user-attachments/assets/51c42363-aa9a-4e5c-832f-f14e137d3e73)<br> Chain Drive | lm_aroger10_biker | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Bloody Water | lm_aroger10_shark | 
+![image](https://github.com/user-attachments/assets/4dda566a-b8c4-4be6-b8e9-644eba7b45da)<br> Bloody Water | lm_aroger10_shark | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/656f3b7e-cdfe-485f-b0b5-baa688cd3671)<br> Batuque | lm_aroger10_carnival | 
+![image](https://github.com/user-attachments/assets/8323673d-4f10-44da-be5d-5c1d021b3176)<br> Batuque | lm_aroger10_carnival | 
 
 # GPMG-7
 
