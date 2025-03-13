@@ -38,21 +38,21 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Default | sm_sroger3 | 
+![image](https://github.com/user-attachments/assets/f80c6ce8-79e3-46f9-80d3-18cd61c44d3c)<br> Default | sm_sroger3 | 
 | | | | | 
-<br> Purifier | sm_sroger3_zexterm | 
+![image](https://github.com/user-attachments/assets/d429d2a9-c49c-43a7-bd38-f37c54e802a8)<br> Purifier | sm_sroger3_zexterm | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Long Bomb | sm_sroger3_biggame | 
+![image](https://github.com/user-attachments/assets/17fc4877-68c1-4951-b1ca-c89e853dfebd)<br> Long Bomb | sm_sroger3_biggame | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Infestation | sm_sroger3_brownsugar | 
+![image](https://github.com/user-attachments/assets/5d9c60c8-94ef-4bcf-8f2b-95e0bfa15ea4)<br> Infestation | sm_sroger3_brownsugar | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Fair Dinkum | sm_sroger3_shark | 
+![image](https://github.com/user-attachments/assets/2bab4d66-0244-48fc-b67d-8f0d5c6322f3)<br> Fair Dinkum | sm_sroger3_shark | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Magical Whiff | sm_sroger3_wizard | 
+![image](https://github.com/user-attachments/assets/11886a00-3ebd-471c-a07b-55522c06df6c)<br> Magical Whiff | sm_sroger3_wizard | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Bongshot | sm_sroger3_bong | 
+![image](https://github.com/user-attachments/assets/68511e33-440e-44c5-8a18-7407ce41a8c7)<br> Bongshot | sm_sroger3_bong | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/836c95ba-ba15-4541-8a8b-fd80fbe41e5f)<br> Unknown | sm_sroger3_highend | 
+![image](https://github.com/user-attachments/assets/43a9209a-742d-45a8-a9e4-48b4b3d9b9c3) <br> TBA | sm_sroger3_highend | 
 
 
 
@@ -61,25 +61,25 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Default | sm_roger31 | 
+<br> Default | sm_roger31 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Quantum Reaver | sm_roger31_cyberhack | 
+<br> Quantum Reaver | sm_roger31_cyberhack | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Cat's Claw | sm_roger31_tattooed | 
+<br> Cat's Claw | sm_roger31_tattooed | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Shadowed | sm_roger31_scorn | 
+<br> Shadowed | sm_roger31_scorn | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Thorn | sm_roger31_flower | 
+<br> Thorn | sm_roger31_flower | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Proxima | sm_roger31_scifi | 
+<br> Proxima | sm_roger31_scifi | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Punker | sm_roger31_pklaus | 
+<br> Punker | sm_roger31_pklaus | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Riptear | sm_roger31_steam | 
+<br> Riptear | sm_roger31_steam | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Broken Silence | sm_roger31_wnpeace | 
+<br> Broken Silence | sm_roger31_wnpeace | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0000ce2e-d0a9-4922-9505-3695ced3a8ee)<br> Deck Cutter | sm_roger31_diamond | 
+<br> Deck Cutter | sm_roger31_diamond | 
 
 
 
@@ -93,31 +93,31 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Default | sm_pparis90 | 
+<br> Default | sm_pparis90 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Enigma Tech | sm_pparis90_prestige | 
+<br> Enigma Tech | sm_pparis90_prestige | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Psychedelic | sm_pparis90_mushroom | 
+<br> Psychedelic | sm_pparis90_mushroom | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Mire | sm_pparis90_mire | 
+<br> Mire | sm_pparis90_mire | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Strained | sm_pparis90_rebel | 
+<br> Strained | sm_pparis90_rebel | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Bad Attitude | sm_pparis90_90splaid | 
+<br> Bad Attitude | sm_pparis90_90splaid | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Killer Resolve | sm_pparis90_firework | 
+<br> Killer Resolve | sm_pparis90_firework | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Carrion | sm_pparis90_cartoon | 
+<br> Carrion | sm_pparis90_cartoon | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Hard Right | sm_pparis90_motocore | 
+<br> Hard Right | sm_pparis90_motocore | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Occult | sm_pparis90_occult | 
+<br> Occult | sm_pparis90_occult | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Judgment  | sm_pparis90_panda01 | 
+<br> Judgment  | sm_pparis90_panda01 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Close Range BlackCell | sm_pparis90_s2blk | 
+<br> Close Range BlackCell | sm_pparis90_s2blk | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bfcad362-471e-49f3-b75d-28541e40f693)<br> Unknown | sm_pparis90_shg01 | 
+<br> Unknown | sm_pparis90_shg01 | 
 
 
 
@@ -129,27 +129,27 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Default | sm_geasy9 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Pro Issue | sm_geasy9_s2ranked | 
+<br> Pro Issue | sm_geasy9_s2ranked | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Dimensions | sm_geasy9_cdlmajor | 
+<br> Dimensions | sm_geasy9_cdlmajor | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> VMP Elite | sm_geasy9_prestige | 
+<br> VMP Elite | sm_geasy9_prestige | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Pocket Aces | sm_geasy9_spsafehouse | 
+<br> Pocket Aces | sm_geasy9_spsafehouse | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> The Roar | sm_geasy9_tattooed | 
+<br> The Roar | sm_geasy9_tattooed | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Game Guard | sm_geasy9_stingray01 | 
+<br> Game Guard | sm_geasy9_stingray01 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Painbow | sm_geasy9_unicorn | 
+<br> Painbow | sm_geasy9_unicorn | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Blood Draw | sm_geasy9_vhunter | 
+<br> Blood Draw | sm_geasy9_vhunter | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Scourge | sm_geasy9_vault | 
+<br> Scourge | sm_geasy9_vault | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Boneshard | sm_geasy9_s2blk | 
+<br> Boneshard | sm_geasy9_s2blk | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b06c27e5-9618-43bc-af05-5041a494f121)<br> Bass Boost | sm_geasy9_cdplayer | 
+<br> Bass Boost | sm_geasy9_cdplayer | 
 
 
 
