@@ -222,21 +222,21 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/5b15e1d3-25d5-4a00-b3b2-81ff015ab0c9)<br> Default  | ar_fable | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/6bf97d71-2c36-4e77-9f75-0eb27745c37c)<br> Bad Beat | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/6bf97d71-2c36-4e77-9f75-0eb27745c37c)<br> Bad Beat | ar_fable_purp | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/ad5d1e6f-d5e6-41e0-a745-650f4f30290c)<br> Bad Beat BlackCell | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/ad5d1e6f-d5e6-41e0-a745-650f4f30290c)<br> Bad Beat BlackCell | ar_fable_purpblk | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/06b5873a-0646-465f-95fb-a227a17f5b8e)<br> Dicer | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/06b5873a-0646-465f-95fb-a227a17f5b8e)<br> Dicer | ar_fable_taro | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/03cda953-6d4a-45e7-ae33-5ded23cb435c)<br> Hawkwing | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/03cda953-6d4a-45e7-ae33-5ded23cb435c)<br> Hawkwing | ar_fable_cartoon | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/f5e9e7b1-bc72-4f6e-9550-b48bd3e3d1ee)<br> Idiopathic | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/f5e9e7b1-bc72-4f6e-9550-b48bd3e3d1ee)<br> Idiopathic | ar_fable_parastie | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/369d81db-940c-4a1b-bbc0-0ca01ff7bef4)<br> Rule Master | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/369d81db-940c-4a1b-bbc0-0ca01ff7bef4)<br> Rule Master | ar_fable_stingray01 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/3d3389f7-0f40-4790-affb-fdda21fea67c)<br> Seasonal Aggression | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/3d3389f7-0f40-4790-affb-fdda21fea67c)<br> Seasonal Aggression | ar_fable_bagnog | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/91ed0c58-826c-4840-822b-fa4fcbfa33a5)<br> Silverbite | ar_fable_ | 
+![image](https://github.com/user-attachments/assets/91ed0c58-826c-4840-822b-fa4fcbfa33a5)<br> Silverbite | ar_fable_pristine | 
 | | | | | 
 
 
