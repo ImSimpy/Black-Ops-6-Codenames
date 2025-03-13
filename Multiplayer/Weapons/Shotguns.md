@@ -70,17 +70,17 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/7b715ec6-2438-4d34-b7e7-4a85223476b3)<br> Default | sh_jhavana | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e23d4e22-8549-4713-846d-4a105fdd14cb)<br> Furystorm | sh_jhavana_ | 
+![image](https://github.com/user-attachments/assets/e23d4e22-8549-4713-846d-4a105fdd14cb)<br> Furystorm | sh_jhavana_map | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/8140593c-844d-4ee5-9f55-6bede06c8d86)<br> Halfpipe | sh_jhavana_ | 
+![image](https://github.com/user-attachments/assets/8140593c-844d-4ee5-9f55-6bede06c8d86)<br> Halfpipe | sh_jhavana_manga | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c68a116f-3511-4af3-9faa-7b15be090f96)<br> Icebox | sh_jhavana_ | 
+![image](https://github.com/user-attachments/assets/c68a116f-3511-4af3-9faa-7b15be090f96)<br> Icebox | sh_jhavana_arctic | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/edaf818e-051e-4085-9581-b9caf9fb6c60)<br> Party Etiquette  | sh_jhavana_ | 
+![image](https://github.com/user-attachments/assets/edaf818e-051e-4085-9581-b9caf9fb6c60)<br> Party Etiquette  | sh_jhavana_sbrobber | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/992ad839-4c76-4cc6-b7a7-185ef75d8d1b)<br> Riff Ripper | sh_jhavana_ | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/23d432a5-08f6-43f0-9c3a-0bf92bd98089)<br> Shuffle | sh_jhavana_ | 
+![image](https://github.com/user-attachments/assets/23d432a5-08f6-43f0-9c3a-0bf92bd98089)<br> Shuffle | sh_jhavana_diamond | 
 | | | | | 
 
 
