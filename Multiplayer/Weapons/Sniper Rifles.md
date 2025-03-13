@@ -16,7 +16,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/c6c13621-ecbb-4464-91b7-cb9ecc9146fb)<br> Crack Shot | sn_love96_eagle | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/322db63b-4f9c-4e12-a916-b42337430643)<br> Devil's Playground	 | sn_love96_zexterm | 
+![image](https://github.com/user-attachments/assets/322db63b-4f9c-4e12-a916-b42337430643)<br> Devil's Playground | sn_love96_zexterm | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/747ad735-c160-4e8d-bf04-c8ce1916fae6)<br> Helm | sn_love96_mecha | 
 
