@@ -170,18 +170,24 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0fd49883-6794-4169-b99d-f381e7be6d3e)<br> Default | ar_rmary2  | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/b616d7ba-b5d0-4b56-9b8a-219daec2cba5)<br> Boiling Point | ar_rmary2_s1bcell | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/02ca343b-5dff-4a06-9ed5-2d805d6ca3ab)<br> Broad Hammer | ar_rmary2_sliver | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/e579c75d-6646-4d79-94cc-ce3097ee93d0)<br> First Responder | ar_rmary2_milsim | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/c16c30c9-d9b1-4df5-8aa0-d31aa7ed4fb6)<br> Menace | ar_rmary2_dmetal | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/eea93cbe-2332-4760-a8f4-b613537c1efb)<br> Polar Rip | ar_rmary2_tundra | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/706019a4-cbcd-4c41-883d-5f76591433ae)<br> Proper Gentlemen | ar_rmary2_sbrobber | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/efa90eee-962c-44b5-a853-e55bcbfde158)<br> Tip the Scales | ar_rmary2_pscale | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/79e9aa28-600c-4d74-9d5a-b503f9cc64fd)<br> Ushered Peace | ar_rmary2_wnpeace | 
+| | | | |
+
+
 
 
 
