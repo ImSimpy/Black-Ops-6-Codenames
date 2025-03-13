@@ -76,7 +76,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/edaf818e-051e-4085-9581-b9caf9fb6c60)<br> Party Etiquette  | sh_jhavana_sbrobber | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/992ad839-4c76-4cc6-b7a7-185ef75d8d1b)<br> Riff Ripper | sh_jhavana_ | 
+![image](https://github.com/user-attachments/assets/992ad839-4c76-4cc6-b7a7-185ef75d8d1b)<br> Riff Ripper | sh_jhavana_pklaus | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/23d432a5-08f6-43f0-9c3a-0bf92bd98089)<br> Shuffle | sh_jhavana_diamond | 
 
