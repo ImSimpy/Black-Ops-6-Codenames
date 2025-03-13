@@ -179,7 +179,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a5/Marshall_Kingmaker_Skin_BO6.png/revision/latest?cb=20250201180626) <br>Kingmaker | body_c_t10_usa_pl_marshall_breaker | head_c_t10_usa_pl_marshall_breaker | vm_c_t10_usa_pl_marshall_breaker |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Marshall_HitmakerBlackCell_Skin_BO6.png/revision/latest?cb=20250201180625) <br>Hitmaker | body_c_t10_usa_pl_marshall_samurai| head_c_t10_usa_pl_marshall_samurai | vm_c_t10_usa_pl_marshall_samurai |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Marshall_KingmakerBlackCell_Skin_BO6.png/revision/latest?cb=20250201180625) <br>Hitmaker | body_c_t10_usa_pl_marshall_samurai| head_c_t10_usa_pl_marshall_samurai | vm_c_t10_usa_pl_marshall_samurai |
 
 
 
