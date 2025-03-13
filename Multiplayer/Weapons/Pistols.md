@@ -30,11 +30,11 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/5f59554d-2f4f-4577-a044-ca80671449d8)<br> Default | pi_aps | 
+![image](https://github.com/user-attachments/assets/5f59554d-2f4f-4577-a044-ca80671449d8)<br> Default | pi_stiger | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/198adcc6-1224-4280-9d20-71fe848b6a72)<br> Brutal Stings | pi_aps_  | 
+![image](https://github.com/user-attachments/assets/198adcc6-1224-4280-9d20-71fe848b6a72)<br> Brutal Stings | pi_stiger_desert  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/6c4ebcd8-41f3-45d8-9889-ab72a86ae9f9)<br> Omertà | pi_aps_ | 
+![image](https://github.com/user-attachments/assets/6c4ebcd8-41f3-45d8-9889-ab72a86ae9f9)<br> Omertà | pi_stiger_pmorte | 
 | | | | | 
 
 
