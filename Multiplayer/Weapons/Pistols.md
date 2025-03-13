@@ -46,19 +46,19 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3b34db51-d3dd-4803-b1db-ef2c867ffd5b)<br> Default | pi_usugar9 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/877ca6b1-d8eb-46b4-9194-1664ccdd8081)<br> Curator | pi_usugar9_ | 
+![image](https://github.com/user-attachments/assets/877ca6b1-d8eb-46b4-9194-1664ccdd8081)<br> Curator | pi_usugar9_deco | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/fa8bc43c-a74c-401d-8ccc-dc0d834d8e41)<br> Custodian | pi_usugar9_  | 
+![image](https://github.com/user-attachments/assets/fa8bc43c-a74c-401d-8ccc-dc0d834d8e41)<br> Custodian | pi_usugar9_stingray04  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/fa04d2ab-3a7e-4879-851c-82bcc6742401)<br> Fate Maker  | pi_usugar9_  | 
+![image](https://github.com/user-attachments/assets/fa04d2ab-3a7e-4879-851c-82bcc6742401)<br> Fate Maker  | pi_usugar9_panda01  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/220b7832-fe94-4251-8612-adf5568a08ce)<br> Sunburst | pi_usugar9_ | 
+![image](https://github.com/user-attachments/assets/220b7832-fe94-4251-8612-adf5568a08ce)<br> Sunburst | pi_usugar9_king | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/9efac731-f36e-4d61-affd-3761f6c7218c)<br> Tide Turner | pi_usugar9_ | 
+![image](https://github.com/user-attachments/assets/9efac731-f36e-4d61-affd-3761f6c7218c)<br> Tide Turner | pi_usugar9_butterfly | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/4c1698de-4099-409f-b1a0-aa309873e7e7)<br> Viperous | pi_usugar9_ | 
+![image](https://github.com/user-attachments/assets/4c1698de-4099-409f-b1a0-aa309873e7e7)<br> Viperous | pi_usugar9_bsnake | 
 | | | | | 
-<br> Waterworks |  | 
+![image](https://github.com/user-attachments/assets/09a99352-e791-4959-b48b-1ce4c87084dc)<br> Waterworks | pi_usugar9_tparent | 
 | | | | | 
 
 
@@ -70,9 +70,9 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/388654c0-0522-44ec-b5eb-e76421da8b0e)<br> Default | pi_paris30 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/14f42d3e-398e-49d9-9b9d-e793f1d908fe)<br> Quick Mercy | pi_paris30_ | 
+![image](https://github.com/user-attachments/assets/14f42d3e-398e-49d9-9b9d-e793f1d908fe)<br> Quick Mercy | pi_paris30_silver | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/4288c0b7-8eb8-45b2-91d6-24a79010c448)<br> Remain Silent  | pi_paris30_ | 
+![image](https://github.com/user-attachments/assets/4288c0b7-8eb8-45b2-91d6-24a79010c448)<br> Remain Silent  | pi_paris30_police | 
 | | | | | 
 
 
