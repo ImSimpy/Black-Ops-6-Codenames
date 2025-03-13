@@ -89,9 +89,9 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d00a42d9-bcac-4571-95fe-6583cd6c0d42)<br> Final Say | dm_sroger25_bounty | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0d65a3d9-3794-474f-81ec-315e451446dd)<br> Halberd | dm_sroger25_   | 
+![image](https://github.com/user-attachments/assets/0d65a3d9-3794-474f-81ec-315e451446dd)<br> Halberd | dm_sroger25_templar | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0fe60492-12e8-4be6-bc90-5eb1f1820055)<br> On Call | dm_sroger25_   | 
+![image](https://github.com/user-attachments/assets/0fe60492-12e8-4be6-bc90-5eb1f1820055)<br> On Call | dm_sroger25_assam   | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f1b0c809-1bdb-47b4-a391-6c259000d3f1)<br> Robot Abomination | dm_sroger25_prestige | 
 | | | | | 
