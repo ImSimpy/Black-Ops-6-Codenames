@@ -117,7 +117,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2f/Bailey_SmokingGun_Skin_BO6.png/revision/latest?cb=20250213213912) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_fatale | head_c_t10_usa_pl_bailey_fatale | vm_c_t10_usa_pl_bailey_fatale | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo638b0d7f53b5dafc7c231f2e91cadead0a15edab92df316d94393bcec6846e82f_large.webp) <br>Velocity  | body_c_t10_usa_pl_bailey_space | head_c_t10_usa_pl_bailey_space | vm_c_t10_usa_pl_bailey_space | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bailey_Velocity_Skin_BO6.png/revision/latest?cb=20250213213913) <br>Velocity  | body_c_t10_usa_pl_bailey_space | head_c_t10_usa_pl_bailey_space | vm_c_t10_usa_pl_bailey_space | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
 | | | | | 
@@ -195,7 +195,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Klaus_Ref_Skin_BO6.png/revision/latest?cb=20250213213916) Ref | body_c_t10_ger_pl_dummy_ref | head_c_t10_ger_pl_dummy_ref | vm_c_t10_ger_pl_dummy_ref |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo69267b7cc4649a3c5313c1be3a14977615eff75b34e436c02f1c31a35c5d28418_large.webp) Robo Rocker | body_c_t10_ger_pl_dummy_punk | head_c_t10_ger_pl_dummy_punk | vm_c_t10_ger_pl_dummy_punk |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Klaus_RoboRocker_Skin_BO6.png/revision/latest?cb=20250308172128) Robo Rocker | body_c_t10_ger_pl_dummy_punk | head_c_t10_ger_pl_dummy_punk | vm_c_t10_ger_pl_dummy_punk |
 
 
 
