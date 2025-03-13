@@ -19,7 +19,6 @@
 ![image](https://github.com/user-attachments/assets/322db63b-4f9c-4e12-a916-b42337430643)<br> Devil's Playground	 | sn_love96_zexterm | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/747ad735-c160-4e8d-bf04-c8ce1916fae6)<br> Helm | sn_love96_mecha | 
-| | | | | 
 
 
 
@@ -45,7 +44,6 @@
 ![image](https://github.com/user-attachments/assets/4432f652-fb74-4b96-b503-0e477d0f3ac1)<br> Max Damage | sn_droger_jasmine | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/651e7f23-c60c-406c-8fe7-e520930f7c8f)<br> Scorcher | sn_droger_desert | 
-| | | | | 
 
 
 
@@ -73,7 +71,6 @@
 ![image](https://github.com/user-attachments/assets/96edcdd3-ee3f-4a3e-b910-60a80ea66114)<br> Snowpiece | sn_ultiger_deco | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/2fe618cd-6792-4812-837e-576b12d0d974)<br> Stratagem | sn_ultiger_twin03 | 
-| | | | |
 
 
 
@@ -94,8 +91,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ae56b362-a548-4893-88ac-207908df92f8)<br> High Sight | sn_mary82_takedown | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/43034a59-a566-4254-87e9-d5c4e6836784)<br> Homegrown | sn_mary82_wizard | 
-| | | | | 
+![image](https://github.com/user-attachments/assets/43034a59-a566-4254-87e9-d5c4e6836784)<br> Homegrown | sn_mary82_wizard |  
 
 
 
