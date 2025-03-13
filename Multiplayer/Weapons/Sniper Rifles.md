@@ -56,23 +56,23 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/e88599b8-0707-4f77-9a39-137f9dd35e24)<br> Default | sn_ultiger | 
 | | | | |  
-![image](https://github.com/user-attachments/assets/97d44b15-a25f-439d-880b-922167303a03)<br> Brainstorm | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/97d44b15-a25f-439d-880b-922167303a03)<br> Brainstorm | sn_ultiger_vault | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/7298b0b0-5861-4b9b-adb6-6606e5e15f90)<br> Ghostly Guile | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/7298b0b0-5861-4b9b-adb6-6606e5e15f90)<br> Ghostly Guile | sn_ultiger_endow | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/3c2115d0-85e2-4142-bdd0-9b12acf37fd5)<br> Green Fury | sn_ultiger_  | 
+![image](https://github.com/user-attachments/assets/3c2115d0-85e2-4142-bdd0-9b12acf37fd5)<br> Green Fury | sn_ultiger_claws  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/2d8c04f2-8bf5-4306-be4c-a2bca3525913)<br> Lacquered | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/2d8c04f2-8bf5-4306-be4c-a2bca3525913)<br> Lacquered | sn_ultiger_stingray | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/72d0c10b-d5bd-41dd-b005-8650b3436567)<br> Like | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/72d0c10b-d5bd-41dd-b005-8650b3436567)<br> Like | sn_ultiger_vtuber | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/f08b314b-0c04-4e90-a1f5-f91db1946450)<br> Onyx Echo |sn_ultiger_  | 
+![image](https://github.com/user-attachments/assets/f08b314b-0c04-4e90-a1f5-f91db1946450)<br> Onyx Echo |sn_ultiger_spsafehouse  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/b1b51b1f-1a20-4d36-9152-cc352d98d2bd)<br> Sanctifier | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/b1b51b1f-1a20-4d36-9152-cc352d98d2bd)<br> Sanctifier | sn_ultiger_shrouded | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/96edcdd3-ee3f-4a3e-b910-60a80ea66114)<br> Snowpiece | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/96edcdd3-ee3f-4a3e-b910-60a80ea66114)<br> Snowpiece | sn_ultiger_deco | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/2fe618cd-6792-4812-837e-576b12d0d974)<br> Stratagem | sn_ultiger_ | 
+![image](https://github.com/user-attachments/assets/2fe618cd-6792-4812-837e-576b12d0d974)<br> Stratagem | sn_ultiger_twin03 | 
 | | | | |
 
 
