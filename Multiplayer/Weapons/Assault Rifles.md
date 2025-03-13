@@ -141,17 +141,22 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d83e22df-eb6e-454b-b03d-b5b0a3981e6a)<br> Default | ar_leasy | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/593fccfe-4af3-4977-80ab-53414f93c6d4)<br> Aetherburst | ar_leasy_  | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/224df920-6139-4b52-8a14-bad7e85500f2)<br> Asphalt | ar_leasy_  | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/0d242f5b-bb94-45c9-a7a7-13d7c673b116)<br> Breacher | ar_leasy_  | 
 | | | | | 
-<br>  |   | 
+![image](https://github.com/user-attachments/assets/ddb9aabf-6625-4711-b35b-c71276517d09)<br> Bullion | ar_leasy_  | 
 | | | | | 
-
-
-
+![image](https://github.com/user-attachments/assets/386f0aea-4d00-4a54-84f4-8a0ecb246be2)<br> Cobweb | ar_leasy_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/49c50824-3b97-4c9b-b303-892444ab163f)<br> Don't Speak | ar_leasy_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/6639a2c1-0c3d-42d5-beaf-b08267ce9871)<br> Psycho Snake | ar_leasy_  | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/d7c6c770-40bf-498d-b759-7a7746117e95)<br> Robotic Ninja | ar_leasy_  | 
+| | | | | 
 
 
 # Goblin MK2
@@ -160,6 +165,8 @@
 | :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0fd49883-6794-4169-b99d-f381e7be6d3e)<br> Default | ar_rmary2  | 
+| | | | | 
+<br>  |   | 
 | | | | | 
 
 
