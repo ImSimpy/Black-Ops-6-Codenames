@@ -14,13 +14,13 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f959c30e-8f7a-4dbf-bfdb-66d13f3e7ea4)<br> Default | pi_mable | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/feae59dc-c1bb-41ed-badd-d5520cad6cea)<br> Firecracker | pi_mable_  | 
+![image](https://github.com/user-attachments/assets/feae59dc-c1bb-41ed-badd-d5520cad6cea)<br> Firecracker | pi_mable_snake  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0c8c4902-64b1-4c27-8a49-bae8556a46cd)<br> Major Gift | pi_mable_ | 
+![image](https://github.com/user-attachments/assets/0c8c4902-64b1-4c27-8a49-bae8556a46cd)<br> Major Gift | pi_mable_trophy | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/062f45a7-48b0-4e89-a214-2e4037332f42)<br> Scrub  | pi_mable_ | 
+![image](https://github.com/user-attachments/assets/062f45a7-48b0-4e89-a214-2e4037332f42)<br> Scrub  | pi_mable_hiphop | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/f4a563c3-f8ee-4d4c-8930-f25d92bf8802)<br> Thronebuster | pi_mable_ | 
+![image](https://github.com/user-attachments/assets/f4a563c3-f8ee-4d4c-8930-f25d92bf8802)<br> Thronebuster | pi_mable_yellow | 
 | | | | | 
 
 
