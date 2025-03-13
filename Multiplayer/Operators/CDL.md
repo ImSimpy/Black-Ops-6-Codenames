@@ -3,17 +3,13 @@
 ![image](https://github.com/user-attachments/assets/a5cba8db-3438-402e-a743-03db51ad8e03)
 
 
-# CDL Rogue Black Ops Competitor (Home)
 
 > [!IMPORTANT]
 > 
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
 
- > [!Tip] 
- > ### If you are looking for the *'CRIMSON ONE'* Operator Skins, Visit - (CDL Competitor Away)
- >
-> > If you are searching for *WARZONE* CDL Operator Skins, Visit (CDL Competitor Warzone)
+# CDL Rogue Black Ops Competitor (Home)
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
@@ -69,11 +65,6 @@
 
 # CDL Crimson One Competitor (Away)
 
- > [!Tip] 
- >  ### If you are looking for the *'ROGUE BLACK OPS'* Operator Skins, Visit - (CDL Competitor Home)!
- > >
->  > If you are searching for *WARZONE* CDL Operator Skins, Visit (CDL Competitor Warzone)
-
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -128,11 +119,6 @@
 
 # CDL Warzone Competitor (Home)
 
- > [!Tip] 
- >  ### If you are searching for the *MULTIPLAYER* CDL Operator Skins:
- > >  *Open (Competitor Away) or (Competitor Home)!*
- >
- 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
