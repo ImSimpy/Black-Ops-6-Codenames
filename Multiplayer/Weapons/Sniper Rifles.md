@@ -32,7 +32,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/46864d16-d4b8-48d0-8753-b65a3185b3dd)<br> Axel | sn_droger_cowboy  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/eebd4d3d-8161-404e-a361-99d5df6451bc)<br> Brainplow | sn_droger_ | 
+![image](https://github.com/user-attachments/assets/eebd4d3d-8161-404e-a361-99d5df6451bc)<br> Brainplow | sn_droger_king | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/a9e6921e-7d82-4e28-8f68-3d8abaa5e633)<br> Darkflare | sn_droger_firework | 
 | | | | | 
