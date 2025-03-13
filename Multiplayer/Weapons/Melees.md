@@ -43,7 +43,6 @@
 <br> Truce | me_knife_frill  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/727a07ce-7f21-4dc4-b7db-1797564b1937)  <br> Whisper | me_knife_nightshade   | 
-| | | | | 
 
 
 
@@ -59,7 +58,6 @@
 ![image](https://github.com/user-attachments/assets/3cef4c5c-9184-49d2-ad60-903bc516b548)  <br> Batter Up | me_bat_egaux  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ebf43232-d866-45b5-b8e9-6d14dd823f04)  <br> Club Thumper | me_bat_gvibes  | 
-| | | | | 
 
 
 
@@ -74,8 +72,7 @@
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/da2b8a6c-057d-4d73-8246-dd17404231ec)  <br> Scour Drill| me_drill_magmablk |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/ca6e2628-b3a3-4d3c-9c5b-94d073c5cf51)  <br>  Umbral Bit | me_drill_scorn |
-| | | | | 
+| ![image](https://github.com/user-attachments/assets/ca6e2628-b3a3-4d3c-9c5b-94d073c5cf51)  <br>  Umbral Bit | me_drill_scorn | 
 
 
 # Cleaver
@@ -90,7 +87,6 @@
 | ![image](https://github.com/user-attachments/assets/d11323d0-5f9b-41ab-9379-7c2a5964c352) <br> Mince Meat | me_cleaver_slasher |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/beb93d18-4148-48d4-b642-3136d006dd72) <br> Razorbreak | me_cleaver_cartoon |
-| | | | | 
 
 
 
@@ -101,8 +97,7 @@
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/759adb92-210d-4b7a-8c05-7d43e404ae96) <br> Default | me_katanas |
 | | | | | 
-| <br> Leonardo's Katanas | me_katanas_taro |
-| | | | | 
+| <br> Leonardo's Katanas | me_katanas_taro | 
 
 
 
@@ -116,7 +111,6 @@
 | ![image](https://github.com/user-attachments/assets/00ea7e0e-f837-4d45-9063-08a9c9f283ec) <br> Donatello's Bo Staff | me_bostaff_jasmine |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/b754716f-c598-43e1-8c19-804c3f756c50) <br> Splinter's Cane | me_bostaff_brownsugar |
-| | | | | 
 
 
 
@@ -126,8 +120,7 @@
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/7a1b9576-471b-495b-9081-5d1ba3849806) <br> Default | me_sais |
 | | | | | 
-|  <br> Raphael's Sai | me_sais_thai |
-| | | | | 
+|  <br> Raphael's Sai | me_sais_thai | 
 
 
 
@@ -139,7 +132,6 @@
 | ![image](https://github.com/user-attachments/assets/27dd9eb7-376d-41a2-acac-b2b8aa69b254) <br> Default | me_nunchaku |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/5505c233-c05d-4d57-bab6-e9ea506bc0c5) <br> Michelangelo's Nunchucks | me_nunchaku_assam |
-| | | | | 
 
 
 
