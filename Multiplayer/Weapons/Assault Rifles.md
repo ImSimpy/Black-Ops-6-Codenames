@@ -39,15 +39,33 @@
 
 
 
-
 # AK-74
 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/39f0fc59-2e31-42f4-9a2a-44009baff928) <br> Default | ar_aking74 | 
- | | | | | 
-
+![image](https://github.com/user-attachments/assets/39f0fc59-2e31-42f4-9a2a-44009baff928)<br> Default | ar_aking74 | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/72399081-2ea6-4922-92ee-4e59f45d7f9b)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/df76b2dd-c9e8-47c1-a333-e924e0195658)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/1cced340-6a68-4ca6-88c0-15cd265ec087)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4d4283cb-cfa4-4ff8-9468-1be43af64be6)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/876bb423-6b92-451a-8e24-ea6481e14236)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/0d71421d-e32d-4e19-8236-98f17b6ec559)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/2836e2e8-de4a-4473-849b-440f19ca44cc)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/f9f73bfc-e4ca-4da9-90c7-d96fe0728794)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/e43d4ef2-c78c-4f78-b2f8-5ddd7a6eb2f5)<br>  | ar_aking74_ | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/06e90a2c-f6d0-4864-b036-3b10b5691573)<br>  |  ar_aking74_ | 
+| | | | | 
 
 
  
@@ -58,6 +76,34 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/13b5be0d-a247-433e-8829-7f8405c66ab3)<br> Default | ar_able18  | 
 | | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+<br>  |   | 
+| | | | | 
+
+
 
 # GPR 91
 
