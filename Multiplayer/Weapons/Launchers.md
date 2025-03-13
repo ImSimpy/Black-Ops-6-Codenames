@@ -1,7 +1,7 @@
 # Launchers
 
 > [!IMPORTANT]
-> Launchers will be one whole model so no need to merge anything
+> Launchers are a single model, so no merging is needed!
 >
 
 # Cigma 2B
