@@ -80,13 +80,13 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Default | lm_uxray | 
 | | | | | 
-<br> Get Lucky | lm_uxray_saintpat |
+![image](https://github.com/user-attachments/assets/bcae267b-5208-49a1-ac53-63885c17bd73)<br> Get Lucky | lm_uxray_saintpat |
 | | | | | 
-<br> Shred | lm_uxray_dmetal |
+![image](https://github.com/user-attachments/assets/3f20bc70-cb54-4a0c-ad52-e8d9b6a6b4d6)<br> Shred | lm_uxray_dmetal |
 | | | | | 
-<br> Tourniquet | lm_uxray_mapv2 |
+![image](https://github.com/user-attachments/assets/e2f224ce-9031-4719-86a7-6ca672020f26)<br> Tourniquet | lm_uxray_mapv2 |
 | | | | | 
-<br> Tourniquet Blackcell | lm_uxray_s2blk |
+![image](https://github.com/user-attachments/assets/8efa2ac6-a341-4c63-b381-68c65ec64d48)<br> Tourniquet Blackcell | lm_uxray_s2blk |
 
 
 
