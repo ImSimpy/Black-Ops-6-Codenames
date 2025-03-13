@@ -25,7 +25,6 @@
 ![image](https://github.com/user-attachments/assets/35561812-6b8b-474d-baf4-dfce35dc4ea9)<br> Void | dm_sgeorge550_shg02  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/5c0dfe97-c590-4718-a673-db48101ccfb8)<br> Watch and Learn | dm_sgeorge550_in01  | 
-| | | | | 
 
 
 # Tsarkov 7.62
@@ -49,8 +48,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ee7946bf-0735-4548-9514-3bf325abcfc6)<br> Ritual's Path | dm_svalor_  | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/2cd7ecc9-8a07-4ea9-9a52-35b47304b099)<br> Subscribe | dm_svalor_  | 
-| | | | | 
+![image](https://github.com/user-attachments/assets/2cd7ecc9-8a07-4ea9-9a52-35b47304b099)<br> Subscribe | dm_svalor_  |  
 
 
 
@@ -73,7 +71,6 @@
 ![image](https://github.com/user-attachments/assets/51ebc9e6-958c-41e3-bf83-8e518a77a8fe)<br> Peel Out | dm_aeasy_anime | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/65b77767-479b-43e2-9a34-e50c3e340037)<br> Reconciliation | dm_aeasy_eagle | 
-| | | | | 
 
 
 # DM-10
@@ -100,7 +97,6 @@
 ![image](https://github.com/user-attachments/assets/37929e94-f037-4b1e-933f-0e91e0053e51)<br> Stocking Suffer | dm_sroger25_bagnog | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/84d1f7ea-c9d8-4996-bb82-34234dfd6df1)<br> The Curator | dm_sroger25_stingray03  | 
-| | | | | 
 
 
 # TR2
@@ -111,7 +107,6 @@
 ![image](https://github.com/user-attachments/assets/801d3dd9-291b-4b89-a53f-8eb99d506902)<br> Default | dm_falove | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/9387fad6-dec2-4315-ad33-85887ee208ed)<br> Humble Brag | dm_falove_fatale | 
-| | | | | 
 
 
 
