@@ -102,10 +102,6 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/6eeb9cdc-c8aa-4f5c-bba3-fc132d9c36f7)<br> Truth Serum | ar_able18_spsafehouse | 
 | | | | | 
-<br>  |   | 
-| | | | | 
-<br>  |   | 
-| | | | | 
 
 
 
@@ -116,25 +112,25 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ff491533-2aaf-4829-91fd-8164bc8b4227)<br> Default | ar_love85 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/75edcec9-90bc-46bb-8448-a550adc0a75d)<br>  | ar_love85_  | 
+![image](https://github.com/user-attachments/assets/75edcec9-90bc-46bb-8448-a550adc0a75d)<br> Blackspine | ar_love85_noevil | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/42c56370-bd42-4d4f-8661-8bbad0ac8ce5)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/42c56370-bd42-4d4f-8661-8bbad0ac8ce5)<br> Coroner | ar_love85_sporty | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c4c87643-a36c-421c-b4f1-30387593418f)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/c4c87643-a36c-421c-b4f1-30387593418f)<br> Don't Move | ar_love85_stingray03 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/54024b11-5627-4278-a8a3-5342bda8d70d)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/54024b11-5627-4278-a8a3-5342bda8d70d)<br> Eternal Strife | ar_love85_angelmon | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/28684c78-a311-46a2-a3d6-73f201541d27)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/28684c78-a311-46a2-a3d6-73f201541d27)<br> Ginger Dread | ar_love85_sweater | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/44ed74fc-43bc-463c-92a5-835fd073afe3)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/44ed74fc-43bc-463c-92a5-835fd073afe3)<br> Hideout | ar_love85_ghillie | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/555c9c11-d064-4a67-bc85-6c8b1c9d25e2)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/555c9c11-d064-4a67-bc85-6c8b1c9d25e2)<br> Jungle Growl | ar_love85_stroper | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0ba2b0ac-508e-49b0-bf82-5048433d17d9)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/0ba2b0ac-508e-49b0-bf82-5048433d17d9)<br> Rampager | ar_love85_jasmine | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/9beec063-2c31-4e69-981d-b54484d01963)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/9beec063-2c31-4e69-981d-b54484d01963)<br> Retaliator | ar_love85_panda01 | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/121c1fb7-1a86-494e-9c1d-2e1d8157023a)<br>  | ar_love85_ | 
+![image](https://github.com/user-attachments/assets/121c1fb7-1a86-494e-9c1d-2e1d8157023a)<br> Vault Security | ar_love85_maskbank | 
 | | | | | 
 
 
