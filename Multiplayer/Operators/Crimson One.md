@@ -81,7 +81,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Niran_RaccoonGoon_Skin_BO6.png/revision/latest?cb=20241126214919) <br>Raccoon Goon | body_c_t10_tha_pl_niran_raccoon | head_c_t10_tha_pl_niran_raccoon | vm_c_t10_tha_pl_niran_raccoon
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6a20be2d699d54e1f31a12bc58b481a9614c5b5d1592f67083ba57d5cd018b19d_large.webp) <br>Carton Robo | body_c_t10_tha_pl_niran_bot | head_c_t10_tha_pl_niran_bot | vm_c_t10_tha_pl_niran_bot
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6edfee625ed4685b226801e58859e1c8dc549041a16e645f5cfed061f14c45517_large.webp) <br>Mech Enthusiast | body_c_t10_tha_pl_niran_bot | head_c_t10_tha_pl_niran_bot | vm_c_t10_tha_pl_niran_bot
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/22/Niran_Sleet_Skin_BO6.png/revision/latest?cb=20241226225707) <br>Sleet | body_c_t10_tha_pl_niran_frost | head_c_t10_tha_pl_niran_frost | vm_c_t10_tha_pl_niran_frost
 
