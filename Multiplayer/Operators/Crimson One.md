@@ -230,13 +230,17 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ed/Carver_Expedition_Skin_BO6.png/revision/latest?cb=20250201180617) <br>Expedition | body_c_t10_usa_pl_carver_dig | head_c_t10_usa_pl_carver_dig | vm_c_t10_usa_pl_carver_dig |
 | | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>PhDeadly | body_c_t10_usa_pl_carver_mansion | head_c_t10_usa_pl_carver_mansion | vm_c_t10_usa_pl_carver_mansion |
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a8/Carver_Bloke_Biter_Skin_BO6.png/revision/latest?cb=20241124201822) <br>Bloke Biter | body_c_t10_usa_pl_carver_shark | head_c_t10_usa_pl_carver_shark | vm_c_t10_usa_pl_carver_shark |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/62/Carver_Host_Skin_BO6.png/revision/latest?cb=20241119185604) <br>Host | body_c_t10_usa_pl_carver_parasite | head_c_t10_usa_pl_carver_parasite | vm_c_t10_usa_pl_carver_parasite |
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66800ef823604d4552ea061b451cba33eaab2380f77eaebeffb8f1013b06ef2a9_large.webp) <br>Strict Policy | body_c_t10_usa_pl_carver_shonen | head_c_t10_usa_pl_carver_shonen | vm_c_t10_usa_pl_carver_shonen |
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e4/Carver_Tarnished_Skin_BO6.png/revision/latest?cb=20241119185606) <br>Tarnished | body_c_t10_usa_pl_carver_dust | head_c_t10_usa_pl_carver_dust | vm_c_t10_usa_pl_carver_dust |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/26/Carver_Tarnished_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185605) <br>Tarnished Blackcell | body_c_t10_usa_pl_carver_dust<br>_blackcell | head_c_t10_usa_pl_carver_dust<br>_blackcell | vm_c_t10_usa_pl_carver__dust<br>_blackcell |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/26/Carver_Tarnished_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185605) <br>Tarnished Blackcell | body_c_t10_usa_pl_carver_dust<br>_blackcell | head_c_t10_usa_pl_carver_dust<br>_blackcell | vm_c_t10_usa_pl_carver_dust<br>_blackcell |
 
 
 
@@ -260,13 +264,35 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/ba/Grey_ToxigenicBlackCell_Skin_BO6.png/revision/latest?cb=20250201180623) <br>Toxigenic BlackCell | body_c_t10_gbr_pl_grey_venom | head_c_t10_gbr_pl_grey_venom | vm_c_t10_gbr_pl_grey_venom |
 
 
-
 # Vortex
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0c/Vortex_Default_Skin_BO6.png/revision/latest?cb=20250201180651) <br>Vortex | body_c_t10_jap_pl_neatherheart_base | head_c_t10_jap_pl_neatherheart_base | vm_c_t10_jap_pl_neatherheart_base |
+
+# R0-Z3
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>R0-Z3 | body_c_t10_usa_pl_roze_base | head_c_t10_usa_pl_roze_base | vm_c_t10_usa_pl_roze_base |
+
+
+# Mace
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_base | head_c_t10_usa_pl_mace_base | vm_c_t10_usa_pl_mace_base |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_base_bc | head_c_t10_usa_pl_mace_base_bc | vm_c_t10_usa_pl_mace_base_bc |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_devil | head_c_t10_usa_pl_mace_devil | vm_c_t10_usa_pl_mace_devil |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_devil_bc | head_c_t10_usa_pl_mace_devil_bc | vm_c_t10_usa_pl_mace_devil_bc |
+
+
 
 
 
