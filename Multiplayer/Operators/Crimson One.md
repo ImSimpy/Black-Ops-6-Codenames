@@ -213,6 +213,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/25/Klaus_Reborn_Skin_BO6.png/revision/latest?cb=20241028013617) Reborn | body_c_t10_ger_pl_dummy_cyber | head_c_t10_ger_pl_dummy_cyber | vm_c_t10_ger_pl_dummy_cyber |
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo69f0c53fc38a3eb0e89f4f97cb7c18ed8c59e7910b8f59d97149106c839b7083e_large.webp) Steel Butler | body_c_t10_ger_pl_dummy_haunt | head_c_t10_ger_pl_dummy_haunt | vm_c_t10_ger_pl_dummy_haunt |
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Klaus_Ref_Skin_BO6.png/revision/latest?cb=20250213213916) Ref | body_c_t10_ger_pl_dummy_ref | head_c_t10_ger_pl_dummy_ref | vm_c_t10_ger_pl_dummy_ref |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Klaus_RoboRocker_Skin_BO6.png/revision/latest?cb=20250308172128) Robo Rocker | body_c_t10_ger_pl_dummy_punk | head_c_t10_ger_pl_dummy_punk | vm_c_t10_ger_pl_dummy_punk |
