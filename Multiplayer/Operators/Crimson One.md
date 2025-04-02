@@ -103,6 +103,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/Toro_UndeadFootClan_Skin_BO6.png/revision/latest?cb=20250227234728) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo61a8d37e7cf8f8d61cae2d223fc71a4d2e321f560ff74dfa3f61fb99b461b2062_large.webp) <br>Undying Radiation | body_c_t10_arg_pl_alejo_nuclear  | head_c_t10_arg_pl_alejo_nuclear | vm_c_t10_arg_pl_alejo_nuclear | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/07/Toro_ToyMan_Skin_BO6.png/revision/latest?cb=20241226225715) <br>Toy Man | body_c_t10_arg_pl_alejo_action  | head_c_t10_arg_pl_alejo_action | vm_c_t10_arg_pl_alejo_action | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2e/Toro_Saltwater_Skin_BO6.png/revision/latest?cb=20250201180647) <br>Saltwater | body_c_t10_arg_pl_alejo_creature  | head_c_t10_arg_pl_alejo_creature | vm_c_t10_arg_pl_alejo_creature | 
@@ -110,7 +112,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Toro_FlowState_Skin_BO6.png/revision/latest?cb=20250201180644) <br>Flow State | body_c_t10_arg_pl_alejo_foil  | head_c_t10_arg_pl_alejo_foil | vm_c_t10_arg_pl_alejo_foil | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c8/Toro_FlowStateBlackCell_Skin_BO6.png/revision/latest?cb=20250201180646) <br>Flow State BlackCell | body_c_t10_arg_pl_alejo_sabre  | head_c_t10_arg_pl_alejo_sabre | vm_c_t10_arg_pl_alejo_sabre | 
-
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Jug-O-Naught | body_c_t10_arg_pl_alejo_juggernaut  | head_c_t10_arg_pl_alejo_juggernaut | vm_c_t10_arg_pl_alejo_juggernaut | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
 
 
  #  Tess Bailey
@@ -134,10 +139,11 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/79/Bailey_Aero_Skin_BO6.png/revision/latest?cb=20241218224607) <br>Aero | body_c_t10_usa_pl_bailey_mech | head_c_t10_usa_pl_bailey_mech | vm_c_t10_usa_pl_bailey_mech | 
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo63dd55e2769af8a86b2ef74e3d321f843eb5babec95dd1c8e03e2af664261b0ae_large.webp) <br>Pixel | body_c_t10_usa_pl_bailey_gamer | head_c_t10_usa_pl_bailey_gamer | vm_c_t10_usa_pl_bailey_gamer | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell | 
-
 
 
 # Harry Stone
@@ -151,7 +157,13 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/39/Stone_Deco_Skin_BO6.png/revision/latest?cb=20241119185616) <br>Deco | body_c_t10_gbr_pl_stone_deco | head_c_t10_gbr_pl_stone_deco | vm_c_t10_gbr_pl_stone_deco
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo62dd0f4dbc6adf5e9688ea19fcc359e2c445fb62f799128eb19aa32a7bb4e0684_large.webp) <br>Not Enough Bacon | body_c_t10_gbr_pl_stone_bacon | head_c_t10_gbr_pl_stone_bacon | vm_c_t10_gbr_pl_stone_bacon
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo63b64a9aa7b8861667dd9e3e7b6f432373c581fdd62a4d888f55d5c5c3da6ad71_large.webp) <br>Bulldog | body_c_t10_gbr_pl_stone_bulldog | head_c_t10_gbr_pl_stone_bulldog | vm_c_t10_gbr_pl_stone_bulldog
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/74/Stone_Blunty_Skin_BO6.png/revision/latest?cb=20241226225711) <br>Blunty | body_c_t10_gbr_pl_stone_bong | head_c_t10_gbr_pl_stone_bong | vm_c_t10_gbr_pl_stone_bong
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d8/Stone_Siphon_Skin_BO6.png/revision/latest?cb=20250227234727) <br>Siphon | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/74/Stone_ZipTie_Skin_BO6.png/revision/latest?cb=20241119185617) <br>Zip Tie | body_c_t10_gbr_pl_stone_mobilized | head_c_t10_gbr_pl_stone_mobilized | vm_c_t10_gbr_pl_stone_mobilized
 | | | | | 
@@ -161,8 +173,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/34/Stone_ShadowWorkBlackCell_Skin_BO6.png/revision/latest?cb=20250201180640) <br>Shadow Work BlackCell | body_c_t10_gbr_pl_stone_valor | head_c_t10_gbr_pl_stone_valor | vm_c_t10_gbr_pl_stone_valor
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d8/Stone_Siphon_Skin_BO6.png/revision/latest?cb=20250227234727) <br>Siphon | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro
-
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
 
 
 #  Nocturne
