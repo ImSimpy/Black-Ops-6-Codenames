@@ -54,9 +54,15 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7d/Caine_Falconer_Skin_BO6.png/revision/latest?cb=20250214010543) <br>Falconer | body_c_t10_usa_pl_caine_cleaver  | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Caine_Swordmaster_Skin_BO6.png/revision/latest?cb=20250201180615) <br>Swordmaster | body_c_t10_usa_pl_judo  | head_c_t10_usa_pl_judo | vm_c_t10_usa_pl_caine_judo | 
-
-
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_bo4  | head_c_t10_usa_pl_caine_bo4 | vm_c_t10_usa_pl_caine_caine_bo4 | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_energy  | head_c_t10_usa_pl_caine_energy | vm_c_t10_usa_pl_caine_caine_energy | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_orc  | head_c_t10_usa_pl_caine_orc | vm_c_t10_usa_pl_caine_orc | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_retrowave  | head_c_t10_usa_pl_caine_retrowave | vm_c_t10_usa_pl_caine_retrowave | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_traveler  | head_c_t10_usa_pl_caine_traveler | vm_c_t10_usa_pl_caine_traveler | 
 
 # Arak Niran 
 
