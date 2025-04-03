@@ -162,9 +162,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown  | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo68f80f0d0edc2729a8d1e9244ee275fe4831e979c8cf260ce6a5ce5a5b72137ac_large.webp) <br>Unknown  | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6291f42e8bb32ba706427ff2471704dfac68b673f4b211a55bdde46e1ce4bfd23_large.webp) <br>Unknown | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
 
 
 
