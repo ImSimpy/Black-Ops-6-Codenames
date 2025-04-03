@@ -22,15 +22,17 @@
 | | | | | 
 <br>Raid of Luttazzi Casino  | c_t10_ger_hero_felix_technician_heist_body_1 |  head_c_t10_ger_hero_felix_ |  c_t10_ger_hero_felix_technician_heist_vm_1
 | | | | | 
- <br>  |  |  |  N/A
+ <br>  | c_t10_ger_hero_felix_safehouse_urban_body_1 | head_c_t10_ger_hero_felix_no_glasses_no_glasses |  N/A
 | | | | | 
- <br>  |  |  |  N/A
+ <br>  | c_t10_ger_hero_felix_safehouse_urban_body_2 | head_c_t10_ger_hero_felix_no_glasses_ |  N/A
 | | | | | 
- <br>  |  |  |  N/A
+ <br>  | c_t10_ger_hero_felix_safehouse_urban_body_3 | head_c_t10_ger_hero_felix_no_glasses_no_glasses |  N/A
 | | | | | 
  <br> Vorkuta | c_t10_ger_hero_felix_pilot_sabotage_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
 | | | | | 
  <br> Siege of The Rook | c_t10_ger_hero_felix_casual_defend_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
 | | | | | 
  <br> Siege of The Rook | c_t10_ger_hero_felix_casual_defend_body_1_damaged | head_c_t10_ger_hero_felix_no_glasses_no_glasses_dirty |  N/A
+| | | | | 
+ <br>  |  |  |  N/A
 | | | | | 
