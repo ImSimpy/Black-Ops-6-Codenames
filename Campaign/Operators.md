@@ -20,11 +20,13 @@
 | | | | | 
  <br>Most Wanted  | c_t10_ger_hero_felix_capitol_swat_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
 | | | | | 
-![image](https://github.com/user-attachments/assets/005ef5f0-8f52-4fcd-8255-3d4a089b25bb)<br>Raid of Luttazzi Casino  | c_t10_ger_hero_felix_technician_heist_body_1 |  head_c_t10_ger_hero_felix_ |  c_t10_ger_hero_felix_technician_heist_vm_1
+<br>Raid of Luttazzi Casino  | c_t10_ger_hero_felix_technician_heist_body_1 |  head_c_t10_ger_hero_felix_ |  c_t10_ger_hero_felix_technician_heist_vm_1
 | | | | | 
  <br>  |  |  |  N/A
 | | | | | 
  <br>  |  |  |  N/A
 | | | | | 
- <br> Siege of The Rook |  |  |  N/A
+ <br> Siege of The Rook | c_t10_ger_hero_felix_casual_defend_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
+| | | | | 
+ <br> Siege of The Rook | c_t10_ger_hero_felix_casual_defend_body_1_damaged | head_c_t10_ger_hero_felix_no_glasses_no_glasses_dirty |  N/A
 | | | | | 
