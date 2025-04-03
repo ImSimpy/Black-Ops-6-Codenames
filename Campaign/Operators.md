@@ -26,6 +26,10 @@
 | | | | | 
  <br>  |  |  |  N/A
 | | | | | 
+ <br>  |  |  |  N/A
+| | | | | 
+ <br> Vorkuta | c_t10_ger_hero_felix_pilot_sabotage_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
+| | | | | 
  <br> Siege of The Rook | c_t10_ger_hero_felix_casual_defend_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
 | | | | | 
  <br> Siege of The Rook | c_t10_ger_hero_felix_casual_defend_body_1_damaged | head_c_t10_ger_hero_felix_no_glasses_no_glasses_dirty |  N/A
