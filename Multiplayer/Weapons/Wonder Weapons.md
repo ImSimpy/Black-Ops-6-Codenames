@@ -26,46 +26,46 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | ww_drisaac_zmb | 
+![image](https://github.com/user-attachments/assets/2c23cf68-7824-4766-a6f3-9c39642f62b1)<br> Default | ww_drisaac_zmb | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Mistletoe  | ww_drisaac_zmb_sweater | 
+![image](https://github.com/user-attachments/assets/5c96d1a0-ed96-4939-a659-a11c018f50a2)<br> Mistletoe  | ww_drisaac_zmb_sweater | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Fire Eater | ww_drisaac_zmb_pklaus | 
+![image](https://github.com/user-attachments/assets/1abc9f21-18b0-44ad-9d44-7abf8b521cc1)<br> Fire Eater | ww_drisaac_zmb_pklaus | 
 
 # Thrustodyne M23
 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | ww_zmb_table23 | 
+![image](https://github.com/user-attachments/assets/65572ec1-ee55-4c33-8877-93f9a912d111)<br> Default | ww_zmb_table23 | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Propulsion  | ww_zmb_table23_deadops | 
+![image](https://github.com/user-attachments/assets/8f9397fd-06d5-45ee-86b3-9ac666514ce0)<br> Propulsion  | ww_zmb_table23_deadops | 
 
 
 # The Bastard Swords
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | ww_zmb_me_calisugar | 
+![image](https://github.com/user-attachments/assets/fb2342bc-5531-4191-861c-c9a901616af9)<br> Default | ww_zmb_me_calisugar | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Balmung  | ww_zmb_me_calisugar_dope | 
+![image](https://github.com/user-attachments/assets/1fffde2a-0a39-4efb-ae20-d82bdf8dcc56)<br> Balmung  | ww_zmb_me_calisugar_dope | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Durendal | ww_zmb_me_calisugar_easy | 
+![image](https://github.com/user-attachments/assets/3d671549-7cee-4015-b980-2bae380d0c77)<br> Durendal | ww_zmb_me_calisugar_easy | 
 | | | | |  
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Caliburn | ww_zmb_me_calisugar_fun | 
+![image](https://github.com/user-attachments/assets/df8d55d6-a1d9-433b-8e11-9a357839c2f4)<br> Caliburn | ww_zmb_me_calisugar_fun | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Solais | ww_zmb_me_calisugar_life | 
+![image](https://github.com/user-attachments/assets/5e5931fc-b418-4858-9f88-25eb2ed77f5a)<br> Solais | ww_zmb_me_calisugar_life | 
 
 # Staff of Ice
 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | ww_zmb_staffs | 
+![image](https://github.com/user-attachments/assets/e8d3b6c3-ca99-4444-bf4e-fcebe3a37d1c)<br> Default | ww_zmb_staffs | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> X91 Ice-Pike  | ww_zmb_staffs_dreward | 
+![image](https://github.com/user-attachments/assets/5239dfc1-748d-4b8d-8c29-a67cc78d224e)<br> X91 Ice-Pike  | ww_zmb_staffs_dreward | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Cosmic Blade | ww_drisaac_zmb_itemshop | 
+![image](https://github.com/user-attachments/assets/35ffd035-dec5-4b59-be0c-4dfa3d8c9237)<br> Cosmic Blade | ww_drisaac_zmb_itemshop | 
 
 
 
