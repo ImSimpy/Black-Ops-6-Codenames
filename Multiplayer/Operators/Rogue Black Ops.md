@@ -28,6 +28,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
 | | | | | 
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6fd64c1705d02c4747a2d3c9dc3b337f45845006cac4bafbd9cf5540a2f197c1d_large.webp) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Unknown | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Unknown | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
 
 
 
@@ -74,6 +78,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b2/Westpoint_Sinslayer_Skin_BO6.png/revision/latest?cb=20250214011055) <br>Sinslayer | body_c_t10_usa_pl_westpoint_oracle | head_c_t10_usa_pl_westpoint_oracle | vm_c_t10_usa_pl_westpoint_oracle
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/47/Westpoint_FoliaBrasileira_Skin_BO6.png/revision/latest?cb=20250223214951) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/47/Westpoint_FoliaBrasileira_Skin_BO6.png/revision/latest?cb=20250223214951) <br>Shieldmaiden | body_c_t10_usa_pl_westpoint_paladin | head_c_t10_usa_pl_westpoint_paladin | vm_c_t10_usa_pl_westpoint_paladin
 
 
 
@@ -91,6 +97,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e4/Bayan_Cauterize_Skin_BO6.png/revision/latest?cb=20250201180609) <br>Cauterize  | body_c_t10_pol_pl_bayan_red  | head_c_t10_pol_pl_bayan_red | vm_c_t10_pol_pl_bayan_red | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Bayan_Jack_Skin_BO6.png/revision/latest?cb=20250201180610) <br>Jack  | body_c_t10_pol_pl_bayan_deck  | head_c_t10_pol_pl_bayan_deck | vm_c_t10_pol_pl_bayan_deck | 
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66ae8518cf4aa6e1599400070e08cb836f9a2edf2d3c1c358f2245d8a71db7d5a_large.webp) <br>Pure Grin  | body_c_t10_pol_pl_bayan_haha  | head_c_t10_pol_pl_bayan_haha | vm_c_t10_pol_pl_bayan_haha |  
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6a20be2d699d54e1f31a12bc58b481a9614c5b5d1592f67083ba57d5cd018b19d_large.webp) <br>Carton Robo  | body_c_t10_pol_pl_bayan_cardboard  | head_c_t10_pol_pl_bayan_cardboard | vm_c_t10_pol_pl_bayan_cardboard | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Bayan_DivineMalice_Skin_BO6.png/revision/latest?cb=20250111010256) <br>Divine Malice  | body_c_t10_pol_pl_bayan_longshot | head_c_t10_pol_pl_bayan_longshot | vm_c_t10_pol_pl_bayan_longshot |  
 | | | | | 
@@ -148,9 +158,13 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Payne_Fixer_Skin_BO6.png/revision/latest?cb=20241119221807) <br>Fixer  | body_c_t10_gbr_pl_ratcliff_bodyguard | head_c_t10_gbr_pl_ratcliff_bodyguard | vm_c_t10_gbr_pl_ratcliff_bodyguard |  
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo  | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard  | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown  | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
 
 
 
@@ -171,6 +185,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/01/Marshall_Sleetburn_Skin_BO6.png/revision/latest?cb=20250201180627) <br>Sleetburn| body_c_t10_usa_pl_marshall_melted| head_c_t10_usa_pl_marshall_melted | vm_c_t10_usa_pl_marshall_melted |
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo60d16e9f5f70f378a569b5ff43fe7f9795fba9894957c0790806fac81386536cb_large.webp) <br>Hitmaker | body_c_t10_usa_pl_marshall_hammerhead | head_c_t10_usa_pl_marshall_hammerhead | vm_c_t10_usa_pl_marshall_hammerhead |
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Marshall_Attrition_Skin_BO6.png/revision/latest?cb=20241201225800) <br>Attrition | body_c_t10_usa_pl_marshall_cyborg | head_c_t10_usa_pl_marshall_cyborg | vm_c_t10_usa_pl_marshall_cyborg |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Marshall_Unseen_Skin_BO6.png/revision/latest?cb=20250201180629) <br>Unseen | body_c_t10_usa_pl_marshall_strips | head_c_t10_usa_pl_marshall_strips | vm_c_t10_usa_pl_marshall_strips |
@@ -180,6 +196,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a5/Marshall_Kingmaker_Skin_BO6.png/revision/latest?cb=20250201180626) <br>Kingmaker | body_c_t10_usa_pl_marshall_breaker | head_c_t10_usa_pl_marshall_breaker | vm_c_t10_usa_pl_marshall_breaker |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Marshall_KingmakerBlackCell_Skin_BO6.png/revision/latest?cb=20250201180625) <br>Hitmaker | body_c_t10_usa_pl_marshall_samurai| head_c_t10_usa_pl_marshall_samurai | vm_c_t10_usa_pl_marshall_samurai |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Hazard Prep | body_c_t10_usa_pl_marshall_jailer | head_c_t10_usa_pl_marshall_jailer | vm_c_t10_usa_pl_marshall_jailer |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Hazard Prep Blackcell | body_c_t10_usa_pl_marshall_jailer_bc | head_c_t10_usa_pl_marshall_jailer_bc | vm_c_t10_usa_pl_marshall_jailer_bc |
 
 
 
@@ -196,6 +216,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8c/Sev_Opulent_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185615) <br>Opulent Blackcell |  body_c_t10_ava_pl_sev_opulent<br>_blackcell  | head_c_t10_ava_pl_sev_opulent<br>_blackcell | vm_c_t10_ava_pl_sev_opulent<br>_blackcell | 
 | | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6c8b8e0a4b680437352e67ec71383030c8a067001d77707ca5717f5eee019cf5e_large.webp) <br>Weedstronaut |  body_c_t10_ava_pl_sev_hydroponic  | head_c_t10_ava_pl_sev_hydroponic | vm_c_t10_ava_pl_sev_hydroponic | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Sev_Paradox_Skin_BO6.png/revision/latest?cb=20250201180638) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
 
 
@@ -210,6 +232,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3f/Woods_Zombie_Woods_Skin_BO6.png/revision/latest?cb=20241028014055) <br>Zombie Woods | body_c_t10_usa_pl_woods_zombie | head_c_t10_usa_pl_woods_zombie | vm_c_t10_usa_pl_woods_zombie
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/72/Woods_Numbers_Woods_Skin_BO6.png/revision/latest?cb=20241028014054) <br>Numbers Woods | body_c_t10_usa_pl_woods_glass | head_c_t10_usa_pl_woods_glass | vm_c_t10_usa_pl_woods_glass
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter | head_c_t10_usa_pl_woods_winter | vm_c_t10_usa_pl_woods_winter
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter_bc | head_c_t10_usa_pl_woods_winter_bc | vm_c_t10_usa_pl_woods_winter_bc
 
 
 
@@ -256,6 +282,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/89/Maya_Aetherella_Skin_BO6.png/revision/latest?cb=20250214005951) <br>Aetherella | body_c_t10_phl_pl_maya_aether | head_c_t10_phl_pl_maya_aether | vm_c_t10_phl_pl_maya_aether | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Maya_CrimsonChaos_Skin_BO6.png/revision/latest?cb=20250223160716) <br>Crimson Chaos | body_c_t10_phl_pl_maya_chaos | head_c_t10_phl_pl_maya_chaos | vm_c_t10_phl_pl_maya_chaos | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Rogue Archer | body_c_t10_phl_pl_maya_bo3 | head_c_t10_phl_pl_maya_bo3 | vm_c_t10_phl_pl_maya_bo3 | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
 
 
 
@@ -285,4 +315,37 @@
 | :--: | :--: | :--: | :--:
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/98/Samuels_NewOrders_Skin_BO6.png/revision/latest?cb=20241201204335) <br>New Orders | body_c_t10_usa_pl_redacted_redacted | head_c_t10_usa_pl_redacted_redacted | vm_c_t10_usa_pl_redacted_redacted |
+
+# Jason Hudson
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_base | head_c_t10_usa_pl_hudson_base | vm_c_t10_usa_pl_hudson_base |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_base_bc | head_c_t10_usa_pl_hudson_base_bc | vm_c_t10_usa_pl_hudson_base_bc |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_camo | head_c_t10_usa_pl_hudson_camo | vm_c_t10_usa_pl_hudson_camo |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_camo_bc | head_c_t10_usa_pl_hudson_camo_bc | vm_c_t10_usa_pl_hudson_camo_bc |
+
+
+# Silent Bob
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo69b392e555f01074f23225f316088a19f8ef8d5346114b4f84a929c0b3b420012_large.webp) <br>Silent Bob | body_c_t10_usa_pl_ | head_c_t10_usa_pl_ | vm_c_t10_usa_pl_ |
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6a9b0f61304a206f13cae6b12419c300d1d9bbf7a2263470595ca905cf9632798_large.webp) <br>Bluntman | body_c_t10_usa_pl_ | head_c_t10_usa_pl_ | vm_c_t10_usa_pl_ |
+
+# Jay
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6cac0167d816be9450cb3f4fd1bd23f3d5d567e3d181842d24563aee2c58d0355_large.webp) <br>Jay | body_c_t10_usa_pl_ | head_c_t10_usa_pl_ | vm_c_t10_usa_pl_ |
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo67fb73519139e11c2dc4ad69d5d22b25cdfeceac9f099255c6f196e6a9874882d_large.webp) <br>Chronic | body_c_t10_usa_pl_ | head_c_t10_usa_pl_ | vm_c_t10_usa_pl_ |
+
 
