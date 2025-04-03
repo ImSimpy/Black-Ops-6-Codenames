@@ -9,11 +9,14 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | p19_zmb_rable | 
+![image](https://github.com/user-attachments/assets/ad55e724-95ee-4e65-aca1-cb1d3dbb93c2)
+<br> Default | p19_zmb_rable | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Ray Gun PJ-SRU  | p19_zmb_rable_garnet | 
+![image](https://github.com/user-attachments/assets/2f6a40da-8549-4da2-8eb0-a856355b9016)
+<br> Ray Gun PJ-SRU  | p19_zmb_rable_garnet | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Hell Chord | p19_zmb_rable_dmetal | 
+![image](https://github.com/user-attachments/assets/9007ee16-657f-4925-9215-d640e9f3cfcd)
+<br> Hell Chord | p19_zmb_rable_dmetal | 
 | | | | |  
 ![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Ultraviolet | p19_zmb_rable_aether | 
 | | | | | 
