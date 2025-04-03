@@ -20,3 +20,11 @@
 | | | | | 
  <br>Most Wanted  | c_t10_ger_hero_felix_capitol_swat_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
 | | | | | 
+ <br>Raid of Luttazzi Casino  | c_t10_ger_hero_felix_technician_heist_body_1 |  head_c_t10_ger_hero_felix_ |  c_t10_ger_hero_felix_technician_heist_vm_1
+| | | | | 
+ <br>  |  |  |  N/A
+| | | | | 
+ <br>  |  |  |  N/A
+| | | | | 
+ <br>  |  |  |  N/A
+| | | | | 
