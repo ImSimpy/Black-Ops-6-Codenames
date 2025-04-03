@@ -349,3 +349,11 @@
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo67fb73519139e11c2dc4ad69d5d22b25cdfeceac9f099255c6f196e6a9874882d_large.webp) <br>Chronic | body_c_t10_usa_pl_ | head_c_t10_usa_pl_ | vm_c_t10_usa_pl_ |
 
 
+# John Black Ops
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>John Black Ops | body_c_t10_usa_pl_john_base | head_c_t10_usa_pl_john_base | vm_c_t10_usa_pl_john_base |
+
+
