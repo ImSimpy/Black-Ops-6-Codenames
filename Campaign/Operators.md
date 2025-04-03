@@ -16,7 +16,7 @@
 
 
 | Icon | Body | Head | Arms |
-| :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: |
 | | | | | 
  <br>Most Wanted  | c_t10_ger_hero_felix_capitol_swat_body_1 | head_c_t10_ger_hero_felix_no_glasses |  N/A
 | | | | | 
