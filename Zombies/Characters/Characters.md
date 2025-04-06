@@ -39,7 +39,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f9658554-d91e-42a7-a341-adb4988885ed)<br> Edward "Eddie" Richtofen Dirty |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
 | | | | |
-![image](https://github.com/user-attachments/assets/f4db2f14-10ba-464f-ad61-f25fce1a5bec)<br> John Blanchard | N/A | N/A | 
+![image](https://github.com/user-attachments/assets/52a9ff14-a2e4-4075-9104-9ece99a0224b)<br> John Blanchard | N/A | N/A | 
 | | | | | 
  <br> |  |  | 
 | | | | | 
