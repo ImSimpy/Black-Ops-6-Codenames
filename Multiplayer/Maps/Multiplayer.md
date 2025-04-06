@@ -37,6 +37,18 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/a0f59769-8e99-4272-bb1d-4ae91297663f)<br> Vorkuta | mp_t10_vorkuta | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/5989537f-45f9-4ffe-b02c-e41f65f97570)<br> Gala | mp_t10_sm_capital | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/204dbf0a-2864-4daa-b7b1-8df3c270dea7)<br> Pit | mp_t10_sm_vorkuta_mine | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/b8a10798-8b34-421d-95d5-e87fa67eced4)<br> Stakeout | mp_t10_sm_flat | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/58a6c501-0104-4b3d-ad40-fb854977033f)<br> Warhead | mp_t10_sand_house | 
+| | | | | 
+
+
+
+
 
 
 # Season One
