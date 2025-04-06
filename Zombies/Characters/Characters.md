@@ -35,11 +35,11 @@
 | Icon | Body | Head | 
 | :--: | :--: | :--: |
 | | | | |
-![image](https://github.com/user-attachments/assets/97d6455d-a7b7-41f5-8ab9-283511a5b652)<br> Edward Richtofen | body_c_t10_zmb_npc_richtofen | head_c_t10_zmb_npc_richtofen | 
+![image](https://github.com/user-attachments/assets/6b1f9c8e-ead7-4de5-9906-fb10c3f6d999)<br> Edward Richtofen | body_c_t10_zmb_npc_richtofen | head_c_t10_zmb_npc_richtofen | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/f9658554-d91e-42a7-a341-adb4988885ed)<br> Edward Richtofen " Dirty " |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
+![image](https://github.com/user-attachments/assets/1fa76b84-e041-4028-8bcb-4caceaa7e307)<br> Edward Richtofen " Dirty " |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
 | | | | |
-![image](https://github.com/user-attachments/assets/52a9ff14-a2e4-4075-9104-9ece99a0224b)<br> John Blanchard | N/A | N/A | 
+![image](https://github.com/user-attachments/assets/c35d9ed0-f14d-416a-a0c3-3e3d1edfdbdb)<br> John Blanchard | N/A | N/A | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/07334626-5312-4855-b4a9-c1d954e6da22)<br> Pericles Panos " Human "| c_t10_zmb_npc_echo_panos_fb_human_no_dyn | N/A | 
 | | | | | 
