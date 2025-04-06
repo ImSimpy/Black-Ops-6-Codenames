@@ -103,10 +103,18 @@
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
- <br>  | | 
+![image](https://github.com/user-attachments/assets/6a0d50d7-15ad-4ed9-b7c4-7354ee74fe4f)<br> Barrage | mp_t10_firebase | 
 | | | | | 
-
-
+![image](https://github.com/user-attachments/assets/fc45ffb6-0ca9-4c12-8ebd-28a47cfaf65b)<br> Firing Range | mp_t10_rm_firingrange2 | 
+| | | | | 
+ <br> Haven | | 
+| | | | | 
+ <br> Blazetown | | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4910b3f4-2586-435c-96e7-e0ca2187a2aa)<br> Nomad | mp_t10_sm_nomad | 
+| | | | | 
+ <br> Signal | | 
+| | | | | 
 
 
 
