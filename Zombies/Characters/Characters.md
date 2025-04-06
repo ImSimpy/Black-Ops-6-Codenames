@@ -35,7 +35,29 @@
 | Icon | Body | Head | 
 | :--: | :--: | :--: |
 | | | | | 
+![image](https://github.com/user-attachments/assets/f4db2f14-10ba-464f-ad61-f25fce1a5bec)<br> John Blanchard | N/A | N/A | 
+| | | | | 
+ <br> |  |  | 
+| | | | | 
  <br> |  |  | 
 | | | | | 
  <br> |  |  | 
 | | | | | 
+ <br> |  |  | 
+| | | | | 
+ <br> |  |  | 
+| | | | | 
+ <br> |  |  | 
+| | | | | 
+ <br> |  |  | 
+| | | | | 
+ <br> |  |  | 
+| | | | | 
+ <br> |  |  | 
+| | | | | 
+
+
+
+
+
+
