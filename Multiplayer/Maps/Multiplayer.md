@@ -45,7 +45,8 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/58a6c501-0104-4b3d-ad40-fb854977033f)<br> Warhead | mp_t10_sand_house | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/298a996e-df4a-4c24-861c-ed0a79627868)<br> Nuketown | mp_t10_nuketown | 
+![image](https://github.com/user-attachments/assets/65fc35b8-18b5-40af-ba15-b0e106437554)
+<br> Nuketown | mp_t10_nuketown | 
 | | | | | 
 
 
