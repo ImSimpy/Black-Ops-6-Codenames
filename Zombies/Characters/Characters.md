@@ -41,9 +41,9 @@
 | | | | |
 ![image](https://github.com/user-attachments/assets/c35d9ed0-f14d-416a-a0c3-3e3d1edfdbdb)<br> John Blanchard | N/A | N/A | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/07334626-5312-4855-b4a9-c1d954e6da22)<br> Pericles Panos " Human "| c_t10_zmb_npc_echo_panos_fb_human_no_dyn | N/A | 
+![image](https://github.com/user-attachments/assets/06d50864-a791-4ebc-9be5-7ec04b14484b)<br> Pericles Panos " Human Form "| c_t10_zmb_npc_echo_panos_fb_human_no_dyn | N/A | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/c30bde33-2da0-41f7-b4a0-bcdd40ec0922)<br> Pericles Panos " Dark Aether " | c_t10_zmb_npc_echo_panos_fb | N/A | 
+![image](https://github.com/user-attachments/assets/73064a12-641f-4354-b139-5feaa993e25f)<br> Pericles Panos " Soul " | c_t10_zmb_npc_echo_panos_fb | N/A | 
 | | | | | 
  <br> |  |  | 
 | | | | | 
