@@ -82,7 +82,17 @@
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
- <br>  | | 
+![image](https://github.com/user-attachments/assets/8fac9846-d016-4cf5-8971-4d133688cdeb)<br> Bounty | mp_t10_fallout | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/54097e62-c284-45fc-abd2-cc1f8cf5b942)<br> Dealership | mp_t10_dealership | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/07aaa51f-0a73-4638-a262-c315e76c13b0)<br> Grind | mp_t10_rm_grind | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/087b3985-f557-4244-a646-04e343b38c18)<br> Grind Ooze | mp_t10_rm_grind_shell | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/66752b73-0d15-4ba6-8ef4-60a96e9d77ad)<br> Lifeline | mp_t10_charter | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/72518621-b24c-4502-aee3-d10724b7f94b)<br> Bullet | mp_t10_sm_bullet | 
 | | | | | 
 
 
