@@ -47,7 +47,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/de3aa8c7-ec21-428d-8b39-fb00560fd3c8)<br> Revati Modi | body_c_t10_zmb_npc_modi | head_c_t10_zmb_npc_modi | 
 | | | | | 
- <br> |  |  | 
+![image](https://github.com/user-attachments/assets/1fbb7a16-1d8c-41e0-b8cc-7fc9e453e2f8)<br> Owen Guthrie | TBA | TBA | 
 | | | | | 
  <br> |  |  | 
 | | | | | 
@@ -59,6 +59,24 @@
 | | | | | 
  <br> |  |  | 
 | | | | | 
+
+
+# French Syndicate
+| Icon | Body | Head | 
+| :--: | :--: | :--: |
+| | | | |
+François Moreau <br> | body_c_t10_zmb_npc_franco | head_c_t10_zmb_npc_franco | 
+| | | | | 
+
+
+
+
+
+
+
+
+
+
 
 
 
