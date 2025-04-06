@@ -35,7 +35,7 @@
 | Icon | Body | Head | 
 | :--: | :--: | :--: |
 | | | | |
-![image](https://github.com/user-attachments/assets/eb0f6d48-2e9a-46e7-b037-7f188d5cafad)<br> Edward "Eddie" Richtofen | body_c_t10_zmb_npc_richtofen | head_c_t10_zmb_npc_richtofen | 
+![image](https://github.com/user-attachments/assets/97d6455d-a7b7-41f5-8ab9-283511a5b652)<br> Edward "Eddie" Richtofen | body_c_t10_zmb_npc_richtofen | head_c_t10_zmb_npc_richtofen | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f9658554-d91e-42a7-a341-adb4988885ed)<br> Edward "Eddie" Richtofen Dirty |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
 | | | | |
