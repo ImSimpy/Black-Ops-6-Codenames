@@ -62,11 +62,21 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/dec346a3-5fe8-4ab5-bb49-184a03991a22)<br> | body_c_t10_zmb_npc_ravenov_young | head_c_t10_zmb_npc_ravenov_young | 
 | | | | | 
- <br> |  |  | 
+
+
+
+# Others
+| Icon | Body | Head | 
+| :--: | :--: | :--: |
+| | | | |
+![image](https://github.com/user-attachments/assets/7225a383-dcc8-4d23-a0d2-99c325679812)<br> | body_c_t10_zmb_npc_nathan_amalgam | head_c_t10_zmb_npc_nathan_amalgam | 
 | | | | | 
-
-
-
+<br> Josiah Shem |  |  | 
+| | | | | 
+<br> Sam Colton |  |  | 
+| | | | | 
+<br> Fats Malloy  |  |  | 
+| | | | | 
 
 
 
