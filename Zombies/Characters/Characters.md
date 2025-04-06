@@ -71,11 +71,11 @@
 | | | | |
 ![image](https://github.com/user-attachments/assets/7225a383-dcc8-4d23-a0d2-99c325679812)<br> | body_c_t10_zmb_npc_nathan_amalgam | head_c_t10_zmb_npc_nathan_amalgam | 
 | | | | | 
-<br> Josiah Shem |  |  | 
+<br> Josiah Shem | body_c_t10_zmb_npc_josiah_shem | head_c_t10_zmb_npc_josiah_shem | 
 | | | | | 
-<br> Sam Colton |  |  | 
+<br> Sam Colton | body_c_t10_zmb_npc_sam_colton | head_c_t10_zmb_npc_sam_colton | 
 | | | | | 
-<br> Fats Malloy  |  |  | 
+<br> Fats Malloy | body_c_t10_zmb_npc_fats_malloy  | head_c_t10_zmb_npc_fats_malloy | 
 | | | | | 
 
 
