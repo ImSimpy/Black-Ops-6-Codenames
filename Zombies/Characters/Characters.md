@@ -37,7 +37,7 @@
 | | | | |
 ![image](https://github.com/user-attachments/assets/eb0f6d48-2e9a-46e7-b037-7f188d5cafad)<br> Edward "Eddie" Richtofen | body_c_t10_zmb_npc_richtofen | head_c_t10_zmb_npc_richtofen | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/cbfb2cbd-5b53-4869-aa4d-28c46abaa948)<br> Edward "Eddie" Richtofen Dirty |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
+![image](https://github.com/user-attachments/assets/f9658554-d91e-42a7-a341-adb4988885ed)<br> Edward "Eddie" Richtofen Dirty |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
 | | | | |
 ![image](https://github.com/user-attachments/assets/f4db2f14-10ba-464f-ad61-f25fce1a5bec)<br> John Blanchard | N/A | N/A | 
 | | | | | 
