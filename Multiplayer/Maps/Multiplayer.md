@@ -70,9 +70,9 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/4f093079-5294-4679-94e9-a113279bf421)<br> Nuketown Holiday | mp_t10_nuketown_winter | 
 | | | | | 
- <br>  | | 
+![image](https://github.com/user-attachments/assets/f1596f0c-636f-497a-87a5-d4333cb9315a)<br> Heirloom | mp_t10_sm_heirloom | 
 | | | | | 
- <br>  | | 
+![image](https://github.com/user-attachments/assets/8bf3bac4-ae61-4522-99cf-eef84badc7ce)<br> Racket | mp_t10_sm_reserve | 
 | | | | | 
 
 
