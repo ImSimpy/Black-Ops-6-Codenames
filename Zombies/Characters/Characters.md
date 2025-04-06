@@ -49,8 +49,6 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/1fbb7a16-1d8c-41e0-b8cc-7fc9e453e2f8)<br> Owen Guthrie | TBA | TBA | 
 | | | | | 
- <br> |  |  | 
-| | | | | 
 
 
 
@@ -71,6 +69,14 @@
 | | | | |
 ![image](https://github.com/user-attachments/assets/7225a383-dcc8-4d23-a0d2-99c325679812)<br> | body_c_t10_zmb_npc_nathan_amalgam | head_c_t10_zmb_npc_nathan_amalgam | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/4c3014ee-107e-4d7b-b99b-9d35c443d999)<br> William Peck | body_c_t10_zmb_npc_peck | head_c_t10_zmb_npc_peck | 
+| | | | |
+![image](https://github.com/user-attachments/assets/64da9f2d-311d-4897-af96-097a84a54d1e)<br>  | body_c_t10_zmb_npc_krafft | head_c_t10_zmb_npc_krafft_high | 
+| | | | |
+![image](https://github.com/user-attachments/assets/b38cf0ae-cc13-4ed0-910a-0bf5de9f5522)<br>  | body_c_t10_zmb_npc_krafft_death | head_c_t10_zmb_npc_krafft_death | 
+| | | | |
+![image](https://github.com/user-attachments/assets/e3f2619c-af3b-4a9e-b4c1-ac66194fc0eb)<br> Stoney Maddox  | body_c_t10_zmb_npc_raptor1 | head_c_t10_zmb_npc_raptor1 | 
+| | | | |
 <br> Josiah Shem | body_c_t10_zmb_npc_josiah_shem | head_c_t10_zmb_npc_josiah_shem | 
 | | | | | 
 <br> Sam Colton | body_c_t10_zmb_npc_sam_colton | head_c_t10_zmb_npc_sam_colton | 
