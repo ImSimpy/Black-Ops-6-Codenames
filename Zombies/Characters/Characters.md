@@ -34,7 +34,11 @@
 
 | Icon | Body | Head | 
 | :--: | :--: | :--: |
+| | | | |
+![image](https://github.com/user-attachments/assets/eb0f6d48-2e9a-46e7-b037-7f188d5cafad)<br> Edward "Eddie" Richtofen | body_c_t10_zmb_npc_richtofen | head_c_t10_zmb_npc_richtofen | 
 | | | | | 
+ <br> Richtofen Dirty |  body_c_t10_zmb_npc_richtofen_dirty | head_c_t10_zmb_npc_richtofen_dirty | 
+| | | | |
 ![image](https://github.com/user-attachments/assets/f4db2f14-10ba-464f-ad61-f25fce1a5bec)<br> John Blanchard | N/A | N/A | 
 | | | | | 
  <br> |  |  | 
