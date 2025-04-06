@@ -9,7 +9,6 @@
 
 # Pre-Season
 
-
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
@@ -50,7 +49,6 @@
 
 # November Update
 
-
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
@@ -61,30 +59,42 @@
 
 # Season One
 
+| Icon | Name | 
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/b8ad0af0-ce70-4bd0-b216-b5fbc9c9ed99)<br> Hideout | mp_t10_hideout | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/04de4729-7832-4adb-8504-c38e2c57f104)<br> Extraction | mp_t10_extraction | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4beb87a6-9f5a-4f7e-8875-4477bb1d2f84)<br> Hacienda | mp_t10_rm_hacienda_alt | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4f093079-5294-4679-94e9-a113279bf421)<br> Nuketown Holiday | mp_t10_nuketown_winter | 
+| | | | | 
+ <br>  | | 
+| | | | | 
+ <br>  | | 
+| | | | | 
+
+
+
+# Season Two 
 
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
  <br>  | | 
 | | | | | 
- <br>  | | 
+
+
+
+# Season Three
+
+
+| Icon | Name | 
+| :--: | :--: | 
 | | | | | 
  <br>  | | 
 | | | | | 
- <br>  | | 
-| | | | | 
- <br>  | | 
-| | | | | 
- <br>  | | 
-| | | | | 
-
-
-
-
-
-
-
-
 
 
 
