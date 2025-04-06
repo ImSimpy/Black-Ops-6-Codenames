@@ -13,6 +13,15 @@
 > 
 > 
 
+
+<br>
+
+> [!NOTE]
+> 
+> 𝐓𝐨 𝐋𝐨𝐚𝐝 𝐚 𝐌𝐚𝐩 𝐠𝐨 𝐭𝐨 [Here](https://github.com/ImSimpy/BO6-Codenames/blob/main/Zombies/Maps/Zombies.md).
+>
+
+
 <br>
 
 > [!IMPORTANT]
