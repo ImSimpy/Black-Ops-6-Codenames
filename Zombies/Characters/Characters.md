@@ -67,6 +67,8 @@
 | | | | |
 ![image](https://github.com/user-attachments/assets/f6cfafff-2032-4ca1-98c9-59d536f4c670)<br> François Moreau  | body_c_t10_zmb_npc_franco | head_c_t10_zmb_npc_franco | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/dec346a3-5fe8-4ab5-bb49-184a03991a22)<br> | body_c_t10_zmb_npc_ravenov_young | head_c_t10_zmb_npc_ravenov_young | 
+| | | | | 
 
 
 
