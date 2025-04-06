@@ -45,7 +45,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/73064a12-641f-4354-b139-5feaa993e25f)<br> Pericles Panos " Soul " | c_t10_zmb_npc_echo_panos_fb | N/A | 
 | | | | | 
- <br> |  |  | 
+![image](https://github.com/user-attachments/assets/de3aa8c7-ec21-428d-8b39-fb00560fd3c8)<br> Revati Modi | body_c_t10_zmb_npc_modi | head_c_t10_zmb_npc_modi | 
 | | | | | 
  <br> |  |  | 
 | | | | | 
