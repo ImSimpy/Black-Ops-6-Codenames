@@ -14,8 +14,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f408bdf6-79fc-4727-8913-84b2b017bbbe)<br> Liberty Falls | zm_t10_garnet | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/e679dfc9-60da-45ba-8ec5-c6f637cc18a7)
-<br> Terminus | zm_t10_quartz | 
+![image](https://github.com/user-attachments/assets/e679dfc9-60da-45ba-8ec5-c6f637cc18a7)<br> Terminus | zm_t10_quartz | 
 | | | | | 
 
 
