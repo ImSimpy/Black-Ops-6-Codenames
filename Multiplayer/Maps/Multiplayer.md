@@ -7,6 +7,17 @@
 > Use `Load` to load the map.
 >
 
+# Firing Range 
+
+| Icon | Name | 
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/d23e7034-7fc5-4869-bbb4-ceb1aefc16d5)
+<br> Firing Range  | ens_mp_frontend | 
+| | | | | 
+
+
+
 # Pre-Season
 
 | Icon | Name | 
