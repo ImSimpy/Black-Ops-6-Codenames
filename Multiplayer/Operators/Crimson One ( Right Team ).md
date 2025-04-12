@@ -46,23 +46,24 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2c/Caine_Coyote_Skin_BO6.png/revision/latest?cb=20241218224710) <br>Coyote | body_c_t10_usa_pl_caine_goggles  | head_c_t10_usa_pl_caine_goggles | vm_c_t10_usa_pl_caine_goggles | 
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/cd/Caine_FutureCombatant_Skin_BO6.png/revision/latest?cb=20250403212614) <br> Future Combatant | body_c_t10_usa_pl_caine_bo4  | head_c_t10_usa_pl_caine_bo4 | vm_c_t10_usa_pl_caine_caine_bo4 | 
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo61b8eb6fe9d661ea83006a67b8b0bed4aaf655dbe242936684526b7d012fe7af8_large.webp) <br>Star Player | body_c_t10_usa_pl_caine_retrowave  | head_c_t10_usa_pl_caine_retrowave | vm_c_t10_usa_pl_caine_retrowave | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f7/Caine_RideNDie_Skin_BO6.png/revision/latest?cb=20250115220407) <br>Ride-N-Die |  body_c_t10_usa_pl_caine_biker  | head_c_t10_usa_pl_caine_biker | vm_c_t10_usa_pl_caine_biker | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ec/Caine_TheBull_Skin_BO6.png/revision/latest?cb=20241120221835) <br>The Bull | body_c_t10_usa_pl_caine_longhorn  | head_c_t10_usa_pl_caine_longhorn | vm_c_t10_usa_pl_caine_longhorn | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/43/Caine_NoLove_Skin_BO6.png/revision/latest?cb=20250201180613) <br>No Love | body_c_t10_usa_pl_caine_single  | head_c_t10_usa_pl_caine_single | vm_c_t10_usa_pl_caine_single | 
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/45/Caine_TrailBlazer_Skin_BO6.png/revision/latest?cb=20250403221900) <br>Trail Blazer | body_c_t10_usa_pl_caine_traveler  | head_c_t10_usa_pl_caine_traveler | vm_c_t10_usa_pl_caine_traveler | 
+| | | | | 
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo671d1f57028495c5150b42422450fb08cd69dcd46d21e297a8dd35bfb079a7851_large.webp) <br>Bearserker | body_c_t10_usa_pl_caine_orc  | head_c_t10_usa_pl_caine_orc | vm_c_t10_usa_pl_caine_orc | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7d/Caine_Falconer_Skin_BO6.png/revision/latest?cb=20250214010543) <br>Falconer | body_c_t10_usa_pl_caine_cleaver  | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_bo4  | head_c_t10_usa_pl_caine_bo4 | vm_c_t10_usa_pl_caine_caine_bo4 | 
-| | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_energy  | head_c_t10_usa_pl_caine_energy | vm_c_t10_usa_pl_caine_caine_energy | 
-| | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_orc  | head_c_t10_usa_pl_caine_orc | vm_c_t10_usa_pl_caine_orc | 
-| | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_retrowave  | head_c_t10_usa_pl_caine_retrowave | vm_c_t10_usa_pl_caine_retrowave | 
-| | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_usa_pl_caine_traveler  | head_c_t10_usa_pl_caine_traveler | vm_c_t10_usa_pl_caine_traveler | 
+
 
 # Arak Niran 
 
@@ -113,9 +114,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c8/Toro_FlowStateBlackCell_Skin_BO6.png/revision/latest?cb=20250201180646) <br>Flow State BlackCell | body_c_t10_arg_pl_alejo_sabre  | head_c_t10_arg_pl_alejo_sabre | vm_c_t10_arg_pl_alejo_sabre | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Jug-O-Naught | body_c_t10_arg_pl_alejo_juggernaut  | head_c_t10_arg_pl_alejo_juggernaut | vm_c_t10_arg_pl_alejo_juggernaut | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Toro_JugONot_Skin_BO6.png/revision/latest?cb=20250403215450) <br>Jug-O-Naught | body_c_t10_arg_pl_alejo_juggernaut  | head_c_t10_arg_pl_alejo_juggernaut | vm_c_t10_arg_pl_alejo_juggernaut | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Toro_JugONotBlackCell_Skin_BO6.png/revision/latest?cb=20250403215451) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
 
 
  #  Tess Bailey
@@ -139,7 +140,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/79/Bailey_Aero_Skin_BO6.png/revision/latest?cb=20241218224607) <br>Aero | body_c_t10_usa_pl_bailey_mech | head_c_t10_usa_pl_bailey_mech | vm_c_t10_usa_pl_bailey_mech | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo63dd55e2769af8a86b2ef74e3d321f843eb5babec95dd1c8e03e2af664261b0ae_large.webp) <br>Pixel | body_c_t10_usa_pl_bailey_gamer | head_c_t10_usa_pl_bailey_gamer | vm_c_t10_usa_pl_bailey_gamer | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_Pixel_Skin_BO6.png/revision/latest?cb=20250403212535) <br>Pixel | body_c_t10_usa_pl_bailey_gamer | head_c_t10_usa_pl_bailey_gamer | vm_c_t10_usa_pl_bailey_gamer | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
@@ -173,9 +174,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/34/Stone_ShadowWorkBlackCell_Skin_BO6.png/revision/latest?cb=20250201180640) <br>Shadow Work BlackCell | body_c_t10_gbr_pl_stone_valor | head_c_t10_gbr_pl_stone_valor | vm_c_t10_gbr_pl_stone_valor
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1c/Stone_AllTerrain_Skin_BO6.png/revision/latest?cb=20250403215345) <br>All Terrain | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Unknown | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_AllTerrainBlackCell_Skin_BO6.png/revision/latest?cb=20250403215346) <br>All Terrain Blackcell | body_c_t10_gbr_pl_stone_brush_bc | head_c_t10_gbr_pl_stone_brush_bc | vm_c_t10_gbr_pl_stone_brush_bc
 
 
 #  Nocturne
@@ -213,7 +214,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/25/Klaus_Reborn_Skin_BO6.png/revision/latest?cb=20241028013617) Reborn | body_c_t10_ger_pl_dummy_cyber | head_c_t10_ger_pl_dummy_cyber | vm_c_t10_ger_pl_dummy_cyber |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo69f0c53fc38a3eb0e89f4f97cb7c18ed8c59e7910b8f59d97149106c839b7083e_large.webp) Steel Butler | body_c_t10_ger_pl_dummy_haunt | head_c_t10_ger_pl_dummy_haunt | vm_c_t10_ger_pl_dummy_haunt |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b3/Klaus_SteelButler_Skin_BO6.png/revision/latest?cb=20250403212854) Steel Butler | body_c_t10_ger_pl_dummy_haunt | head_c_t10_ger_pl_dummy_haunt | vm_c_t10_ger_pl_dummy_haunt |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Klaus_Ref_Skin_BO6.png/revision/latest?cb=20250213213916) Ref | body_c_t10_ger_pl_dummy_ref | head_c_t10_ger_pl_dummy_ref | vm_c_t10_ger_pl_dummy_ref |
 | | | | | 
@@ -230,7 +231,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ed/Carver_Expedition_Skin_BO6.png/revision/latest?cb=20250201180617) <br>Expedition | body_c_t10_usa_pl_carver_dig | head_c_t10_usa_pl_carver_dig | vm_c_t10_usa_pl_carver_dig |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>PhDeadly | body_c_t10_usa_pl_carver_mansion | head_c_t10_usa_pl_carver_mansion | vm_c_t10_usa_pl_carver_mansion |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d0/Carver_PhDeadly_Skin_BO6.png/revision/latest?cb=20250403212649) <br>PhDeadly | body_c_t10_usa_pl_carver_mansion | head_c_t10_usa_pl_carver_mansion | vm_c_t10_usa_pl_carver_mansion |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a8/Carver_Bloke_Biter_Skin_BO6.png/revision/latest?cb=20241124201822) <br>Bloke Biter | body_c_t10_usa_pl_carver_shark | head_c_t10_usa_pl_carver_shark | vm_c_t10_usa_pl_carver_shark |
 | | | | | 
@@ -276,7 +277,7 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>R0-Z3 | body_c_t10_usa_pl_roze_base | head_c_t10_usa_pl_roze_base | vm_c_t10_usa_pl_roze_base |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/R0Z3_Default_Skin_BO6.png/revision/latest?cb=20250403215252) <br>R0-Z3 | body_c_t10_usa_pl_roze_base | head_c_t10_usa_pl_roze_base | vm_c_t10_usa_pl_roze_base |
 
 
 # Mace
@@ -284,13 +285,13 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_base | head_c_t10_usa_pl_mace_base | vm_c_t10_usa_pl_mace_base |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/51/Mace_Default_Skin_BO6.png/revision/latest?cb=20250403212939) <br>Mace | body_c_t10_usa_pl_mace_base | head_c_t10_usa_pl_mace_base | vm_c_t10_usa_pl_mace_base |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_base_bc | head_c_t10_usa_pl_mace_base_bc | vm_c_t10_usa_pl_mace_base_bc |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/37/Mace_BlackCell_Skin_BO6.png/revision/latest?cb=20250403212940) <br>Mace | body_c_t10_usa_pl_mace_base_bc | head_c_t10_usa_pl_mace_base_bc | vm_c_t10_usa_pl_mace_base_bc |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_devil | head_c_t10_usa_pl_mace_devil | vm_c_t10_usa_pl_mace_devil |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5f/Mace_ApocalypseKing_Skin_BO6.png/revision/latest?cb=20250403212937) <br>Mace | body_c_t10_usa_pl_mace_devil | head_c_t10_usa_pl_mace_devil | vm_c_t10_usa_pl_mace_devil |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Mace | body_c_t10_usa_pl_mace_devil_bc | head_c_t10_usa_pl_mace_devil_bc | vm_c_t10_usa_pl_mace_devil_bc |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/da/Mace_ApocalypseKingBlackCell_Skin_BO6.png/revision/latest?cb=20250403212938) <br>Mace | body_c_t10_usa_pl_mace_devil_bc | head_c_t10_usa_pl_mace_devil_bc | vm_c_t10_usa_pl_mace_devil_bc |
 
 
 
