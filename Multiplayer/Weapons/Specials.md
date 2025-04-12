@@ -34,6 +34,15 @@
 
 
 
+# Nailgun
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | sl_napa | 
+| | | | | 
+![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Retcon | sl_napa_comics | 
+
 
 
 
