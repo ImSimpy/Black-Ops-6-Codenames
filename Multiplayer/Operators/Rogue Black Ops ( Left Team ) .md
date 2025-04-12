@@ -27,11 +27,11 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6fd64c1705d02c4747a2d3c9dc3b337f45845006cac4bafbd9cf5540a2f197c1d_large.webp) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/03/Park_FortunePossessed_Skin_BO6.png/revision/latest?cb=20250312212603) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Unknown | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/09/Park_SurvivorsGuile_Skin_BO6.png/revision/latest?cb=20250403214949) <br> Survivor's Guile | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Unknown | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
 
 
 
@@ -79,7 +79,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/47/Westpoint_FoliaBrasileira_Skin_BO6.png/revision/latest?cb=20250223214951) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/47/Westpoint_FoliaBrasileira_Skin_BO6.png/revision/latest?cb=20250223214951) <br>Shieldmaiden | body_c_t10_usa_pl_westpoint_paladin | head_c_t10_usa_pl_westpoint_paladin | vm_c_t10_usa_pl_westpoint_paladin
+| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo65fc80ad231c3c9cce6c021ddf1a81d1e36127369c8a0d05ecf702b3abb8d2ae0_large.webp) <br>Shieldmaiden | body_c_t10_usa_pl_westpoint_paladin | head_c_t10_usa_pl_westpoint_paladin | vm_c_t10_usa_pl_westpoint_paladin
 
 
 
