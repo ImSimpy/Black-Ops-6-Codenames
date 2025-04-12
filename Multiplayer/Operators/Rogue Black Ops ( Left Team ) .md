@@ -104,12 +104,11 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Bayan_DivineMalice_Skin_BO6.png/revision/latest?cb=20250111010256) <br>Divine Malice  | body_c_t10_pol_pl_bayan_longshot | head_c_t10_pol_pl_bayan_longshot | vm_c_t10_pol_pl_bayan_longshot |  
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/93/Bayan_BlackDiamond_Skin_BO6.png/revision/latest?cb=20250213213914) <br>Black Diamond  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/43/Bayan_Drifter_Skin_BO6.png/revision/latest?cb=20241119185602) <br>Drifter  | body_c_t10_pol_pl_bayan_artillery | head_c_t10_pol_pl_bayan_artillery  | vm_c_t10_pol_pl_bayan_artillery  | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell| 
-| | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/93/Bayan_BlackDiamond_Skin_BO6.png/revision/latest?cb=20250213213914) <br>Black Diamond  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
-
 
 
 # Yara Alvarez 
@@ -129,9 +128,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/be/Alvarez_Speedtrap_Skin_BO6.png/revision/latest?cb=20250201180608) <br>Speedtrap | body_c_t10_pri_pl_yara_baiku | head_c_t10_pri_pl_yara_baiku | vm_c_t10_pri_pl_yara_baiku |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo671a62367f5c7cb233472cf592456d3553843e1ff04b80fe7b8dffd6bee92c7de_large.webp) <br>Polyphonic | body_c_t10_pri_pl_yara_disk  | head_c_t10_pri_pl_yara_disk | vm_c_t10_pri_pl_yara_disk 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/19/Alvarez_Polyphonic_Skin_BO6.png/revision/latest?cb=20250312212601) <br>Polyphonic | body_c_t10_pri_pl_yara_disk  | head_c_t10_pri_pl_yara_disk | vm_c_t10_pri_pl_yara_disk 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66bc732bddaad3673341af08a28fa6c428c95cced0b40e69892d7c4f66c53ff51_large.webp) <br>Bionic Beats | body_c_t10_pri_pl_yara_disk_alt  | head_c_t10_pri_pl_yara_disk_alt | vm_c_t10_pri_pl_yara_disk_alt
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/39/Alvarez_BionicBeats_Skin_BO6.png/revision/latest?cb=20250312212554) <br>Bionic Beats | body_c_t10_pri_pl_yara_disk_alt  | head_c_t10_pri_pl_yara_disk_alt | vm_c_t10_pri_pl_yara_disk_alt
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/87/Alvarez_Unleash_The_Truth_Skin_BO6.png/revision/latest?cb=20241028013539) <br>Unleash The Truth | body_c_t10_pri_pl_yara_monster | head_c_t10_pri_pl_yara_monster | vm_c_t10_pri_pl_yara_monster
 | | | | | 
@@ -158,14 +157,13 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Payne_Fixer_Skin_BO6.png/revision/latest?cb=20241119221807) <br>Fixer  | body_c_t10_gbr_pl_ratcliff_bodyguard | head_c_t10_gbr_pl_ratcliff_bodyguard | vm_c_t10_gbr_pl_ratcliff_bodyguard |  
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9e/Payne_WardensFan_Skin_BO6.png/revision/latest?cb=20250403215207) <br>Wardens Fan  | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/df/Payne_VerdanskFan_Skin_BO6.png/revision/latest?cb=20250403215206) <br>Verdansk Fan | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
-| | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo68f80f0d0edc2729a8d1e9244ee275fe4831e979c8cf260ce6a5ce5a5b72137ac_large.webp) <br>Unknown  | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
-| | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6291f42e8bb32ba706427ff2471704dfac68b673f4b211a55bdde46e1ce4bfd23_large.webp) <br>Unknown | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
-
 
 
 # Troy Marshall
@@ -185,7 +183,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/01/Marshall_Sleetburn_Skin_BO6.png/revision/latest?cb=20250201180627) <br>Sleetburn| body_c_t10_usa_pl_marshall_melted| head_c_t10_usa_pl_marshall_melted | vm_c_t10_usa_pl_marshall_melted |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo60d16e9f5f70f378a569b5ff43fe7f9795fba9894957c0790806fac81386536cb_large.webp) <br>Hitmaker | body_c_t10_usa_pl_marshall_hammerhead | head_c_t10_usa_pl_marshall_hammerhead | vm_c_t10_usa_pl_marshall_hammerhead |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d5/Marshall_BigT_Skin_BO6.png/revision/latest?cb=20250403213023) <br>Big T | body_c_t10_usa_pl_marshall<br>_hammerhead | head_c_t10_usa_pl_marshall<br>_hammerhead | vm_c_t10_usa_pl_marshall<br>_hammerhead |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Marshall_Attrition_Skin_BO6.png/revision/latest?cb=20241201225800) <br>Attrition | body_c_t10_usa_pl_marshall_cyborg | head_c_t10_usa_pl_marshall_cyborg | vm_c_t10_usa_pl_marshall_cyborg |
 | | | | | 
@@ -197,9 +195,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Marshall_KingmakerBlackCell_Skin_BO6.png/revision/latest?cb=20250201180625) <br>Hitmaker | body_c_t10_usa_pl_marshall_samurai| head_c_t10_usa_pl_marshall_samurai | vm_c_t10_usa_pl_marshall_samurai |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Hazard Prep | body_c_t10_usa_pl_marshall_jailer | head_c_t10_usa_pl_marshall_jailer | vm_c_t10_usa_pl_marshall_jailer |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dd/Marshall_HazardPrep_Skin_BO6.png/revision/latest?cb=20250403213024) <br>Hazard Prep | body_c_t10_usa_pl_marshall_jailer | head_c_t10_usa_pl_marshall_jailer | vm_c_t10_usa_pl_marshall_jailer |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Hazard Prep Blackcell | body_c_t10_usa_pl_marshall_jailer_bc | head_c_t10_usa_pl_marshall_jailer_bc | vm_c_t10_usa_pl_marshall_jailer_bc |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1d/Marshall_HazardPrepBlackCell_Skin_BO6.png/revision/latest?cb=20250403213025) <br>Hazard Prep Blackcell | body_c_t10_usa_pl_marshall_jailer_bc | head_c_t10_usa_pl_marshall_jailer_bc | vm_c_t10_usa_pl_marshall_jailer_bc |
 
 
 
@@ -233,9 +231,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/72/Woods_Numbers_Woods_Skin_BO6.png/revision/latest?cb=20241028014054) <br>Numbers Woods | body_c_t10_usa_pl_woods_glass | head_c_t10_usa_pl_woods_glass | vm_c_t10_usa_pl_woods_glass
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter | head_c_t10_usa_pl_woods_winter | vm_c_t10_usa_pl_woods_winter
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/6d/Woods_WinterGuise_Skin_BO6.png/revision/latest?cb=20250403215540) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter | head_c_t10_usa_pl_woods_winter | vm_c_t10_usa_pl_woods_winter
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter_bc | head_c_t10_usa_pl_woods_winter_bc | vm_c_t10_usa_pl_woods_winter_bc
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3c/Woods_WinterGuiseBlackCell_Skin_BO6.png/revision/latest?cb=20250403215541) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter_bc | head_c_t10_usa_pl_woods_winter_bc | vm_c_t10_usa_pl_woods_winter_bc
 
 
 
@@ -283,9 +281,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Maya_CrimsonChaos_Skin_BO6.png/revision/latest?cb=20250223160716) <br>Crimson Chaos | body_c_t10_phl_pl_maya_chaos | head_c_t10_phl_pl_maya_chaos | vm_c_t10_phl_pl_maya_chaos | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Rogue Archer | body_c_t10_phl_pl_maya_bo3 | head_c_t10_phl_pl_maya_bo3 | vm_c_t10_phl_pl_maya_bo3 | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/62/Maya_RogueArcher_Skin_BO6.png/revision/latest?cb=20250403213136) <br>Rogue Archer | body_c_t10_phl_pl_maya_bo3 | head_c_t10_phl_pl_maya_bo3 | vm_c_t10_phl_pl_maya_bo3 | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0f/Maya_RogueArcherBlackCell_Skin_BO6.png/revision/latest?cb=20250403213137) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
 
 
 
@@ -321,13 +319,13 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_base | head_c_t10_usa_pl_hudson_base | vm_c_t10_usa_pl_hudson_base |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f3/Hudson_Default_Skin_BO6.png/revision/latest?cb=20250403212820) <br>Hudson | body_c_t10_usa_pl_hudson_camo | head_c_t10_usa_pl_hudson_camo | vm_c_t10_usa_pl_hudson_camo |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_base_bc | head_c_t10_usa_pl_hudson_base_bc | vm_c_t10_usa_pl_hudson_base_bc |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/19/Hudson_BlackCell_Skin_BO6.png/revision/latest?cb=20250403212821) <br>Hudson BlackCell | body_c_t10_usa_pl_hudson_camo_bc | head_c_t10_usa_pl_hudson_camo_bc | vm_c_t10_usa_pl_hudson_camo_bc |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_camo | head_c_t10_usa_pl_hudson_camo | vm_c_t10_usa_pl_hudson_camo |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7f/Hudson_Icebreaker_Skin_BO6.png/revision/latest?cb=20250403212822) <br>Icebreaker | body_c_t10_usa_pl_hudson_base | head_c_t10_usa_pl_hudson_base | vm_c_t10_usa_pl_hudson_base |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>New Orders | body_c_t10_usa_pl_hudson_camo_bc | head_c_t10_usa_pl_hudson_camo_bc | vm_c_t10_usa_pl_hudson_camo_bc |
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/41/Hudson_IcebreakerBlackCell_Skin_BO6.png/revision/latest?cb=20250403212822) <br>Icebreaker BlackCell | body_c_t10_usa_pl_hudson_base_bc | head_c_t10_usa_pl_hudson_base_bc | vm_c_t10_usa_pl_hudson_base_bc |
 
 
 # John Black Ops
