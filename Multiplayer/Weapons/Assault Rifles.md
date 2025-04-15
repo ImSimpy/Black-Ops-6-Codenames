@@ -252,6 +252,32 @@
 
 
 
+# Kilo 141
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Default | ar_kent | 
+| | | | |
+<br> Phantom Fenrir | ar_kent_swolf | 
+| | | | | 
+
+
+
+# CR-56 AMAX
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Default | ar_gilroy | 
+| | | | |
+<br> Game Over | ar_gilroy_gamer  | 
+| | | | | 
+<br> Verdurous Menace BlackCell | ar_gilroy_s3blk | 
+| | | | | 
+<br> Verdurous Menace | ar_gilroy_jailer | 
+| | | | | 
+
 # 
 
 | Icon | Name |
@@ -263,10 +289,6 @@
 | | | | | 
 <br> |  | 
 | | | | | 
-
-
-
-
 
 
 
