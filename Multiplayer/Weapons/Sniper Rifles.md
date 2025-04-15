@@ -95,8 +95,19 @@
 
 
 
+# HDR
 
-
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/ce1320bc-11b6-456f-9298-0590c1af6e59) <br> Default | sn_hugo | 
+| | | | |
+<br> Glint | sn_hugo_disco | 
+| | | | | 
+<br> Glint BlackCell | sn_hugo_s3blk | 
+| | | | | 
+<br> Red Card | sn_hugo_mascot | 
+| | | | | 
 
 
 
