@@ -33,7 +33,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
 | | | | | 
-| <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
 
 
 # Hasib Nazir
@@ -57,7 +57,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Nazir_SlickStyle_Skin_BO6.png/revision/latest?cb=20241119185611) <br>Slick Style | body_c_t10_pak_pl_nazir_shrapnel | head_c_t10_pak_pl_nazir_shrapnel | vm_c_t10_pak_pl_nazir_shrapnel
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel <br>_blackcell | head_c_t10_pak_pl_nazir_shrapnel <br>_blackcell | vm_c_t10_pak_pl_nazir_shrapnel <br>_blackcell
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel_blackcell | head_c_t10_pak_pl_nazir_shrapnel_blackcell | vm_c_t10_pak_pl_nazir_shrapnel_blackcell
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Solitude | body_c_t10_pak_pl_nazir_quiet | head_c_t10_pak_pl_nazir_quiet | vm_c_t10_pak_pl_nazir_quiet
 
 
 
@@ -141,7 +143,11 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9a/Alvarez_Flight_Path_Skin_BO6.png/revision/latest?cb=20241119185559) <br>Flight Path| body_c_t10_pri_pl_yara_flight | head_c_t10_pri_pl_yara_flight | vm_c_t10_pri_pl_yara_flight
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Arcana Conqueror | body_c_t10_pri_pl_yara_magic | head_c_t10_pri_pl_yara_magic| vm_c_t10_pri_pl_yara_magic| 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Solar Diviner | body_c_t10_pri_pl_yara_magic_alt | head_c_t10_pri_pl_yara_magic_alt| vm_c_t10_pri_pl_yara_magic_alt | 
 
 
 
@@ -166,9 +172,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
 | | | | | 
-|  <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
 | | | | | 
-|  <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
 
 # Troy Marshall
 
@@ -288,6 +294,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/62/Maya_RogueArcher_Skin_BO6.png/revision/latest?cb=20250403213136) <br>Rogue Archer | body_c_t10_phl_pl_maya_bo3 | head_c_t10_phl_pl_maya_bo3 | vm_c_t10_phl_pl_maya_bo3 | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0f/Maya_RogueArcherBlackCell_Skin_BO6.png/revision/latest?cb=20250403213137) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
+| | | | | 
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
 
 
 
