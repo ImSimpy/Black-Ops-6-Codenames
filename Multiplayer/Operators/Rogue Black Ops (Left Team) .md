@@ -17,7 +17,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d0/Adler_Umbra_Skin_BO6.png/revision/latest?cb=20241119185549) <br>Umbra | body_c_t10_usa_pl_adler_viper | head_c_t10_usa_pl_adler_viper | vm_c_t10_usa_pl_adler_viper |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br>Vibrant Serpent | body_c_t10_usa_pl_adler_rattle | head_c_t10_usa_pl_adler_rattle | vm_c_t10_usa_pl_adler_rattle |
-
+| | | | | 
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
 
 
 # Helen Park
@@ -265,7 +266,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/85/Weaver_Pullover_Skin_BO6.png/revision/latest?cb=20241211224452) <br>Pullover | body_c_t10_rus_pl_weaver_sweater | head_c_t10_rus_pl_weaver_sweater | vm_c_t10_rus_pl_weaver_sweater |  
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Weaver_Repairman_Skin_BO6.png/revision/latest?cb=20241119185621) <br>Repairman | body_c_t10_rus_pl_weaver_repairman  | head_c_t10_rus_pl_weaver_repairman | vm_c_t10_rus_pl_weaver_repairman | 
-
+| | | | | 
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Reinforcer | body_c_t10_rus_pl_weaver_enforcer | head_c_t10_rus_pl_weaver_enforcer | vm_c_t10_rus_pl_weaver_enforcer | 
 
 
  #  Maya Aguinaldo
