@@ -1,6 +1,7 @@
 # High Art
 
- ![image](https://github.com/user-attachments/assets/14a530b0-7cec-4601-8de5-240d49f6a6e7)
+![image](https://github.com/user-attachments/assets/04cd9d85-8627-40ff-ba99-422e52943581)
+
 
 
 > [!IMPORTANT]
