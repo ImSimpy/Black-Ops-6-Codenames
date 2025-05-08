@@ -117,6 +117,11 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Toro_JugONot_Skin_BO6.png/revision/latest?cb=20250403215450) <br>Jug-O-Naught | body_c_t10_arg_pl_alejo_juggernaut  | head_c_t10_arg_pl_alejo_juggernaut | vm_c_t10_arg_pl_alejo_juggernaut | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Toro_JugONotBlackCell_Skin_BO6.png/revision/latest?cb=20250403215451) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
+| | | | | 
+|![image](https://github.com/user-attachments/assets/7126adb5-beac-46ee-8a6f-3d6cf6f3888c)<br>Goloso | body_c_t10_arg_pl_alejo_pinata  | head_c_t10_arg_pl_alejo_pinata | vm_c_t10_arg_pl_alejo_pinata | 
+
+
+
 
 
  #  Tess Bailey
