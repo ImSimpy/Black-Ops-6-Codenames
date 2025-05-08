@@ -182,6 +182,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1c/Stone_AllTerrain_Skin_BO6.png/revision/latest?cb=20250403215345) <br>All Terrain | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_AllTerrainBlackCell_Skin_BO6.png/revision/latest?cb=20250403215346) <br>All Terrain Blackcell | body_c_t10_gbr_pl_stone_brush_bc | head_c_t10_gbr_pl_stone_brush_bc | vm_c_t10_gbr_pl_stone_brush_bc
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Casual Ops | body_c_t10_gbr_pl_stone_jeans | head_c_t10_gbr_pl_stone_jeans | vm_c_t10_gbr_pl_stone_jeans
 
 
 #  Nocturne
@@ -195,7 +197,7 @@
 | | | | |
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Nocturne_BlackCell_Skin_BO6.png/revision/latest?cb=20250201180632) <br>Nocturne BlackCell | body_c_t10_jap_pl_fang_shadow | head_c_t10_jap_pl_fang_shadow | vm_c_t10_jap_pl_fang_shadow | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e1/Nocturne_Maul_Skin_BO6.png/revision/latest?cb=20250201180634) <br>Maul  | body_c_t10_jap_pl_fang_blade | head_c_t10_jap_pl_fang_blade | vm_c_t10_jap_pl_fang_blade | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Bladesmith | body_c_t10_jpn_pl_fang_ezo | head_c_t10_jpn_pl_fang_ezo | vm_c_t10_jpn_pl_fang_ezo | 
 
 
 
