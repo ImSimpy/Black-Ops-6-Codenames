@@ -32,7 +32,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/09/Park_SurvivorsGuile_Skin_BO6.png/revision/latest?cb=20250403214949) <br> Survivor's Guile | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
-
+| | | | | 
+| <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
 
 
 # Hasib Nazir
@@ -164,7 +165,10 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
-
+| | | | | 
+|  <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
+| | | | | 
+|  <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
 
 # Troy Marshall
 
