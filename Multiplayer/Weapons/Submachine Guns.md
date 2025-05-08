@@ -220,7 +220,13 @@
 | | | | | 
 
 
+# Ladra
 
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/69a1cbd5-5ccb-4af7-997f-defb8074db7b)<br> Default | sm_schuck | 
+| | | | | 
 
 
 
