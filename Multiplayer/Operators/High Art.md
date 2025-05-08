@@ -1,6 +1,6 @@
 # High Art
 
-
+ ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)
 
 > [!IMPORTANT]
 > 
@@ -14,7 +14,7 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br>Fired Up | body_ | head_ | vm_ |
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Fired Up | body_c_t10_usa_pl_cucumber_pickle | head_c_t10_usa_pl_cucumber_pickle | vm_c_t10_usa_pl_cucumber_pickle |
 | | | | | 
-| <br>Host Rogen | body_ | head_ | vm_ |
+|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Host Rogen | body_c_t10_usa_pl_cucumber_base_mld | head_c_t10_usa_pl_cucumber_base | vm_c_t10_usa_pl_cucumber_base |
 | | | | | 
