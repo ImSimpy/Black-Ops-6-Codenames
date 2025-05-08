@@ -1,6 +1,7 @@
 # High Art
 
- ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)
+ ![image](https://github.com/user-attachments/assets/14a530b0-7cec-4601-8de5-240d49f6a6e7)
+
 
 > [!IMPORTANT]
 > 
