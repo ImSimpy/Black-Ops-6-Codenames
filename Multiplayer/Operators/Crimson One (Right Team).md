@@ -64,7 +64,7 @@
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Combat Flannel | body_c_t10_usa_pl_caine_energy  | head_c_t10_usa_pl_caine_energy | vm_c_t10_usa_pl_caine_caine_energy | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> TBA | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam| 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Veiled | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam| 
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Daggered | body_c_t10_usa_pl_caine_mam_alt  | head_c_t10_usa_pl_caine_mam_alt | vm_c_t10_usa_pl_caine_mam_alt| 
 
