@@ -7,8 +7,8 @@
 > they will be in a folder once exported
 >
 
-> [!TIP]
-> Credit - Kalinine 
+> [!NOTE]
+> Credit - `Kalinine`
 > 
 > For finding the camo names 
 
