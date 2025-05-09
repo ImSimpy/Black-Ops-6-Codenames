@@ -117,15 +117,22 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/fc45ffb6-0ca9-4c12-8ebd-28a47cfaf65b)<br> Firing Range | mp_t10_rm_firingrange2 | 
 | | | | | 
- <br> Haven | | 
-| | | | | 
- <br> Blazetown | | 
-| | | | | 
 ![image](https://github.com/user-attachments/assets/4910b3f4-2586-435c-96e7-e0ca2187a2aa)<br> Nomad | mp_t10_sm_nomad | 
 | | | | | 
- <br> Signal | | 
+
+
+
+
+# Season Three Reloaded 
+
+
+| Icon | Name | 
+| :--: | :--: | 
 | | | | | 
-
-
-
+![image](https://github.com/user-attachments/assets/7b5687f0-f0b2-4c13-b8aa-3e5b0e44f0bb)<br> Blazetown | mp_t10_nuketown_420 | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/c6c9bca3-fb52-4b30-b24d-1f03f25fc513) <br> Signal | mp_t10_sm_numbers_station | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/3492247c-3d07-4a73-a139-0655e039aa9c) <br> Haven | mp_t10_spa_town | 
+| | | | | 
 
