@@ -18,7 +18,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br>Vibrant Serpent | body_c_t10_usa_pl_adler_rattle | head_c_t10_usa_pl_adler_rattle | vm_c_t10_usa_pl_adler_rattle |
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
+|  ![image](https://github.com/user-attachments/assets/e4314fbe-4c28-4e88-9287-31a16805c3db) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
 
 
 # Helen Park
