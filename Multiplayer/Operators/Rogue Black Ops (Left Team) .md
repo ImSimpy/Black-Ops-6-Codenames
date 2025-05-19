@@ -18,7 +18,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br>Vibrant Serpent | body_c_t10_usa_pl_adler_rattle | head_c_t10_usa_pl_adler_rattle | vm_c_t10_usa_pl_adler_rattle |
 | | | | | 
-|  ![image](https://github.com/user-attachments/assets/e4314fbe-4c28-4e88-9287-31a16805c3db) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
+|  ![image](https://github.com/user-attachments/assets/484291bc-df83-46da-b813-34f8c95e0221) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
 
 
 # Helen Park
@@ -175,7 +175,7 @@
 | | | | | 
 |  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
+|  ![image](https://github.com/user-attachments/assets/ba998ef4-dec5-487c-baa4-31c59230bcb0) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
 
 # Troy Marshall
 
@@ -297,7 +297,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0f/Maya_RogueArcherBlackCell_Skin_BO6.png/revision/latest?cb=20250403213137) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
+|  ![image](https://github.com/user-attachments/assets/c411a611-7c12-4c7c-b269-1570e67c1650) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
 
 
 
@@ -319,9 +319,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/TheReplacer_TheReplacerBlackCell_Skin_BO6.png/revision/latest?cb=20241123001547) <br>The Replacer Blackcell | body_c_t10_usa_pl_freelance_tie_bc | head_c_t10_usa_pl_freelance_tie_bc | vm_c_t10_usa_pl_freelance_tie_bc |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Road Rizzer | body_c_t10_usa_pl_freelance_racer | head_c_t10_usa_pl_freelance_racer | vm_c_t10_usa_pl_freelance_racer |
+| ![image](https://github.com/user-attachments/assets/b15799b3-2097-40b7-8e73-2e38cdcf80ff) <br> Road Rizzer | body_c_t10_usa_pl_freelance_racer | head_c_t10_usa_pl_freelance_racer | vm_c_t10_usa_pl_freelance_racer |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Racer | body_c_t10_usa_pl_freelance_racer_alt | head_c_t10_usa_pl_freelance_racer_alt | vm_c_t10_usa_pl_freelance_racer_alt |
+| ![image](https://github.com/user-attachments/assets/578aa970-7a29-4f54-8552-2fe10fb74b39) <br> Racer | body_c_t10_usa_pl_freelance_racer_alt | head_c_t10_usa_pl_freelance_racer_alt | vm_c_t10_usa_pl_freelance_racer_alt |
 
 
 
