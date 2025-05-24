@@ -80,7 +80,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/97a6f12c-bebb-4e32-bad2-06ede6560698)<br> Default | lm_uxray | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/bcae267b-5208-49a1-ac53-63885c17bd73)<br> Get Lucky | lm_uxray_saintpat |
+![image](https://github.com/user-attachments/assets/4a4039d0-c5e7-4956-8a93-9253eede3481)<br> Get Lucky | lm_uxray_saintpat |
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3f20bc70-cb54-4a0c-ad52-e8d9b6a6b4d6)<br> Shred | lm_uxray_dmetal |
 | | | | | 
