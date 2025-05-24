@@ -92,7 +92,7 @@
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/bbad9fa1-91a2-45a3-9f8c-14a74235a7c3) <br> Optic Texas | cer_camo_special_cdlopt |  
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/73fa827c-a7cd-4792-b978-a915fb7bf800) <br> Toronto Ultra | cer_camo_special_cdlult |  
+| ![image](https://github.com/user-attachments/assets/3b46b6c2-45b5-4b54-9ce2-7c068e268c53) <br> Toronto Ultra | cer_camo_special_cdlult |  
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/2a0668fc-c895-4063-985f-cc4525254864) <br> Vancouver Surge | cer_camo_special_cdlsur |  
 | | | | | 
