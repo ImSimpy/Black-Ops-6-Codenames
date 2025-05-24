@@ -62,11 +62,11 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7d/Caine_Falconer_Skin_BO6.png/revision/latest?cb=20250214010543) <br>Falconer | body_c_t10_usa_pl_caine_cleaver  | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Combat Flannel | body_c_t10_usa_pl_caine_energy  | head_c_t10_usa_pl_caine_energy | vm_c_t10_usa_pl_caine_caine_energy | 
+| ![image](https://github.com/user-attachments/assets/83b7a2dc-f75a-40f3-9a40-344008da74fe) <br> Combat Flannel | body_c_t10_usa_pl_caine_energy  | head_c_t10_usa_pl_caine_energy | vm_c_t10_usa_pl_caine_caine_energy | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Veiled | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam| 
+| ![image](https://github.com/user-attachments/assets/03c54540-af27-4c91-a137-bc9211456ff2) <br> Veiled | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam| 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Daggered | body_c_t10_usa_pl_caine_mam_alt  | head_c_t10_usa_pl_caine_mam_alt | vm_c_t10_usa_pl_caine_mam_alt| 
+| ![image](https://github.com/user-attachments/assets/f6455bea-2552-4071-907f-f2446ce41ab8) <br>Daggered | body_c_t10_usa_pl_caine_mam_alt  | head_c_t10_usa_pl_caine_mam_alt | vm_c_t10_usa_pl_caine_mam_alt| 
 
 # Arak Niran 
 
@@ -186,7 +186,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_AllTerrainBlackCell_Skin_BO6.png/revision/latest?cb=20250403215346) <br>All Terrain Blackcell | body_c_t10_gbr_pl_stone_brush_bc | head_c_t10_gbr_pl_stone_brush_bc | vm_c_t10_gbr_pl_stone_brush_bc
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Casual Ops | body_c_t10_gbr_pl_stone_jeans | head_c_t10_gbr_pl_stone_jeans | vm_c_t10_gbr_pl_stone_jeans
+| ![image](https://github.com/user-attachments/assets/44b9e2c1-d754-437b-8372-946b778f1d53) <br>Casual Ops | body_c_t10_gbr_pl_stone_jeans | head_c_t10_gbr_pl_stone_jeans | vm_c_t10_gbr_pl_stone_jeans
 
 
 #  Nocturne
@@ -196,11 +196,13 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/be/Nocturne_Default_Skin_BO6.png/revision/latest?cb=20250201180633) <br>Nocturne | body_c_t10_jap_pl_fang_dark | head_c_t10_jap_pl_fang_dark | vm_c_t10_jap_pl_fang_dark | 
 | | | | | 
+| ![image](https://github.com/user-attachments/assets/32c62f85-1c4e-4360-9a7f-a160c63efd3b) <br> | body_c_t10_jpn_pl_fang_blade | head_c_t10_jpn_pl_fang_blade | vm_c_t10_jpn_pl_fang_blade | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f3/Nocturne_Obsidian_Skin_BO6.png/revision/latest?cb=20250201180636) <br>Obsidian  | body_c_t10_jap_pl_fang_shinobi | head_c_t10_jap_pl_fang_shinobi | vm_c_t10_jap_pl_fang_shinobi | 
 | | | | |
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Nocturne_BlackCell_Skin_BO6.png/revision/latest?cb=20250201180632) <br>Nocturne BlackCell | body_c_t10_jap_pl_fang_shadow | head_c_t10_jap_pl_fang_shadow | vm_c_t10_jap_pl_fang_shadow | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Bladesmith | body_c_t10_jpn_pl_fang_ezo | head_c_t10_jpn_pl_fang_ezo | vm_c_t10_jpn_pl_fang_ezo | 
+| ![image](https://github.com/user-attachments/assets/193fd434-784c-4967-9546-410672a202f0)<br> Bladesmith | body_c_t10_jpn_pl_fang_ezo | head_c_t10_jpn_pl_fang_ezo | vm_c_t10_jpn_pl_fang_ezo | 
 
 
 
@@ -302,6 +304,15 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5f/Mace_ApocalypseKing_Skin_BO6.png/revision/latest?cb=20250403212937) <br>Mace | body_c_t10_usa_pl_mace_devil | head_c_t10_usa_pl_mace_devil | vm_c_t10_usa_pl_mace_devil |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/da/Mace_ApocalypseKingBlackCell_Skin_BO6.png/revision/latest?cb=20250403212938) <br>Mace | body_c_t10_usa_pl_mace_devil_bc | head_c_t10_usa_pl_mace_devil_bc | vm_c_t10_usa_pl_mace_devil_bc |
+
+
+
+# John Black Ops
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/bd6935b7-ec74-4d50-af95-bd77327264d9) <br> John Black Ops | body_c_t10_usa_pl_john_base | head_c_t10_usa_pl_john_base | vm_c_t10_usa_pl_john_base |
 
 
 
