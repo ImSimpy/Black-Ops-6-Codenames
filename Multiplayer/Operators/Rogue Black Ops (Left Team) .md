@@ -25,17 +25,17 @@
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
-| | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
+| | | | |  
+| ![image](https://github.com/user-attachments/assets/8a7f986d-92bd-4d24-89c1-fecc853eaf33) <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/03/Park_FortunePossessed_Skin_BO6.png/revision/latest?cb=20250312212603) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/09/Park_SurvivorsGuile_Skin_BO6.png/revision/latest?cb=20250403214949) <br> Survivor's Guile | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
-
 
 # Hasib Nazir
 
