@@ -59,11 +59,27 @@
 
 
 
+
+
+# CDL  
+| Icon | Name | 
+| :--: | :--: |
+| | | | | 
+
+
+
+
+
+
+
+
+
 # Event
 | Icon | Name | 
 | :--: | :--: |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Highly Decorated | cer_camo_special_ev420 |  
+| ![image](https://github.com/user-attachments/assets/bd4226e6-8888-471b-9ceb-7eab82fb3556) <br>Highly Decorated | cer_camo_special_ev420 |  
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Highly Decorated BlackCell | cer_camo_special_ev420blk |  
+| ![image](https://github.com/user-attachments/assets/6a161b50-c977-4920-b3c0-b13ba2e9a5aa) <br>Highly Decorated BlackCell | cer_camo_special_ev420blk |  
 | | | | | 
+
