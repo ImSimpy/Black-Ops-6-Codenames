@@ -102,11 +102,11 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ce1320bc-11b6-456f-9298-0590c1af6e59) <br> Default | sn_hugo | 
 | | | | |
-<br> Glint | sn_hugo_disco | 
+![image](https://github.com/user-attachments/assets/6c4e3a8c-d0ae-48da-b47f-82739bd67c26)<br> Glint | sn_hugo_disco | 
 | | | | | 
-<br> Glint BlackCell | sn_hugo_s3blk | 
+![image](https://github.com/user-attachments/assets/d9dcdfe3-1299-47c8-8b17-b68ec3d558e3)<br> Glint BlackCell | sn_hugo_s3blk | 
 | | | | | 
-<br> Red Card | sn_hugo_mascot | 
+![image](https://github.com/user-attachments/assets/de44c68d-96d7-445d-9979-34c77d9a3a21)<br> Red Card | sn_hugo_mascot | 
 | | | | | 
 
 
