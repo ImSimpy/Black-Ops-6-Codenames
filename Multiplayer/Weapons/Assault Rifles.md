@@ -92,9 +92,9 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/2ef788b8-5a94-44b2-b62e-d20e4d9e58f2)<br> Classified Arsenal | ar_able18_prestige | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/65c5ade3-4133-4010-ae4c-90195a9e8bd1)<br> Cloverleaf | ar_able18_patricks | 
+![image](https://github.com/user-attachments/assets/88d937b9-081f-443f-8ead-59c5f36a14dd)<br> Cloverleaf | ar_able18_patricks | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/65c5ade3-4133-4010-ae4c-90195a9e8bd1)<br> Cloverleaf Blackcell | ar_able18_s2blk | 
+![image](https://github.com/user-attachments/assets/62b2f3b5-b758-4b44-8987-6393f363c1c4)<br> Cloverleaf Blackcell | ar_able18_s2blk | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/b621341c-225b-42c5-b997-e341d9a3d9fa)<br> Countdown | ar_able18_firework | 
 | | | | | 
