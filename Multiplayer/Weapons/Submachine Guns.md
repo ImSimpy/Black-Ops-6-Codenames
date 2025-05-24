@@ -227,7 +227,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/69a1cbd5-5ccb-4af7-997f-defb8074db7b)<br> Default | sm_schuck | 
 | | | | | 
- ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Desecration | sm_schuck_hnoevil | 
+![image](https://github.com/user-attachments/assets/58b01fc7-2ed2-4549-9af1-e1c2cc87c334)<br> Desecration | sm_schuck_hnoevil | 
 | | | | | 
 
 
