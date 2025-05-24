@@ -59,18 +59,45 @@
 
 
 
-
+# Ranked 
+| Icon | Name | 
+| :--: | :--: |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/4b678d90-583d-4d46-95bc-dc0abdf19123) <br> SR Collector | cer_camo_ranked_mp_s1_01 |
+| | | | | 
+|  <br> |  |
+| | | | | 
 
 # CDL  
 | Icon | Name | 
 | :--: | :--: |
 | | | | | 
-
-
-
-
-
-
+| ![image](https://github.com/user-attachments/assets/444e5cc3-7cf2-43ca-a3f2-1c8749e383c8) <br> Splashed | cer_camo_special_cdllau |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/8a22d438-157c-42cd-9d0b-48f02abec116) <br> Atlanta FaZe | cer_camo_special_cdlfaz |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/251bb27f-e7f5-4f80-8890-2d8757fb924b) <br> Boston Breach | cer_camo_special_cdlbre |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/2559ea69-4526-4f32-b945-c456c957272c) <br> Carolina Royal Ravens | cer_camo_special_cdlrav |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/6869dbfd-90a8-40ff-bd01-15c9cbda03cf) <br> Cloud9 New York | cer_camo_special_cdlclo |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/d1f472d2-a93b-4ae1-8b5b-86102c559d0b) <br> Los Angeles Guerrillas M8 | cer_camo_special_cdlgur |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/b144970b-0534-4dbd-9692-727b5d78d933) <br> Los Angeles Thieves | cer_camo_special_cdlthi |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/29ebb2a9-4683-4da6-a5b1-3606af6ae56c) <br> Miami Heretics | cer_camo_special_cdlher |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/34a1f4ad-0d8f-4ea5-9274-908f5567501b) <br>Minnesota Rokkr | cer_camo_special_cdlrok |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/bbad9fa1-91a2-45a3-9f8c-14a74235a7c3) <br> Optic Texas | cer_camo_special_cdlopt |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/73fa827c-a7cd-4792-b978-a915fb7bf800) <br> Toronto Ultra | cer_camo_special_cdlult |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/2a0668fc-c895-4063-985f-cc4525254864) <br> Vancouver Surge | cer_camo_special_cdlsur |  
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/948961e1-a3f0-47da-920a-4e4b5f15340d) <br> Vegas Falcons | cer_camo_special_cdlfal |  
+| | | | | 
 
 
 
