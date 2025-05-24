@@ -39,9 +39,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Default | sl_napa | 
+![image](https://github.com/user-attachments/assets/b3fe3bb7-07ed-48d8-8fe4-5ca968be5788)<br> Default | sl_napa | 
 | | | | | 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png)<br> Retcon | sl_napa_comics | 
+![image](https://github.com/user-attachments/assets/12ff3957-0566-47fd-9dca-7a91d9537019)<br> Retcon | sl_napa_comics | 
 
 
 
