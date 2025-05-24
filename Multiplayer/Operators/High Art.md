@@ -1,6 +1,6 @@
 # High Art
 
-![image](https://github.com/user-attachments/assets/04cd9d85-8627-40ff-ba99-422e52943581)
+![image](https://github.com/user-attachments/assets/d0a966de-b7bf-4796-b8fc-47a464cb6764)
 
 
 
@@ -16,7 +16,7 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Fired Up | body_c_t10_usa_pl_cucumber_pickle | head_c_t10_usa_pl_cucumber_pickle | vm_c_t10_usa_pl_cucumber_pickle |
+![image](https://github.com/user-attachments/assets/6318246f-e0d2-4d37-92b2-6b7f3b15e5f1)<br>Fired Up | body_c_t10_usa_pl_cucumber_pickle | head_c_t10_usa_pl_cucumber_pickle | vm_c_t10_usa_pl_cucumber_pickle |
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Host Rogen | body_c_t10_usa_pl_cucumber_base_mld | head_c_t10_usa_pl_cucumber_base | vm_c_t10_usa_pl_cucumber_base |
+![image](https://github.com/user-attachments/assets/c440e086-000a-4681-bce4-746598847928)<br>Host Rogen | body_c_t10_usa_pl_cucumber_base_mld | head_c_t10_usa_pl_cucumber_base | vm_c_t10_usa_pl_cucumber_base |
 | | | | | 
