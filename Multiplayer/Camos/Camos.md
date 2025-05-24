@@ -96,7 +96,7 @@
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/2a0668fc-c895-4063-985f-cc4525254864) <br> Vancouver Surge | cer_camo_special_cdlsur |  
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/948961e1-a3f0-47da-920a-4e4b5f15340d) <br> Vegas Falcons | cer_camo_special_cdlfal |  
+| ![image](https://github.com/user-attachments/assets/a3651cc1-af6d-493c-86e9-36f81ca861fa) <br> Vegas Falcons | cer_camo_special_cdlfal |  
 | | | | | 
 
 
