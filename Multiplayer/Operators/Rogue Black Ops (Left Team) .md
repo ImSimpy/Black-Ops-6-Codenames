@@ -173,7 +173,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
+| ![image](https://github.com/user-attachments/assets/1418286c-ee0b-490b-8a36-8659f2289357) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
 | | | | | 
 |  ![image](https://github.com/user-attachments/assets/ba998ef4-dec5-487c-baa4-31c59230bcb0) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
 
@@ -267,7 +267,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Weaver_Repairman_Skin_BO6.png/revision/latest?cb=20241119185621) <br>Repairman | body_c_t10_rus_pl_weaver_repairman  | head_c_t10_rus_pl_weaver_repairman | vm_c_t10_rus_pl_weaver_repairman | 
 | | | | | 
-|  ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Reinforcer | body_c_t10_rus_pl_weaver_enforcer | head_c_t10_rus_pl_weaver_enforcer | vm_c_t10_rus_pl_weaver_enforcer | 
+| ![image](https://github.com/user-attachments/assets/786b2b2c-48c8-4972-8b2f-d19db30389b1) <br>Reinforcer | body_c_t10_rus_pl_weaver_enforcer | head_c_t10_rus_pl_weaver_enforcer | vm_c_t10_rus_pl_weaver_enforcer | 
 
 
  #  Maya Aguinaldo
@@ -297,7 +297,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0f/Maya_RogueArcherBlackCell_Skin_BO6.png/revision/latest?cb=20250403213137) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
 | | | | | 
-|  ![image](https://github.com/user-attachments/assets/c411a611-7c12-4c7c-b269-1570e67c1650) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
+|  ![image](https://github.com/user-attachments/assets/cd76a307-18b2-4324-add5-8a4fbe9e69d1) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
 
 
 
@@ -319,9 +319,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/TheReplacer_TheReplacerBlackCell_Skin_BO6.png/revision/latest?cb=20241123001547) <br>The Replacer Blackcell | body_c_t10_usa_pl_freelance_tie_bc | head_c_t10_usa_pl_freelance_tie_bc | vm_c_t10_usa_pl_freelance_tie_bc |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/b15799b3-2097-40b7-8e73-2e38cdcf80ff) <br> Road Rizzer | body_c_t10_usa_pl_freelance_racer | head_c_t10_usa_pl_freelance_racer | vm_c_t10_usa_pl_freelance_racer |
+![image](https://github.com/user-attachments/assets/053a83c1-ad85-41d9-b6f6-3704bd974c73)<br> Road Rizzer | body_c_t10_usa_pl_freelance_racer | head_c_t10_usa_pl_freelance_racer | vm_c_t10_usa_pl_freelance_racer |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/578aa970-7a29-4f54-8552-2fe10fb74b39) <br> Racer | body_c_t10_usa_pl_freelance_racer_alt | head_c_t10_usa_pl_freelance_racer_alt | vm_c_t10_usa_pl_freelance_racer_alt |
+| ![image](https://github.com/user-attachments/assets/578aa970-7a29-4f54-8552-2fe10fb74b39) <br> Replacer Racer | body_c_t10_usa_pl_freelance_racer_alt | head_c_t10_usa_pl_freelance_racer_alt | vm_c_t10_usa_pl_freelance_racer_alt |
 
 
 
@@ -346,11 +346,6 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/41/Hudson_IcebreakerBlackCell_Skin_BO6.png/revision/latest?cb=20250403212822) <br>Icebreaker BlackCell | body_c_t10_usa_pl_hudson_base_bc | head_c_t10_usa_pl_hudson_base_bc | vm_c_t10_usa_pl_hudson_base_bc |
 
 
-# John Black Ops
 
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>John Black Ops | body_c_t10_usa_pl_john_base | head_c_t10_usa_pl_john_base | vm_c_t10_usa_pl_john_base |
 
 
