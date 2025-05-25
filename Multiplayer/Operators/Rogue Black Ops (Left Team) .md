@@ -148,9 +148,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Arcana Conqueror | body_c_t10_pri_pl_yara_magic | head_c_t10_pri_pl_yara_magic| vm_c_t10_pri_pl_yara_magic| 
+| ![image](https://github.com/user-attachments/assets/c5babd52-d9a9-4174-ad7c-b59567e1bbcb) <br>Arcana Conqueror | body_c_t10_pri_pl_yara_magic | head_c_t10_pri_pl_yara_magic| vm_c_t10_pri_pl_yara_magic| 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Solar Diviner | body_c_t10_pri_pl_yara_magic_alt | head_c_t10_pri_pl_yara_magic_alt| vm_c_t10_pri_pl_yara_magic_alt | 
+| ![image](https://github.com/user-attachments/assets/b8771808-ca2c-4647-8f0e-4cf00813f374) <br>Solar Diviner | body_c_t10_pri_pl_yara_magic_alt | head_c_t10_pri_pl_yara_magic_alt| vm_c_t10_pri_pl_yara_magic_alt | 
 
 
 
