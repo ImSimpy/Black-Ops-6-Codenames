@@ -49,7 +49,11 @@
 ![image](https://github.com/user-attachments/assets/ee7946bf-0735-4548-9514-3bf325abcfc6)<br> Ritual's Path | dm_svalor_  | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/2cd7ecc9-8a07-4ea9-9a52-35b47304b099)<br> Subscribe | dm_svalor_  |  
-
+| | | | | 
+![image](https://github.com/user-attachments/assets/c8325efd-823f-43ab-8652-0b3cb9955fab)<br> Built Tough | dm_svalor_bo3 | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/0b5451a0-caa3-492d-b3e7-66e27005ac36)<br> Weed Feed | dm_svalor_hponics | 
+| | | | | 
 
 
 
@@ -71,7 +75,8 @@
 ![image](https://github.com/user-attachments/assets/51ebc9e6-958c-41e3-bf83-8e518a77a8fe)<br> Peel Out | dm_aeasy_anime | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/65b77767-479b-43e2-9a34-e50c3e340037)<br> Reconciliation | dm_aeasy_eagle | 
-
+| | | | | 
+![image](https://github.com/user-attachments/assets/20160c6e-1752-41f5-ba96-5b39ff775b4c)<br> Prey Display | dm_aeasy_highfan | 
 
 # DM-10
 
@@ -86,6 +91,8 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d00a42d9-bcac-4571-95fe-6583cd6c0d42)<br> Final Say | dm_sroger25_bounty | 
 | | | | | 
+![image](https://github.com/user-attachments/assets/738bd5d0-a9aa-4dfb-b74e-09a991b0cd33)<br> Furbished | dm_sroger25_gbronze | 
+| | | | | 
 ![image](https://github.com/user-attachments/assets/0d65a3d9-3794-474f-81ec-315e451446dd)<br> Halberd | dm_sroger25_templar | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0fe60492-12e8-4be6-bc90-5eb1f1820055)<br> On Call | dm_sroger25_assam   | 
@@ -97,7 +104,9 @@
 ![image](https://github.com/user-attachments/assets/37929e94-f037-4b1e-933f-0e91e0053e51)<br> Stocking Suffer | dm_sroger25_bagnog | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/84d1f7ea-c9d8-4996-bb82-34234dfd6df1)<br> The Curator | dm_sroger25_stingray03  | 
-
+| | | | | 
+![image](https://github.com/user-attachments/assets/763c4ace-4973-4154-89ba-6687c7e60a49)<br> Threatening Howl | dm_sroger25_swolf | 
+| | | | | 
 
 # TR2
 
@@ -107,8 +116,11 @@
 ![image](https://github.com/user-attachments/assets/801d3dd9-291b-4b89-a53f-8eb99d506902)<br> Default | dm_falove | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/9387fad6-dec2-4315-ad33-85887ee208ed)<br> Humble Brag | dm_falove_fatale | 
-
-
+| | | | | 
+![image](https://github.com/user-attachments/assets/27a58e6d-deab-40f4-a7ec-9be5f32e2f54)<br> Cut Out | dm_falove_cardboard | 
+| | | | |
+![image](https://github.com/user-attachments/assets/f026c2e0-ac51-4e6e-b47f-5096211e041e)<br> Old Timer | dm_falove_classic | 
+| | | | |
 
 
 
