@@ -21,6 +21,11 @@
 ![image](https://github.com/user-attachments/assets/062f45a7-48b0-4e89-a214-2e4037332f42)<br> Scrub  | pi_mable_hiphop | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f4a563c3-f8ee-4d4c-8930-f25d92bf8802)<br> Thronebuster | pi_mable_yellow | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/ab78ed00-269b-4f5c-81a0-6c634a89451f)<br> Cracked | pi_mable_led | 
+| | | | | 
+
+
 
 
 #  Grekhova
