@@ -73,7 +73,8 @@
 | ![image](https://github.com/user-attachments/assets/da2b8a6c-057d-4d73-8246-dd17404231ec)  <br> Scour Drill| me_drill_magmablk |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/ca6e2628-b3a3-4d3c-9c5b-94d073c5cf51)  <br>  Umbral Bit | me_drill_scorn | 
-
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/2e177c34-3a0f-4859-8fcd-d0e473c67d8d) <br> Sting Drill | me_drill_bbots |
 
 # Cleaver
 
@@ -87,6 +88,13 @@
 | ![image](https://github.com/user-attachments/assets/d11323d0-5f9b-41ab-9379-7c2a5964c352) <br> Mince Meat | me_cleaver_slasher |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/beb93d18-4148-48d4-b642-3136d006dd72) <br> Razorbreak | me_cleaver_cartoon |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/1f35a69c-52ef-4135-917a-d00c03c7dd76) <br> Comic Cutout | me_cleaver_comics |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/9d20fe4b-a34b-45a8-aa7d-fc322515f5e5) <br> Frying Pan | me_cleaver_bacon |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/b20d29cd-a66a-46cc-b4fa-2efa78340851) <br> Stained Steel | me_cleaver_gspike |
+| | | | | 
 
 
 
@@ -97,8 +105,10 @@
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/759adb92-210d-4b7a-8c05-7d43e404ae96) <br> Default | me_katanas |
 | | | | | 
-| <br> Leonardo's Katanas | me_katanas_taro | 
-
+| ![image](https://github.com/user-attachments/assets/9cc483a0-1076-4187-afcc-d2d0df0e49bc) <br> Leonardo's Katanas | me_katanas_taro | 
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/586be3ad-203e-4647-9847-5956fa7ccb35) <br> Embershred | me_katanas_soulsword |
+| | | | | 
 
 
 # Bo Staff 
@@ -111,7 +121,9 @@
 | ![image](https://github.com/user-attachments/assets/00ea7e0e-f837-4d45-9063-08a9c9f283ec) <br> Donatello's Bo Staff | me_bostaff_jasmine |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/b754716f-c598-43e1-8c19-804c3f756c50) <br> Splinter's Cane | me_bostaff_brownsugar |
-
+| | | | |
+| ![image](https://github.com/user-attachments/assets/de00f656-a24f-48ee-a096-121d54540934) <br> Bong Staff | me_bostaff_broccoli |
+| | | | | 
 
 
 # Sai
@@ -132,6 +144,9 @@
 | ![image](https://github.com/user-attachments/assets/27dd9eb7-376d-41a2-acac-b2b8aa69b254) <br> Default | me_nunchaku |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/5505c233-c05d-4d57-bab6-e9ea506bc0c5) <br> Michelangelo's Nunchucks | me_nunchaku_assam |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/43aed60f-2e0f-46f3-969c-ee125ac10aa3) <br> Rebarchuck | me_nunchaku_assam |
+| | | | | 
 
 
 
@@ -148,4 +163,10 @@
 
 
 
+# Kali Sticks
 
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/d91bca23-d679-418f-8dbd-3b43745cb2d0) <br> Default | me_keene  | 
+| | | | | 
