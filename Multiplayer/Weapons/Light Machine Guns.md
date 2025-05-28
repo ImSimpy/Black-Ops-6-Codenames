@@ -13,6 +13,7 @@
 | :--: | :--: | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/562891ea-3c87-410f-934d-96983188b04e)<br> Default | lm_puncle21 | 
+| | | | | 
 ![image](https://github.com/user-attachments/assets/fdb6d3b3-9470-4e25-b102-249f6065fa43)<br> Crafted | lm_puncle21_cardboard | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0d92a10c-d6c8-49ba-824e-47d1ad4ee695)<br> Oxblood | lm_puncle21_lacquer | 
