@@ -26,7 +26,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d2d2c966-f640-424e-853c-1d11e58a1aa6)<br> Myth Horse | lm_puncle21_unicorn | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/7899f5a0-5103-4d01-ae70-5b1228fdd448)<br> Unearther | golem | 
+![image](https://github.com/user-attachments/assets/7899f5a0-5103-4d01-ae70-5b1228fdd448)<br> Unearther | lm_puncle21_golem | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/eb39d71a-9dc2-4ab3-9ba8-7fc723b7b01e)<br> Ill Wind | lm_puncle21_jfrost | 
 
