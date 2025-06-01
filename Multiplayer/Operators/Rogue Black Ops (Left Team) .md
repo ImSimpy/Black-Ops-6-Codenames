@@ -19,6 +19,14 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br>Vibrant Serpent | body_c_t10_usa_pl_adler_rattle | head_c_t10_usa_pl_adler_rattle | vm_c_t10_usa_pl_adler_rattle |
 | | | | | 
 |  ![image](https://github.com/user-attachments/assets/484291bc-df83-46da-b813-34f8c95e0221) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Dadler | body_c_t10_usa_pl_adler_dadler | head_c_t10_usa_pl_adler_dadler | vm_c_t10_usa_pl_adler_dadler |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Truth Chaser | body_c_t10_usa_pl_adler_extract | head_c_t10_usa_pl_adler_extract | vm_c_t10_usa_pl_adler_extract |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Truth Chaser BlackCell | body_c_t10_usa_pl_adler_extract_bc | head_c_t10_usa_pl_adler_extract_bc | vm_c_t10_usa_pl_adler_extract_bc |
+| | | | | 
+
 
 
 # Helen Park
@@ -36,6 +44,8 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
 | | | | | 
+
+
 
 # Hasib Nazir
 
@@ -61,6 +71,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel_blackcell | head_c_t10_pak_pl_nazir_shrapnel_blackcell | vm_c_t10_pak_pl_nazir_shrapnel_blackcell
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Solitude | body_c_t10_pak_pl_nazir_quiet | head_c_t10_pak_pl_nazir_quiet | vm_c_t10_pak_pl_nazir_quiet
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Shrub Wise | body_c_t10_pak_pl_nazir_explosives | head_c_t10_pak_pl_nazir_explosives_ | vm_c_t10_pak_pl_nazir_explosives
 
 
 
@@ -117,6 +129,7 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell| 
 
 
+
 # Yara Alvarez 
 
 | Icon  | Body | Head | Arms 
@@ -151,8 +164,8 @@
 | ![image](https://github.com/user-attachments/assets/c5babd52-d9a9-4174-ad7c-b59567e1bbcb) <br>Arcana Conqueror | body_c_t10_pri_pl_yara_magic | head_c_t10_pri_pl_yara_magic| vm_c_t10_pri_pl_yara_magic| 
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/b8771808-ca2c-4647-8f0e-4cf00813f374) <br>Solar Diviner | body_c_t10_pri_pl_yara_magic_alt | head_c_t10_pri_pl_yara_magic_alt| vm_c_t10_pri_pl_yara_magic_alt | 
-
-
+| | | | | 
+![image](https://github.com/user-attachments/assets/0b106e71-34e8-4324-8c32-dfab4fb55bc7) <br> La Jaguar | body_c_t10_pri_pl_yara_tiger | head_c_t10_pri_pl_yara_tiger | vm_c_t10_pri_pl_yara_tiger | 
 
  #  Callum Payne
  
