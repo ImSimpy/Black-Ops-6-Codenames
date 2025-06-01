@@ -191,6 +191,12 @@
 | ![image](https://github.com/user-attachments/assets/1418286c-ee0b-490b-8a36-8659f2289357) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
 | | | | | 
 |  ![image](https://github.com/user-attachments/assets/ba998ef4-dec5-487c-baa4-31c59230bcb0) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Uniform | body_c_t10_gbr_pl_ratcliff_disguise | head_c_t10_gbr_pl_ratcliff_disguise | vm_c_t10_gbr_pl_ratcliff_disguise |
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Uniform BlackCell | body_c_t10_gbr_pl_ratcliff_disguise_bc | head_c_t10_gbr_pl_ratcliff_disguise_bc | vm_c_t10_gbr_pl_ratcliff_disguise_bc |
+
+
 
 # Troy Marshall
 
@@ -243,6 +249,8 @@
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6c8b8e0a4b680437352e67ec71383030c8a067001d77707ca5717f5eee019cf5e_large.webp) <br>Weedstronaut |  body_c_t10_ava_pl_sev_hydroponic  | head_c_t10_ava_pl_sev_hydroponic | vm_c_t10_ava_pl_sev_hydroponic | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Sev_Paradox_Skin_BO6.png/revision/latest?cb=20250201180638) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Urban Shortfin |  body_c_t10_ava_pl_sev_goblin | head_c_t10_ava_pl_sev_goblin | vm_c_t10_ava_pl_sev_goblin | 
 
 
 
@@ -260,6 +268,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/6d/Woods_WinterGuise_Skin_BO6.png/revision/latest?cb=20250403215540) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter | head_c_t10_usa_pl_woods_winter | vm_c_t10_usa_pl_woods_winter
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3c/Woods_WinterGuiseBlackCell_Skin_BO6.png/revision/latest?cb=20250403215541) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter_bc | head_c_t10_usa_pl_woods_winter_bc | vm_c_t10_usa_pl_woods_winter_bc
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Billie Baller | body_c_t10_usa_pl_woods_goat | head_c_t10_usa_pl_woods_goat | vm_c_t10_usa_pl_woods_goat
 
 
 
@@ -282,7 +292,7 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Weaver_Repairman_Skin_BO6.png/revision/latest?cb=20241119185621) <br>Repairman | body_c_t10_rus_pl_weaver_repairman  | head_c_t10_rus_pl_weaver_repairman | vm_c_t10_rus_pl_weaver_repairman | 
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/786b2b2c-48c8-4972-8b2f-d19db30389b1) <br>Reinforcer | body_c_t10_rus_pl_weaver_enforcer | head_c_t10_rus_pl_weaver_enforcer | vm_c_t10_rus_pl_weaver_enforcer | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Hardboiled | body_c_t10_rus_pl_weaver_ink | head_c_t10_rus_pl_weaver_ink | vm_c_t10_rus_pl_weaver_ink | 
 
 
  #  Maya Aguinaldo
@@ -313,6 +323,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0f/Maya_RogueArcherBlackCell_Skin_BO6.png/revision/latest?cb=20250403213137) <br>Rogue Archer Blackcell | body_c_t10_phl_pl_maya_bo3_bc | head_c_t10_phl_pl_maya_bo3_bc | vm_c_t10_phl_pl_maya_bo3_bc | 
 | | | | | 
 |  ![image](https://github.com/user-attachments/assets/cd76a307-18b2-4324-add5-8a4fbe9e69d1) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
+| | | | | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>  | body_c_t10_phl_pl_maya_rot | head_c_t10_phl_pl_maya_rot | vm_c_t10_phl_pl_maya_rot | 
 
 
 
