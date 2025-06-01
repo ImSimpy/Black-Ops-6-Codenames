@@ -324,7 +324,7 @@
 | | | | | 
 |  ![image](https://github.com/user-attachments/assets/cd76a307-18b2-4324-add5-8a4fbe9e69d1) <br> Mr. Peeks| body_c_t10_phl_pl_maya_peeks | head_c_t10_phl_pl_maya_peeks | vm_c_t10_phl_pl_maya_peeks | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>  | body_c_t10_phl_pl_maya_rot | head_c_t10_phl_pl_maya_rot | vm_c_t10_phl_pl_maya_rot | 
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Dead Thrash | body_c_t10_phl_pl_maya_rot | head_c_t10_phl_pl_maya_rot | vm_c_t10_phl_pl_maya_rot | 
 
 
 
