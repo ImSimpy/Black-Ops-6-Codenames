@@ -59,16 +59,55 @@
 
 
 
-# Ranked 
+# Multiplayer Ranked 
 | Icon | Name | 
 | :--: | :--: |
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/4b678d90-583d-4d46-95bc-dc0abdf19123) <br> SR Collector | cer_camo_ranked_mp_s1_01 |
 | | | | | 
-|  <br> |  |
+| ![image](https://github.com/user-attachments/assets/2cfbc862-f1e6-4928-aa01-95f4b503a0ec) <br> Ranked Season 2 - Gold | cer_camo_ranked_mp_s2_01 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/b81eedc7-284b-4b71-8b33-4bf32325a78e) <br> Ranked Season 2 - Platinum | cer_camo_ranked_mp_s2_02 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/3c32509d-9ee0-4783-80d2-b2745ee2074d) <br> Ranked Season 2 - Diamond | cer_camo_ranked_mp_s2_03 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/6a3a1355-b20b-4229-8baa-65bdfe8105ac) <br> Ranked Season 2 - Crimson | cer_camo_ranked_mp_s2_04 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/06dafb6b-e676-4dee-aec2-79bac9d9ad03) <br> Ranked Season 2 - Iridescent | cer_camo_ranked_mp_s2_05 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/c5ec020f-dea7-4ca2-b45a-74bfa36b6806) <br> Ranked Season 2 - Top 250 | cer_camo_ranked_mp_s2_06 |
 | | | | | 
 
-# CDL  
+
+
+# Warzone Ranked 
+| Icon | Name | 
+| :--: | :--: |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/f8938fd6-39be-4b30-8ae4-efd27ab65895) <br> Dominion | cer_camo_ranked_wz_s1_01  |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/8f8aa25c-65ce-4496-9511-7be183806961) <br> WZ Gold Competitor Camo  | cer_camo_ranked_wz_s2_03 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/c82f3022-ab8e-4053-8caa-67d8909fdbac) <br> WZ Platinum Competitor Camo | cer_camo_ranked_wz_s2_04 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/13962a92-9bba-42b0-8b74-eabd11a7f9dc) <br> WZ Diamond Competitor Camo | cer_camo_ranked_wz_s2_05 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/acfd8c59-0a3b-4be6-bf58-db030556c3f1) <br> WZ Crimson Competitor Camo | cer_camo_ranked_wz_s2_06 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/590e6768-5998-4e64-be4f-c8b5cc75629e) <br> WZ Iridescent Competitor Camo | cer_camo_ranked_wz_s2_07  |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/c7ccfb77-3207-48bd-a661-a6856ce33f44) <br>WZ Top 250 Competitor Camo | cer_camo_ranked_wz_s2_08 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/cb6a3cc5-88b3-41ce-9f14-204f565de1d6) <br> Cloud Nexus | cer_camo_ranked_wz_s2_09 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/5a894c97-01ad-46eb-bbfc-97d435e97516) <br> Ranked Renegade | cer_camo_ranked_wz_s3_01 |
+| | | | | 
+| ![image](https://github.com/user-attachments/assets/b6d80f1f-89f5-4732-b7ab-0f4d35307d47) <br> Bandit Brush | cer_camo_ranked_wz_s4_01 |
+| | | | | 
+
+
+
+# Store  
 | Icon | Name | 
 | :--: | :--: |
 | | | | | 
@@ -101,7 +140,18 @@
 
 
 
-# Event
+# Promotion
+| Icon | Name | 
+| :--: | :--: |
+| | | | | 
+![image](https://github.com/user-attachments/assets/029d896b-344c-4d43-9c74-387543a7a217) <br> Gold Lightning | cer_camo_incentive_01 |  
+| | | | | 
+![image](https://github.com/user-attachments/assets/7b04c312-4a5f-470d-99ef-75d7c9d39b82) <br> Gilded Thorn | cer_camo_incentive_02 |  
+| | | | | 
+
+
+
+# Events 
 | Icon | Name | 
 | :--: | :--: |
 | | | | | 
