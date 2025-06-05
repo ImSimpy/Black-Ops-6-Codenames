@@ -360,8 +360,7 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/aebb7119-ba6b-4be3-b3d0-518a66403c24)<br> Lockdown BlackCell | ar_fresno_s4blk | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/01807b36-59fa-4c68-a68d-23321acca02c)
-<br> Punishing Blows | ar_fresno_jaguar | 
+![image](https://github.com/user-attachments/assets/01807b36-59fa-4c68-a68d-23321acca02c)<br> Punishing Blows | ar_fresno_jaguar | 
 | | | | | 
 
 
