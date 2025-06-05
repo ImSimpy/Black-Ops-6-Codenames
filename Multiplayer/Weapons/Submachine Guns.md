@@ -239,13 +239,13 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/182561f1-8d19-4ee4-acb5-3f696f58d547)<br> Default | sm_lisbon | 
 | | | | | 
-<br> Hull Buster | sm_lisbon_waterb | 
+![image](https://github.com/user-attachments/assets/216df1c9-6d4f-418a-8f12-1af482c31a32)<br> Hull Buster | sm_lisbon_waterb | 
 | | | | | 
-<br> Hull Buster BlackCell | sm_lisbon_s4blk | 
+![image](https://github.com/user-attachments/assets/b9aceb37-1c29-4102-b441-bd8a0298f5c7)<br> Hull Buster BlackCell | sm_lisbon_s4blk | 
 | | | | | 
-<br> Storm Rage | sm_lisbon_lightgod | 
+![image](https://github.com/user-attachments/assets/badd2902-75d0-4d1f-b6a7-c18521354549)<br> Storm Rage | sm_lisbon_lightgod | 
 | | | | | 
-<br> Byte Blaster | sm_lisbon_codebreaker | 
+![image](https://github.com/user-attachments/assets/01e4a66b-487c-4990-bda3-64ddd08c53e9)<br> Byte Blaster | sm_lisbon_codebreaker | 
 | | | | | 
 
 
