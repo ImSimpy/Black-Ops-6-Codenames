@@ -335,7 +335,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | ar_gilroy | 
+![image](https://github.com/user-attachments/assets/e210dc5a-3891-4aae-b869-0e8308df62a6)<br> Default | ar_gilroy | 
 | | | | |
 ![image](https://github.com/user-attachments/assets/7ea18c3d-f662-4bad-91d2-d9c255ee6cf9)<br> Game Over | ar_gilroy_gamer  | 
 | | | | | 
@@ -349,6 +349,20 @@
 
 # FFAR 1
 
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/a06f5594-4245-4803-8e73-d809fa26e15e)<br> Default | ar_fresno | 
+| | | | |
+![image](https://github.com/user-attachments/assets/116d74bd-648f-44b1-ac4b-fab26a76e4e3)<br> Combo Bash | ar_fresno_arcade | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/6b11d3a0-c478-40c7-8c14-2c7b68c8cec1)<br> Lockdown | ar_fresno_guards | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/aebb7119-ba6b-4be3-b3d0-518a66403c24)<br> Lockdown BlackCell | ar_fresno_s4blk | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/01807b36-59fa-4c68-a68d-23321acca02c)
+<br> Punishing Blows | ar_fresno_jaguar | 
+| | | | | 
 
 
 
