@@ -67,6 +67,17 @@
 | ![image](https://github.com/user-attachments/assets/03c54540-af27-4c91-a137-bc9211456ff2) <br> Veiled | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam| 
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/f6455bea-2552-4071-907f-f2446ce41ab8) <br>Daggered | body_c_t10_usa_pl_caine_mam_alt  | head_c_t10_usa_pl_caine_mam_alt | vm_c_t10_usa_pl_caine_mam_alt| 
+| | | | | 
+![image](https://github.com/user-attachments/assets/ae71bf74-1b29-4016-a26a-35a6f20c9738) <br> Chow Time | body_c_t10_usa_pl_caine_cafe | head_c_t10_usa_pl_caine_cafe | vm_c_t10_usa_pl_caine_cafe | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/5bef42b7-0faf-49fe-8177-996c5df0a9d3) <br> Chow Time BlackCell | body_c_t10_usa_pl_caine_cafe_bc  | head_c_t10_usa_pl_caine_cafe_bc | vm_c_t10_usa_pl_caine_cafe_bc | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/97c511d7-a864-43a9-8f38-29e670e42a58) <br> Zeus | body_c_t10_usa_pl_caine_zeus  | head_c_t10_usa_pl_caine_zeus | vm_c_t10_usa_pl_caine_zeus | 
+| | | | | 
+<br> TBA | body_c_t10_usa_pl_caine_viking  | head_c_t10_usa_pl_caine_viking | vm_c_t10_usa_pl_caine_viking | 
+| | | | | 
+
+
 
 # Arak Niran 
 
@@ -122,8 +133,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Toro_JugONotBlackCell_Skin_BO6.png/revision/latest?cb=20250403215451) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
 | | | | | 
 |![image](https://github.com/user-attachments/assets/7126adb5-beac-46ee-8a6f-3d6cf6f3888c)<br>Goloso | body_c_t10_arg_pl_alejo_pinata  | head_c_t10_arg_pl_alejo_pinata | vm_c_t10_arg_pl_alejo_pinata | 
-
-
+| | | | |
+![image](https://github.com/user-attachments/assets/d6783512-a584-4878-be24-dac7481b319a) <br> The Champ | body_c_t10_arg_pl_alejo_fight | head_c_t10_arg_pl_alejo_fight | vm_c_t10_arg_pl_alejo_fight | 
 
 
 
@@ -152,7 +163,18 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br> Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante_blackcell | head_c_t10_usa_pl_bailey_vigilante_blackcell | vm_c_t10_usa_pl_bailey_vigilante_blackcell | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/4ced56c2-76be-4c1b-8d16-764a7e125dc3) <br> Nocturnal Scout | body_c_t10_usa_pl_bailey_lightsout | head_c_t10_usa_pl_bailey_lightsout | vm_c_t10_usa_pl_bailey_lightsout | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/1355c888-a15f-40c6-9f2a-e1559bfa2454) <br> Nocturnal Scout BlackCell | body_c_t10_usa_pl_bailey_lightsout_bc | head_c_t10_usa_pl_bailey_lightsout_bc | vm_c_t10_usa_pl_bailey_lightsout_bc | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/1355c888-a15f-40c6-9f2a-e1559bfa2454) <br> Nocturnal Scout BlackCell | body_c_t10_usa_pl_bailey_ | head_c_t10_usa_pl_bailey_ | vm_c_t10_usa_pl_bailey_ | 
+| | | | | 
+
+
+
+
 
 
 # Harry Stone
