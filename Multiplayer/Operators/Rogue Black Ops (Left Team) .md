@@ -382,11 +382,11 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-<br> Supermax | body_c_t10_rus_pl_stitch_base | head_c_t10_rus_pl_stitch_base | vm_c_t10_rus_pl_stitch_base |
+![image](https://github.com/user-attachments/assets/a37deae2-049d-4d6a-b159-e17d0ff0ece4)<br> Supermax | body_c_t10_rus_pl_stitch_base | head_c_t10_rus_pl_stitch_base | vm_c_t10_rus_pl_stitch_base |
 | | | | | 
-<br> Supermax BlackCell | body_c_t10_rus_pl_stitch_base_bc | head_c_t10_rus_pl_stitch_base_bc | vm_c_t10_rus_pl_stitch_base_bc |
+![image](https://github.com/user-attachments/assets/670c9568-7687-4bdb-8725-dd7ac230cc2e)<br> Supermax BlackCell | body_c_t10_rus_pl_stitch_base_bc | head_c_t10_rus_pl_stitch_base_bc | vm_c_t10_rus_pl_stitch_base_bc |
 | | | | | 
-<br> Yard Dog | body_c_t10_rus_pl_stitch_lion | head_c_t10_rus_pl_stitch_lion | vm_c_t10_rus_pl_stitch_lion |
+![image](https://github.com/user-attachments/assets/cee01a8e-2175-469d-a011-8be8a14671f1)<br> Yard Dog | body_c_t10_rus_pl_stitch_lion | head_c_t10_rus_pl_stitch_lion | vm_c_t10_rus_pl_stitch_lion |
 | | | | | 
-<br> Yard Dog BlackCell | body_c_t10_rus_pl_stitch_lion_bc | head_c_t10_rus_pl_stitch_lion_bc | vm_c_t10_rus_pl_stitch_lion_bc |
+![image](https://github.com/user-attachments/assets/67f4d6aa-c92a-4fc8-b38c-6572f14975d5)<br> Yard Dog BlackCell | body_c_t10_rus_pl_stitch_lion_bc | head_c_t10_rus_pl_stitch_lion_bc | vm_c_t10_rus_pl_stitch_lion_bc |
 | | | | | 
