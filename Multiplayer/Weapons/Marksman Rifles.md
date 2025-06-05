@@ -123,4 +123,17 @@
 | | | | |
 
 
+# Essex Model 07
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/70ebe190-327b-419e-8d22-49e4e49109da)<br> Default | dm_erie | 
+| | | | | 
+<br> Smoked | dm_erie_ | 
+| | | | | 
+
+
+
+
 
