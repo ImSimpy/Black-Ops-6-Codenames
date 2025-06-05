@@ -232,6 +232,23 @@
 
 
 
+# LC10
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![image](https://github.com/user-attachments/assets/182561f1-8d19-4ee4-acb5-3f696f58d547)<br> Default | sm_lisbon | 
+| | | | | 
+<br> Hull Buster | sm_lisbon_waterb | 
+| | | | | 
+<br> Hull Buster BlackCell | sm_lisbon_s4blk | 
+| | | | | 
+<br> Storm Rage | sm_lisbon_lightgod | 
+| | | | | 
+<br> Byte Blaster | sm_lisbon_codebreaker | 
+| | | | | 
+
+
 
 
 
