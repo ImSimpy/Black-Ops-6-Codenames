@@ -377,5 +377,16 @@
 
 
 
+# Vikhor "Stitch" Kuzmin
 
-
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+<br> Supermax | body_c_t10_rus_pl_stitch_base | head_c_t10_rus_pl_stitch_base | vm_c_t10_rus_pl_stitch_base |
+| | | | | 
+<br> Supermax BlackCell | body_c_t10_rus_pl_stitch_base_bc | head_c_t10_rus_pl_stitch_base_bc | vm_c_t10_rus_pl_stitch_base_bc |
+| | | | | 
+<br> Yard Dog | body_c_t10_rus_pl_stitch_lion | head_c_t10_rus_pl_stitch_lion | vm_c_t10_rus_pl_stitch_lion |
+| | | | | 
+<br> Yard Dog BlackCell | body_c_t10_rus_pl_stitch_lion_bc | head_c_t10_rus_pl_stitch_lion_bc | vm_c_t10_rus_pl_stitch_lion_bc |
+| | | | | 
