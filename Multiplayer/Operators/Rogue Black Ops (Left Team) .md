@@ -251,6 +251,7 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Sev_Paradox_Skin_BO6.png/revision/latest?cb=20250201180638) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Urban Shortfin |  body_c_t10_ava_pl_sev_goblin | head_c_t10_ava_pl_sev_goblin | vm_c_t10_ava_pl_sev_goblin | 
+| | | | | 
 
 
 
@@ -270,6 +271,8 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3c/Woods_WinterGuiseBlackCell_Skin_BO6.png/revision/latest?cb=20250403215541) <br>Numbers Woods | body_c_t10_usa_pl_woods_winter_bc | head_c_t10_usa_pl_woods_winter_bc | vm_c_t10_usa_pl_woods_winter_bc
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Billie Baller | body_c_t10_usa_pl_woods_goat | head_c_t10_usa_pl_woods_goat | vm_c_t10_usa_pl_woods_goat
+| | | | | 
+![image](https://github.com/user-attachments/assets/4c0e71aa-c4be-449f-af36-9cd8e88efe4c) <br> Sea Rogue | TBA | TBA | TBA
 
 
 
