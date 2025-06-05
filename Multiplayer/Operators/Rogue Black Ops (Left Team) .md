@@ -22,9 +22,9 @@
 | | | | | 
 | ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Dadler | body_c_t10_usa_pl_adler_dadler | head_c_t10_usa_pl_adler_dadler | vm_c_t10_usa_pl_adler_dadler |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Truth Chaser | body_c_t10_usa_pl_adler_extract | head_c_t10_usa_pl_adler_extract | vm_c_t10_usa_pl_adler_extract |
+![image](https://github.com/user-attachments/assets/07463254-8d1f-4574-a68b-cd32632d2bf6) <br> Truth Chaser | body_c_t10_usa_pl_adler_extract | head_c_t10_usa_pl_adler_extract | vm_c_t10_usa_pl_adler_extract |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Truth Chaser BlackCell | body_c_t10_usa_pl_adler_extract_bc | head_c_t10_usa_pl_adler_extract_bc | vm_c_t10_usa_pl_adler_extract_bc |
+![image](https://github.com/user-attachments/assets/dde9f80e-1c08-4090-a892-f24920bad1ba) <br> Truth Chaser BlackCell | body_c_t10_usa_pl_adler_extract_bc | head_c_t10_usa_pl_adler_extract_bc | vm_c_t10_usa_pl_adler_extract_bc |
 | | | | | 
 
 
@@ -70,9 +70,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel_blackcell | head_c_t10_pak_pl_nazir_shrapnel_blackcell | vm_c_t10_pak_pl_nazir_shrapnel_blackcell
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br>Solitude | body_c_t10_pak_pl_nazir_quiet | head_c_t10_pak_pl_nazir_quiet | vm_c_t10_pak_pl_nazir_quiet
+| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Solitude | body_c_t10_pak_pl_nazir_quiet | head_c_t10_pak_pl_nazir_quiet | vm_c_t10_pak_pl_nazir_quiet
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Shrub Wise | body_c_t10_pak_pl_nazir_explosives | head_c_t10_pak_pl_nazir_explosives_ | vm_c_t10_pak_pl_nazir_explosives
+![image](https://github.com/user-attachments/assets/a64ee805-9652-4474-ba68-e5120feffff1) <br> Shrub Wise | body_c_t10_pak_pl_nazir_explosives | head_c_t10_pak_pl_nazir_explosives_ | vm_c_t10_pak_pl_nazir_explosives
 
 
 
@@ -186,15 +186,15 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br> Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
 | | | | | 
 | ![image](https://github.com/user-attachments/assets/1418286c-ee0b-490b-8a36-8659f2289357) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
 | | | | | 
 |  ![image](https://github.com/user-attachments/assets/ba998ef4-dec5-487c-baa4-31c59230bcb0) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Uniform | body_c_t10_gbr_pl_ratcliff_disguise | head_c_t10_gbr_pl_ratcliff_disguise | vm_c_t10_gbr_pl_ratcliff_disguise |
+![image](https://github.com/user-attachments/assets/dc91b1ac-5329-49ae-a994-4acf898f8a26) <br> Uniform | body_c_t10_gbr_pl_ratcliff_disguise | head_c_t10_gbr_pl_ratcliff_disguise | vm_c_t10_gbr_pl_ratcliff_disguise |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Uniform BlackCell | body_c_t10_gbr_pl_ratcliff_disguise_bc | head_c_t10_gbr_pl_ratcliff_disguise_bc | vm_c_t10_gbr_pl_ratcliff_disguise_bc |
+![image](https://github.com/user-attachments/assets/ed252773-472e-41c2-a2a0-79c5cd0beedf) <br> Uniform BlackCell | body_c_t10_gbr_pl_ratcliff_disguise_bc | head_c_t10_gbr_pl_ratcliff_disguise_bc | vm_c_t10_gbr_pl_ratcliff_disguise_bc |
 
 
 
