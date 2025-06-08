@@ -70,7 +70,7 @@
 | | | | | 
 <br>  Marksman Bipod | ub_focus | N/A
 | | | | | 
-<br>  G-Grip | grip_vert_laser_east | grip_vert_laser_west |
+<br>  G-Grip | grip_vert_laser_west | grip_vert_laser_east |
 | | | | | 
 
 
