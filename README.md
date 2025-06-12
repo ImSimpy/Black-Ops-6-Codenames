@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This Repository will be likely lose support and be moved to: https://bo3.coddb.net/
+> This Repository will likely lose support and be moved to: https://bo3.coddb.net/
 
 ![image](https://github.com/user-attachments/assets/01d60042-a485-4c36-b99b-03d21ea042a2)
 
