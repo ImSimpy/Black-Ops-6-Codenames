@@ -7,7 +7,7 @@
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
 
-## Predator
+# Predator
 
 
 | Icon | Body | Head | Arms
@@ -17,7 +17,7 @@
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/42/Predator_JungleHunterBlackCell_Skin_BO6.png/revision/latest?cb=20251009214526) <br>Jungle Hunter Blackcell | body_c_t10_usa_pl_milk_base_bc  | head_c_t10_usa_pl_milk_base_bc | vm_c_t10_usa_pl_milk_base_bc |
 
-## Feral Predator
+# Feral Predator
 
 
 | Icon | Body | Head | Arms
@@ -27,7 +27,7 @@
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/62/FeralPredator_FeralPredatorBlackCell_Skin_BO6.png/revision/latest?cb=20251009214812) <br>Feral Predator Blackcell | body_c_t10_usa_pl_chocolate_dark_bc  | head_c_t10_usa_pl_chocolate_dark_bc | vm_c_t10_usa_pl_chocolate_dark_bc |
 
-## Dek
+# Dek
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
