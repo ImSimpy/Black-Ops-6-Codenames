@@ -14,8 +14,8 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/a75605e0-86be-4499-b156-d0e2cfee5a99) <br> Eve Macarro | body_c_t10_usa_pl_doberman_red | head_c_t10_usa_pl_doberman_red | vm_c_t10_usa_pl_doberman_red| 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/8/8e/EveMacarro_Default_Skin_BO6.png/revision/latest?cb=20250601151801) <br> Eve Macarro | body_c_t10_usa_pl_doberman_red | head_c_t10_usa_pl_doberman_red | vm_c_t10_usa_pl_doberman_red| 
 | | | | | 
-![image](https://github.com/user-attachments/assets/802a352c-e994-4339-a9b2-3a53d003a483) <br> Ruska Rogue | body_c_t10_usa_pl_doberman_black | head_c_t10_usa_pl_doberman_black | vm_c_t10_usa_pl_doberman_black | 
+![image](https://static.wikia.nocookie.net/callofduty/images/e/ef/EveMacarro_RuskaRogue_Skin_BO6.png/revision/latest?cb=20250601151805) <br> Ruska Rogue | body_c_t10_usa_pl_doberman_black | head_c_t10_usa_pl_doberman_black | vm_c_t10_usa_pl_doberman_black | 
 | | | | | 
 
