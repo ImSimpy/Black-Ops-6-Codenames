@@ -1,6 +1,6 @@
 # The Terminator
 
-![image](https://github.com/user-attachments/assets/a21ef7fe-7f0b-4f26-9596-42ce1d58974a)
+![Header](https://github.com/user-attachments/assets/a21ef7fe-7f0b-4f26-9596-42ce1d58974a)
 
 > [!IMPORTANT]
 > 
@@ -10,6 +10,6 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9c/T-800_ModelT800_Skin_BO6.png/revision/latest?cb=20250213213920) <br>Model T-800 | body_c_t10_ger_pl_panda_base  | head_c_t10_ger_pl_panda_base | vm_c_t10_ger_pl_panda_base | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9c/T-800_ModelT800_Skin_BO6.png/revision/latest?cb=20250213213920) <br>Model T-800 | body_c_t10_ger_pl_panda_base  | head_c_t10_ger_pl_panda_base | vm_c_t10_ger_pl_panda_base | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/T-800_EndoTitaniumCore_Skin_BO6.png/revision/latest?cb=20250213213919) <br>Titanium Core | body_c_t10_ger_pl_panda_giant  | head_c_t10_ger_pl_panda_giant | vm_c_t10_ger_pl_panda_giant | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b9/T-800_EndoTitaniumCore_Skin_BO6.png/revision/latest?cb=20250213213919) <br>Titanium Core | body_c_t10_ger_pl_panda_giant  | head_c_t10_ger_pl_panda_giant | vm_c_t10_ger_pl_panda_giant | 
