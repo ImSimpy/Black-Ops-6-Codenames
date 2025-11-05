@@ -1,6 +1,6 @@
 # High Art
 
-![image](https://github.com/user-attachments/assets/d0a966de-b7bf-4796-b8fc-47a464cb6764)
+![image](https://static.wikia.nocookie.net/callofduty/images/e/e6/HighArt_Event_Logo_BO6.png/revision/latest/scale-to-width-down/1000?cb=20250509001925)
 
 
 
@@ -16,7 +16,6 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-![image](https://github.com/user-attachments/assets/6318246f-e0d2-4d37-92b2-6b7f3b15e5f1)<br>Fired Up | body_c_t10_usa_pl_cucumber_pickle | head_c_t10_usa_pl_cucumber_pickle | vm_c_t10_usa_pl_cucumber_pickle |
+![image](https://static.wikia.nocookie.net/callofduty/images/b/b2/SethRogen_HostRogen_Skin_BO6.png/revision/latest?cb=20250508215931)<br>Host Rogen | body_c_t10_usa_pl_cucumber_base_mld | head_c_t10_usa_pl_cucumber_base | vm_c_t10_usa_pl_cucumber_base |
 | | | | | 
-![image](https://github.com/user-attachments/assets/c440e086-000a-4681-bce4-746598847928)<br>Host Rogen | body_c_t10_usa_pl_cucumber_base_mld | head_c_t10_usa_pl_cucumber_base | vm_c_t10_usa_pl_cucumber_base |
-| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/1/12/SethRogen_FiredUp_Skin_BO6.png/revision/latest?cb=20250508215930)<br>Fired Up | body_c_t10_usa_pl_cucumber_pickle | head_c_t10_usa_pl_cucumber_pickle | vm_c_t10_usa_pl_cucumber_pickle |
