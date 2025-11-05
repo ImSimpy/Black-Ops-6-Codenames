@@ -129,27 +129,31 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0d/Bayan_Maverick_Skin_BO6.png/revision/latest?cb=20241028013549) <br>Maverick | body_c_t10_pol_pl_bayan_rouge | head_c_t10_pol_pl_bayan_rouge | vm_c_t10_pol_pl_bayan_rouge | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/0d/Bayan_Maverick_Skin_BO6.png/revision/latest?cb=20241028013549) <br>Maverick | body_c_t10_pol_pl_bayan_rouge | head_c_t10_pol_pl_bayan_rouge | vm_c_t10_pol_pl_bayan_rouge | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c1/Bayan_Wrap_Skin_BO6.png/revision/latest?cb=20250201180612) <br>Wrap  | body_c_t10_pol_pl_bayan_shrouded  | head_c_t10_pol_pl_bayan_shrouded | vm_c_t10_pol_pl_bayan_shrouded | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c1/Bayan_Wrap_Skin_BO6.png/revision/latest?cb=20250201180612) <br>Wrap  | body_c_t10_pol_pl_bayan_shrouded  | head_c_t10_pol_pl_bayan_shrouded | vm_c_t10_pol_pl_bayan_shrouded | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/df/Bayan_Quiet_Skin_BO6.png/revision/latest?cb=20241211224447) <br>Quiet | body_c_t10_pol_pl_bayan_mime | head_c_t10_pol_pl_bayan_mime | vm_c_t10_pol_pl_bayan_mime | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/df/Bayan_Quiet_Skin_BO6.png/revision/latest?cb=20241211224447) <br>Quiet | body_c_t10_pol_pl_bayan_mime | head_c_t10_pol_pl_bayan_mime | vm_c_t10_pol_pl_bayan_mime | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e4/Bayan_Cauterize_Skin_BO6.png/revision/latest?cb=20250201180609) <br>Cauterize  | body_c_t10_pol_pl_bayan_red  | head_c_t10_pol_pl_bayan_red | vm_c_t10_pol_pl_bayan_red | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/e4/Bayan_Cauterize_Skin_BO6.png/revision/latest?cb=20250201180609) <br>Cauterize  | body_c_t10_pol_pl_bayan_red  | head_c_t10_pol_pl_bayan_red | vm_c_t10_pol_pl_bayan_red | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Bayan_Jack_Skin_BO6.png/revision/latest?cb=20250201180610) <br>Jack  | body_c_t10_pol_pl_bayan_deck  | head_c_t10_pol_pl_bayan_deck | vm_c_t10_pol_pl_bayan_deck | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/5b/Bayan_Jack_Skin_BO6.png/revision/latest?cb=20250201180610) <br>Jack  | body_c_t10_pol_pl_bayan_deck  | head_c_t10_pol_pl_bayan_deck | vm_c_t10_pol_pl_bayan_deck | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo66ae8518cf4aa6e1599400070e08cb836f9a2edf2d3c1c358f2245d8a71db7d5a_large.webp) <br>Pure Grin  | body_c_t10_pol_pl_bayan_haha  | head_c_t10_pol_pl_bayan_haha | vm_c_t10_pol_pl_bayan_haha |  
+| ![Icon](https://stockpile.detonated.com/static/bundle_images/resized/bo66ae8518cf4aa6e1599400070e08cb836f9a2edf2d3c1c358f2245d8a71db7d5a_large.webp) <br>Pure Grin  | body_c_t10_pol_pl_bayan_haha  | head_c_t10_pol_pl_bayan_haha | vm_c_t10_pol_pl_bayan_haha |  
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6a20be2d699d54e1f31a12bc58b481a9614c5b5d1592f67083ba57d5cd018b19d_large.webp) <br>Carton Robo  | body_c_t10_pol_pl_bayan_cardboard  | head_c_t10_pol_pl_bayan_cardboard | vm_c_t10_pol_pl_bayan_cardboard | 
+| ![Icon](https://stockpile.detonated.com/static/bundle_images/resized/bo6a20be2d699d54e1f31a12bc58b481a9614c5b5d1592f67083ba57d5cd018b19d_large.webp) <br>Carton Robo  | body_c_t10_pol_pl_bayan_cardboard  | head_c_t10_pol_pl_bayan_cardboard | vm_c_t10_pol_pl_bayan_cardboard | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Bayan_DivineMalice_Skin_BO6.png/revision/latest?cb=20250111010256) <br>Divine Malice  | body_c_t10_pol_pl_bayan_longshot | head_c_t10_pol_pl_bayan_longshot | vm_c_t10_pol_pl_bayan_longshot |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4e/Bayan_ArmoredWreck_Skin_BO6.png/revision/latest?cb=20250819231449) <br>Armored Wreck  | body_c_t10_pol_pl_bayan_apocalypse  | head_c_t10_pol_pl_bayan_apocalypse | vm_c_t10_pol_pl_bayan_apocalypse | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/93/Bayan_BlackDiamond_Skin_BO6.png/revision/latest?cb=20250213213914) <br>Black Diamond  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c7/Bayan_Upended_Skin_BO6.png/revision/latest?cb=20251019002139) <br>Upended  | body_c_t10_pol_pl_bayan_upsidedown  | head_c_t10_pol_pl_bayan_upsidedown | vm_c_t10_pol_pl_bayan_upsidedown | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/43/Bayan_Drifter_Skin_BO6.png/revision/latest?cb=20241119185602) <br>Drifter  | body_c_t10_pol_pl_bayan_artillery | head_c_t10_pol_pl_bayan_artillery  | vm_c_t10_pol_pl_bayan_artillery  | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/13/Bayan_DivineMalice_Skin_BO6.png/revision/latest?cb=20250111010256) <br>Divine Malice  | body_c_t10_pol_pl_bayan_longshot | head_c_t10_pol_pl_bayan_longshot | vm_c_t10_pol_pl_bayan_longshot |  
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell| 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/93/Bayan_BlackDiamond_Skin_BO6.png/revision/latest?cb=20250213213914) <br>Black Diamond  | body_c_t10_pol_pl_bayan_snow  | head_c_t10_pol_pl_bayan_snow | vm_c_t10_pol_pl_bayan_snow | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/43/Bayan_Drifter_Skin_BO6.png/revision/latest?cb=20241119185602) <br>Drifter  | body_c_t10_pol_pl_bayan_artillery | head_c_t10_pol_pl_bayan_artillery  | vm_c_t10_pol_pl_bayan_artillery | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/94/Bayan_DrifterBlackCell_Skin_BO6.png/revision/latest?cb=20241119185603) <br>Drifter BlackCell  | body_c_t10_pol_pl_bayan_artillery<br>_blackcell  | head_c_t10_pol_pl_bayan_artillery<br>_blackcell | vm_c_t10_pol_pl_bayan_artillery<br>_blackcell | 
 
 
 
@@ -390,12 +394,6 @@
 
 
 
-# Goliath 
-
-| Icon  | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | | | 
-| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8b/Goliath_Default_Skin_BO6.png/revision/latest?cb=20241119185607) <br>Goliath | body_c_t10_usa_pl_brimstone_hooded | head_c_t10_usa_pl_brimstone_hooded | vm_c_t10_usa_pl_brimstone_hooded |
 
 
 
@@ -457,3 +455,43 @@
 ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/11/Stitch_YardDog_Skin_BO6.png/revision/latest?cb=20250601160305) <br>Yard Dog | body_c_t10_rus_pl_stitch_lion | head_c_t10_rus_pl_stitch_lion | vm_c_t10_rus_pl_stitch_lion |
 | | | | | 
 ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/0f/Stitch_YardDogBlackCell_Skin_BO6.png/revision/latest?cb=20250601160306) <br>Yard Dog BlackCell | body_c_t10_rus_pl_stitch_lion_bc | head_c_t10_rus_pl_stitch_lion_bc | vm_c_t10_rus_pl_stitch_lion_bc |
+
+
+# Lawrence Sims
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/7/76/Sims_Stogie_Skin_BO6.png/revision/latest?cb=20250812233051) <br>Stogie | body_c_t10_usa_pl_sims_base | head_c_t10_usa_pl_sims_base | vm_c_t10_usa_pl_sims_base |
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7a/Sims_StogieBlackCell_Skin_BO6.png/revision/latest?cb=20250812233052) <br>Stogie BlackCell | body_c_t10_usa_pl_sims_base_bc | head_c_t10_usa_pl_sims_base_bc | vm_c_t10_usa_pl_sims_base_bc |
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/5/54/Sims_Envenomate_Skin_BO6.png/revision/latest?cb=20250812233048) <br>Envenomate | body_c_t10_usa_pl_sims_snake | head_c_t10_usa_pl_sims_snake | vm_c_t10_usa_pl_sims_snake |
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/3/3b/Sims_EnvenomateBlackCell_Skin_BO6.png/revision/latest?cb=20250812233049) <br>Envenomate BlackCell | body_c_t10_usa_pl_sims_snake_bc | head_c_t10_usa_pl_sims_snake_bc | vm_c_t10_usa_pl_sims_snake_bc |
+
+
+# Victor Reznov
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/b/ba/Reznov_SOGReznov_Skin_BO6.png/revision/latest?cb=20250819222030) <br>SOG Reznov | body_c_sat_rus_pl_brown_tunnels | head_c_sat_rus_pl_brown_tunnels | vm_c_sat_rus_pl_brown_tunnels |
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/0/00/Reznov_StalingradReznov_Skin_BO6.png/revision/latest?cb=20250819222031) <br>Stalingrad Reznov | body_c_sat_rus_pl_brown_proto | head_c_sat_rus_pl_brown_proto | vm_c_sat_rus_pl_brown_proto |
+| | | | | 
+![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c3/Reznov_MemoryReznov_Skin_BO6.png/revision/latest?cb=20250819222028) <br>Envenomate | body_c_sat_rus_pl_brown_holo | head_c_sat_rus_pl_brown_holo | vm_c_sat_rus_pl_brown_holo |
+
+
+
+# Blackcell Exclusives
+
+| Icon  | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8b/Goliath_Default_Skin_BO6.png/revision/latest?cb=20241119185607) <br>Goliath | body_c_t10_usa_pl_brimstone_hooded | head_c_t10_usa_pl_brimstone_hooded | vm_c_t10_usa_pl_brimstone_hooded |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/74/Solace_Default_Skin_BO6.png/revision/latest?cb=20250812232636) <br>Solace | body_c_t10_usa_pl_deity_base | head_c_t10_usa_pl_deity_base | vm_c_t10_usa_pl_deity_base |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/de/Dread_Default_Skin_BO6.png/revision/latest?cb=20251009215455) <br>Dread | body_c_t10_usa_pl_maw_base | head_c_t10_usa_pl_maw_base | vm_c_t10_usa_pl_maw_base |
+
