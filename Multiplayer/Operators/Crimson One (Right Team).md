@@ -237,8 +237,15 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4a/Brutus_Tackle_Skin_BO6.png/revision/latest?cb=20250213213916) <br>Tackle | body_c_t10_usa_pl_warden_tackle  | head_c_t10_usa_pl_warden_tackle | vm_c_t10_usa_pl_warden_tackle | 
 | | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Brutus_DecayedBronze_Skin_BO6.png/revision/latest?cb=20250704143655) <br>Decayed Bronze | body_c_t10_usa_pl_warden_liberty  | head_c_t10_usa_pl_warden_liberty | vm_c_t10_usa_pl_warden_liberty | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f2/Brutus_Geophase_Skin_BO6.png/revision/latest?cb=20250516001053) <br>Geophase | body_c_t10_usa_pl_warden_geode  | head_c_t10_usa_pl_warden_geode | vm_c_t10_usa_pl_warden_geode | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Brutus_Calamity_Skin_BO6.png/revision/latest?cb=20250213213915) <br>Calamity | body_c_t10_usa_pl_warden_metal  | head_c_t10_usa_pl_warden_metal | vm_c_t10_usa_pl_warden_metal | 
-
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3b/Brutus_Dreadwarden_Skin_BO6.png/revision/latest?cb=20250601154048) <br>Dreadwarden  | body_c_t10_usa_pl_warden_guard  | head_c_t10_usa_pl_warden_guard | vm_c_t10_usa_pl_warden_guard | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/75/Brutus_DreadwardenBlackCell_Skin_BO6.png/revision/latest?cb=20250601154049) <br>Dreadwarden BlackCell  | body_c_t10_usa_pl_warden_guard<br>_bc  | head_c_t10_usa_pl_warden_guard<br>_bc | vm_c_t10_usa_pl_warden_guard<br>_bc | 
 
 
 # Klaus
@@ -252,8 +259,12 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Klaus_Ref_Skin_BO6.png/revision/latest?cb=20250213213916) Ref | body_c_t10_ger_pl_dummy_ref | head_c_t10_ger_pl_dummy_ref | vm_c_t10_ger_pl_dummy_ref |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Klaus_RoboRocker_Skin_BO6.png/revision/latest?cb=20250308172128) Robo Rocker | body_c_t10_ger_pl_dummy_punk | head_c_t10_ger_pl_dummy_punk | vm_c_t10_ger_pl_dummy_punk |
-
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Klaus_Stovepipe_Skin_BO6.png/revision/latest?cb=20250704143706) Stovepipe  | body_c_t10_ger_pl_dummy_abe | head_c_t10_ger_pl_dummy_abe | vm_c_t10_ger_pl_dummy_abe |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/21/Klaus_Powerhouse_Skin_BO6.png/revision/latest?cb=20250904224255) Powerhouse  | body_c_t10_ger_pl_dummy_jugg | head_c_t10_ger_pl_dummy_jugg | vm_c_t10_ger_pl_dummy_jugg |
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/0a/Klaus_RoboRocker_Skin_BO6.png/revision/latest?cb=20250508203329) Robo Rocker | body_c_t10_ger_pl_dummy_punk | head_c_t10_ger_pl_dummy_punk | vm_c_t10_ger_pl_dummy_punk |
+ 
 
 
 # Mackenzie Carver
