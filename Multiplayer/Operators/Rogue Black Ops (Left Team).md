@@ -261,20 +261,25 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4f/Sev_Default_Skin_BO6.png/revision/latest?cb=20241119185614) <br>Sev | body_c_t10_ava_pl_sev_rogue  | head_c_t10_ava_pl_sev_rogue | vm_c_t10_ava_pl_sev_rogue | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4f/Sev_Default_Skin_BO6.png/revision/latest?cb=20241119185614) <br>Sev | body_c_t10_ava_pl_sev_rogue  | head_c_t10_ava_pl_sev_rogue | vm_c_t10_ava_pl_sev_rogue | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2b/Sev_Opulent_Skin_BO6.png/revision/latest?cb=20241119185615) <br>Opulent | body_c_t10_ava_pl_sev_opulent  | head_c_t10_ava_pl_sev_opulent | vm_c_t10_ava_pl_sev_opulent | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2b/Sev_Opulent_Skin_BO6.png/revision/latest?cb=20241119185615) <br>Opulent | body_c_t10_ava_pl_sev_opulent  | head_c_t10_ava_pl_sev_opulent | vm_c_t10_ava_pl_sev_opulent | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/cf/Sev_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185613) <br>Sev Blackcell | body_c_t10_ava_pl_sev_rogue<br>_blackcell  | head_c_t10_ava_pl_sev_rogue<br>_blackcell | vm_c_t10_ava_pl_sev_rogue<br>_blackcell | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f1/Sev_Timetrotter_Skin_BO6.png/revision/latest?cb=20250811005345) <br>Timetrotter |  body_c_t10_ava_pl_sev_time | head_c_t10_ava_pl_sev_time | vm_c_t10_ava_pl_sev_time | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8c/Sev_Opulent_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185615) <br>Opulent Blackcell |  body_c_t10_ava_pl_sev_opulent<br>_blackcell  | head_c_t10_ava_pl_sev_opulent<br>_blackcell | vm_c_t10_ava_pl_sev_opulent<br>_blackcell | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/d5/Sev_UrbanShortfin_Skin_BO6.png/revision/latest?cb=20250604092140) <br>Urban Shortfin |  body_c_t10_ava_pl_sev_goblin | head_c_t10_ava_pl_sev_goblin | vm_c_t10_ava_pl_sev_goblin | 
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6c8b8e0a4b680437352e67ec71383030c8a067001d77707ca5717f5eee019cf5e_large.webp) <br>Weedstronaut |  body_c_t10_ava_pl_sev_hydroponic  | head_c_t10_ava_pl_sev_hydroponic | vm_c_t10_ava_pl_sev_hydroponic | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/39/Sev_GearJockey_Skin_BO6.png/revision/latest?cb=20250819231712) <br>Gear Jockey |  body_c_t10_ava_pl_sev_mechanic | head_c_t10_ava_pl_sev_mechanic | vm_c_t10_ava_pl_sev_mechanic | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/bd/Sev_Paradox_Skin_BO6.png/revision/latest?cb=20250201180638) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/46/Sev_Weedtronaut_Skin_BO6.png/revision/latest?cb=20250417200629) <br>Weedstronaut |  body_c_t10_ava_pl_sev_hydroponic  | head_c_t10_ava_pl_sev_hydroponic | vm_c_t10_ava_pl_sev_hydroponic | 
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Urban Shortfin |  body_c_t10_ava_pl_sev_goblin | head_c_t10_ava_pl_sev_goblin | vm_c_t10_ava_pl_sev_goblin | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bd/Sev_Paradox_Skin_BO6.png/revision/latest?cb=20250201180638) <br>Paradox |  body_c_t10_ava_pl_sev_counterpoint  | head_c_t10_ava_pl_sev_counterpoint | vm_c_t10_ava_pl_sev_counterpoint | 
 | | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/cf/Sev_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185613) <br>Sev Blackcell | body_c_t10_ava_pl_sev_rogue<br>_blackcell  | head_c_t10_ava_pl_sev_rogue<br>_blackcell | vm_c_t10_ava_pl_sev_rogue<br>_blackcell | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8c/Sev_Opulent_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185615) <br>Opulent Blackcell |  body_c_t10_ava_pl_sev_opulent<br>_blackcell  | head_c_t10_ava_pl_sev_opulent<br>_blackcell | vm_c_t10_ava_pl_sev_opulent<br>_blackcell | 
+
+
 
 
 
