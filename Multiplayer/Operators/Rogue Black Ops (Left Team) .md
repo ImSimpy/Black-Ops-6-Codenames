@@ -66,27 +66,36 @@
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7d/Nazir_Renegade_Skin_BO6.png/revision/latest?cb=20241028013634) <br>Renegade | body_c_t10_pak_pl_nazir_rogue | head_c_t10_pak_pl_nazir_rogue | vm_c_t10_pak_pl_nazir_rogue
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7d/Nazir_Renegade_Skin_BO6.png/revision/latest?cb=20241028013634) <br>Renegade | body_c_t10_pak_pl_nazir_rogue | head_c_t10_pak_pl_nazir_rogue | vm_c_t10_pak_pl_nazir_rogue
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/db/Nazir_Hella_Chill_Skin_BO6.png/revision/latest?cb=20241028013632) <br>Hella Chill | body_c_t10_pak_pl_nazir_emea | head_c_t10_pak_pl_nazir_emea | vm_c_t10_pak_pl_nazir_emea 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b8/Nazir_ClearCut_Skin_BO6.png/revision/latest?cb=20241119185610) <br>Clear Cut | body_c_t10_pak_pl_nazir_trooper | head_c_t10_pak_pl_nazir_trooper | vm_c_t10_pak_pl_nazir_trooper
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b8/Nazir_ClearCut_Skin_BO6.png/revision/latest?cb=20241119185610) <br>Clear Cut | body_c_t10_pak_pl_nazir_trooper | head_c_t10_pak_pl_nazir_trooper | vm_c_t10_pak_pl_nazir_trooper
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c4/Nazir_ShrubWise_Skin_BO6.png/revision/latest?cb=20250601152612) <br>Shrub Wise | body_c_t10_pak_pl_nazir_explosives | head_c_t10_pak_pl_nazir_explosives | vm_c_t10_pak_pl_nazir_explosives
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Nazir_Dapper_Skin_BO6.png/revision/latest?cb=20241211224450) <br>Dapper | body_c_t10_pak_pl_nazir_robber | head_c_t10_pak_pl_nazir_robber | vm_c_t10_pak_pl_nazir_robber
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/db/Nazir_Hella_Chill_Skin_BO6.png/revision/latest?cb=20241028013632) <br>Hella Chill | body_c_t10_pak_pl_nazir_emea | head_c_t10_pak_pl_nazir_emea | vm_c_t10_pak_pl_nazir_emea 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/71/Nazir_Mongoose_Skin_BO6.png/revision/latest?cb=20250213213917) <br>Mongoose | body_c_t10_tha_pl_nazir_nights | head_c_t10_tha_pl_niran_nights | vm_c_t10_tha_pl_niran_nights
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/42/Nazir_SkateRat_Skin_BO6.png/revision/latest?cb=20251019002142) <br>Skate Rat | body_c_t10_pak_pl_nazir_skate | head_c_t10_pak_pl_nazir_skate | vm_c_t10_pak_pl_nazir_skate
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1a/Nazir_GoldDipped_Skin_BO6.png/revision/latest?cb=20250201180630) <br>Gold Dipped| body_c_t10_tha_pl_nazir_crimson | head_c_t10_tha_pl_niran_crimson | vm_c_t10_tha_pl_niran_crimson
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/17/Nazir_MallPolice_Skin_BO6.png/revision/latest?cb=20251009221115) <br>Mall Police | body_c_t10_pak_pl_nazir_shorts | head_c_t10_pak_pl_nazir_shorts | vm_c_t10_pak_pl_nazir_shorts
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/30/Nazir_Merciless_Skin_BO6.png/revision/latest?cb=20241129224912) <br>Merciless | body_c_t10_pak_pl_nazir_steam | head_c_t10_pak_pl_nazir_steam | vm_c_t10_pak_pl_nazir_steam
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/20/Nazir_Dapper_Skin_BO6.png/revision/latest?cb=20241211224450) <br>Dapper | body_c_t10_pak_pl_nazir_robber | head_c_t10_pak_pl_nazir_robber | vm_c_t10_pak_pl_nazir_robber
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Nazir_SlickStyle_Skin_BO6.png/revision/latest?cb=20241119185611) <br>Slick Style | body_c_t10_pak_pl_nazir_shrapnel | head_c_t10_pak_pl_nazir_shrapnel | vm_c_t10_pak_pl_nazir_shrapnel
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/71/Nazir_Mongoose_Skin_BO6.png/revision/latest?cb=20250213213917) <br>Mongoose | body_c_t10_tha_pl_nazir_nights | head_c_t10_tha_pl_niran_nights | vm_c_t10_tha_pl_niran_nights
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel_blackcell | head_c_t10_pak_pl_nazir_shrapnel_blackcell | vm_c_t10_pak_pl_nazir_shrapnel_blackcell
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/5a/Nazir_Solitude_Skin_BO6.png/revision/latest?cb=20250601155852) <br>Solitude | body_c_t10_pak_pl_nazir_quiet | head_c_t10_pak_pl_nazir_quiet | vm_c_t10_pak_pl_nazir_quiet
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Solitude | body_c_t10_pak_pl_nazir_quiet | head_c_t10_pak_pl_nazir_quiet | vm_c_t10_pak_pl_nazir_quiet
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c0/Nazir_StopMotion_Skin_BO6.png/revision/latest?cb=20250709222848) <br>Stop Motion | body_c_t10_pak_pl_nazir_clay | head_c_t10_pak_pl_nazir_clay | vm_c_t10_pak_pl_nazir_clay
 | | | | | 
-![image](https://github.com/user-attachments/assets/a64ee805-9652-4474-ba68-e5120feffff1) <br> Shrub Wise | body_c_t10_pak_pl_nazir_explosives | head_c_t10_pak_pl_nazir_explosives_ | vm_c_t10_pak_pl_nazir_explosives
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/30/Nazir_Merciless_Skin_BO6.png/revision/latest?cb=20241129224912) <br>Merciless | body_c_t10_pak_pl_nazir_steam | head_c_t10_pak_pl_nazir_steam | vm_c_t10_pak_pl_nazir_steam
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/1a/Nazir_GoldDipped_Skin_BO6.png/revision/latest?cb=20250201180630) <br>Gold Dipped | body_c_t10_tha_pl_nazir_crimson | head_c_t10_tha_pl_niran_crimson | vm_c_t10_tha_pl_niran_crimson
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/86/Nazir_Khnum_Skin_BO6.png/revision/latest?cb=20250918224137) <br>Khnum | body_c_t10_pak_pl_nazir_khnum | head_c_t10_pak_pl_nazir_khnum | vm_c_t10_pak_pl_nazir_khnum
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f0/Nazir_SlickStyle_Skin_BO6.png/revision/latest?cb=20241119185611) <br>Slick Style | body_c_t10_pak_pl_nazir_shrapnel | head_c_t10_pak_pl_nazir_shrapnel | vm_c_t10_pak_pl_nazir_shrapnel
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/dc/Nazir_SlickStyleBlackCell_Skin_BO6.png/revision/latest?cb=20241220174630) <br>Slick Style BlackCell | body_c_t10_pak_pl_nazir_shrapnel_<br>blackcell | head_c_t10_pak_pl_nazir_shrapnel_<br>blackcell | vm_c_t10_pak_pl_nazir_shrapnel_<br>blackcell
+
 
 
 
