@@ -1,7 +1,7 @@
 
 # Crimson One
 
-![image](https://github.com/user-attachments/assets/152970fe-dd16-409e-874d-5faa6ff9d58d)
+<img width="3000" height="1000" alt="Header" src="https://github.com/user-attachments/assets/e511facc-3d4d-4c52-89d8-7352387bc657" />
 
 > [!IMPORTANT]
 > 
