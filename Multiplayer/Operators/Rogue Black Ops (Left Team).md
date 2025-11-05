@@ -1,6 +1,6 @@
 # Rogue Black Ops
 
-<img width="3000" height="1000" alt="Untitleddawd" src="https://github.com/user-attachments/assets/54b158c1-21e4-494c-8662-671949f5bca0" />
+<img width="3000" height="1000" alt="" src="https://github.com/user-attachments/assets/54b158c1-21e4-494c-8662-671949f5bca0" />
 
 > [!IMPORTANT]
 > 
