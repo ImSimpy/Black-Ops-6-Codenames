@@ -37,17 +37,27 @@
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
-| | | | |  
-| ![Icon](https://github.com/user-attachments/assets/8a7f986d-92bd-4d24-89c1-fecc853eaf33) <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/03/Park_FortunePossessed_Skin_BO6.png/revision/latest?cb=20250312212603) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
 | | | | | 
-| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/dd/Park_Leftenant_Skin_BO6.png/revision/latest?cb=20250828211208) <br> Leftenant | body_c_t10_gbr_pl_park_beret | head_c_t10_gbr_pl_park_beret | vm_c_t10_gbr_pl_park_beret |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/3e/Park_Stratus_Skin_BO6.png/revision/latest?cb=20250912222519) <br> Stratus | body_c_t10_gbr_pl_park_white | head_c_t10_gbr_pl_park_white | vm_c_t10_gbr_pl_park_white |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/5b/Park_ForestShadow_Skin_BO6.png/revision/latest?cb=20251016203020) <br> Forest Shadow | body_c_t10_gbr_pl_park_eldrich | head_c_t10_gbr_pl_park_eldrich | vm_c_t10_gbr_pl_park_eldrich |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/05/Park_FluidFury_Skin_BO6.png/revision/latest?cb=20250523222336) <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/6a/Park_SurvivorsGrit_Skin_BO6.png/revision/latest?cb=20251009221117) <br> Survivor's Grit | body_c_t10_gbr_pl_park_grind | head_c_t10_gbr_pl_park_grind | vm_c_t10_gbr_pl_park_grind |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/77/Park_SurvivorsGritBlackCell_Skin_BO6.png/revision/latest?cb=20251009221118) <br> Survivor's Grit BlackCell | body_c_t10_gbr_pl_park_grind_bc | head_c_t10_gbr_pl_park_grind_bc | vm_c_t10_gbr_pl_park_grind_bc |
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/09/Park_SurvivorsGuile_Skin_BO6.png/revision/latest?cb=20250403214949) <br> Survivor's Guile | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
-| | | | | 
+
 
 
 
