@@ -1,8 +1,7 @@
 # American Dad
 
-<img width="696" height="502" alt="2560px-American_dad_logo svg(2)" src="https://github.com/user-attachments/assets/696f56f5-9036-4630-a7f4-2f7057c62a05" />
 
-
+<img width="3000" height="2000" alt="Header" src="https://github.com/user-attachments/assets/ed8589c0-7c17-40c8-883c-b08fc4cae59c" />
 
 > [!IMPORTANT]
 > 
