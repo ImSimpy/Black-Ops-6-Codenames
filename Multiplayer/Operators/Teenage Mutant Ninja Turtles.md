@@ -19,11 +19,6 @@
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/ad/Raphael_Default_Skin_BO6.png/revision/latest?cb=20250223160718) <br>Raphael | body_c_t10_usa_pl_flycatcher_base_mld | head_c_t10_usa_pl_flycatcher_base | vm_c_t10_usa_pl_flycatcher_base |
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/d6/Michelangelo_Default_Skin_BO6.png/revision/latest?cb=20250223160717) <br>Michelangelo | body_c_t10_usa_pl_jay_base_mld | head_c_t10_usa_pl_jay_base  | vm_c_t10_usa_pl_jay_base |
-
-# Splinter
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/a2/Splinter_Default_Skin_BO6.png/revision/latest?cb=20250227234726) <br>Splinter | body_c_t10_usa_pl_buck_base | head_c_t10_usa_pl_buck_base | vm_c_t10_usa_pl_buck_base |
 
