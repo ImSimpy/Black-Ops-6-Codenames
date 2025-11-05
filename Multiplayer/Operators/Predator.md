@@ -1,6 +1,7 @@
-# The Predator
+# Predator
 
-![Header](https://static.wikia.nocookie.net/moviedatabase/images/b/bb/Predator_logo.png/revision/latest?cb=20220814155528)
+<img width="1008" height="630" alt="Predator_(franchise)_logsssssso" src="https://github.com/user-attachments/assets/5cf5c3d1-e598-41f5-8660-3cfc37cb9fd9" />
+
 
 > [!IMPORTANT]
 > 
@@ -35,3 +36,8 @@
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/14/Dek_Default_Skin_BO6.png/revision/latest?cb=20251016203016) <br>Dek | body_c_t10_usa_pl_caramel_base  | head_c_t10_usa_pl_caramel_base | vm_c_t10_usa_pl_caramel_base | 
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/6e/Dek_DekWithMask_Skin_BO6.png/revision/latest?cb=20251016203017) <br>Dek With Mask | body_c_t10_usa_pl_caramel_base_bc  | head_c_t10_usa_pl_caramel_base_bc | vm_c_t10_usa_pl_caramel_base_bc |
+
+
+
+
+
