@@ -1,6 +1,6 @@
 # Rogue Black Ops
 
-![image](https://github.com/user-attachments/assets/132ebd77-7d21-4be1-ad8b-88f53fa18b8e)
+<img width="3000" height="1000" alt="Untitleddawd" src="https://github.com/user-attachments/assets/54b158c1-21e4-494c-8662-671949f5bca0" />
 
 > [!IMPORTANT]
 > 
@@ -14,19 +14,23 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d0/Adler_Umbra_Skin_BO6.png/revision/latest?cb=20241119185549) <br>Umbra | body_c_t10_usa_pl_adler_viper | head_c_t10_usa_pl_adler_viper | vm_c_t10_usa_pl_adler_viper |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/d0/Adler_Umbra_Skin_BO6.png/revision/latest?cb=20241119185549) <br>Umbra | body_c_t10_usa_pl_adler_viper | head_c_t10_usa_pl_adler_viper | vm_c_t10_usa_pl_adler_viper |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br>Vibrant Serpent | body_c_t10_usa_pl_adler_rattle | head_c_t10_usa_pl_adler_rattle | vm_c_t10_usa_pl_adler_rattle |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/17/Adler_Dadler_Skin_BO6.png/revision/latest?cb=20250606123628) <br> Dadler | body_c_t10_usa_pl_adler_dadler | head_c_t10_usa_pl_adler_dadler | vm_c_t10_usa_pl_adler_dadler |
 | | | | | 
-|  ![image](https://github.com/user-attachments/assets/484291bc-df83-46da-b813-34f8c95e0221) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/af/Adler_NuketownMayor_Skin_BO6.png/revision/latest?cb=20250904224242) <br> Nuketown Mayor | body_c_t10_usa_pl_adler_plastic | head_c_t10_usa_pl_adler_plastic | vm_c_t10_usa_pl_adler_plastic |
 | | | | | 
-| ![Preview](https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png) <br> Dadler | body_c_t10_usa_pl_adler_dadler | head_c_t10_usa_pl_adler_dadler | vm_c_t10_usa_pl_adler_dadler |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/3f/Adler_Outdoorsman_Skin_BO6.png/revision/latest?cb=20251009220933) <br> Outdoorsman | body_c_t10_usa_pl_adler_prep | head_c_t10_usa_pl_adler_prep | vm_c_t10_usa_pl_adler_prep |
 | | | | | 
-![image](https://github.com/user-attachments/assets/07463254-8d1f-4574-a68b-cd32632d2bf6) <br> Truth Chaser | body_c_t10_usa_pl_adler_extract | head_c_t10_usa_pl_adler_extract | vm_c_t10_usa_pl_adler_extract |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/84/Adler_HeraldOfTheHay_Skin_BO6.png/revision/latest?cb=20251009220932) <br> Herald of the Hay | body_c_t10_usa_pl_adler_crow | head_c_t10_usa_pl_adler_crow | vm_c_t10_usa_pl_adler_crow |
 | | | | | 
-![image](https://github.com/user-attachments/assets/dde9f80e-1c08-4090-a892-f24920bad1ba) <br> Truth Chaser BlackCell | body_c_t10_usa_pl_adler_extract_bc | head_c_t10_usa_pl_adler_extract_bc | vm_c_t10_usa_pl_adler_extract_bc |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/fc/Adler_VibrantSerpent_Skin_BO6.png/revision/latest?cb=20250201180605) <br>Vibrant Serpent | body_c_t10_usa_pl_adler_rattle | head_c_t10_usa_pl_adler_rattle | vm_c_t10_usa_pl_adler_rattle |
 | | | | | 
-
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/af/Adler_ArchieAtom_Skin_BO6.png/revision/latest?cb=20250516001053) <br>Archie Atom | body_c_t10_usa_pl_adler_atom | head_c_t10_usa_pl_adler_atom | vm_c_t10_usa_pl_adler_atom |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bd/Adler_TruthChaser_Skin_BO6.png/revision/latest?cb=20250601152347) <br> Truth Chaser | body_c_t10_usa_pl_adler_extract | head_c_t10_usa_pl_adler_extract | vm_c_t10_usa_pl_adler_extract |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/30/Adler_TruthChaserBlackCell_Skin_BO6.png/revision/latest?cb=20250601152348) <br> Truth Chaser BlackCell | body_c_t10_usa_pl_adler_extract_bc | head_c_t10_usa_pl_adler_extract_bc | vm_c_t10_usa_pl_adler_extract_bc | 
 
 
 # Helen Park
@@ -34,15 +38,15 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | |  
-| ![image](https://github.com/user-attachments/assets/8a7f986d-92bd-4d24-89c1-fecc853eaf33) <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
+| ![Icon](https://github.com/user-attachments/assets/8a7f986d-92bd-4d24-89c1-fecc853eaf33) <br> Fluid Fury | body_c_t10_gbr_pl_park_lava | head_c_t10_gbr_pl_park_lava | vm_c_t10_gbr_pl_park_lava |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/03/Park_FortunePossessed_Skin_BO6.png/revision/latest?cb=20250312212603) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/03/Park_FortunePossessed_Skin_BO6.png/revision/latest?cb=20250312212603) <br> Fortune Possessed | body_c_t10_gbr_pl_park_paddy | head_c_t10_gbr_pl_park_paddy | vm_c_t10_gbr_pl_park_paddy |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9c/Park_Oblivion_Skin_BO6.png/revision/latest?cb=20241028013640) <br>Oblivion | body_c_t10_gbr_pl_park_nightshade | head_c_t10_gbr_pl_park_nightshade | vm_c_t10_gbr_pl_park_nightshade |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/09/Park_SurvivorsGuile_Skin_BO6.png/revision/latest?cb=20250403214949) <br> Survivor's Guile | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/09/Park_SurvivorsGuile_Skin_BO6.png/revision/latest?cb=20250403214949) <br> Survivor's Guile | body_c_t10_gbr_pl_park_sickle | head_c_t10_gbr_pl_park_sickle | vm_c_t10_gbr_pl_park_sickle |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b9/Park_SurvivorsGuileBlackCell_Skin_BO6.png/revision/latest?cb=20250403214950) <br> Survivor's Guile BlackCell | body_c_t10_gbr_pl_park_shovel | head_c_t10_gbr_pl_park_shovel | vm_c_t10_gbr_pl_park_shovel |
 | | | | | 
 
 
