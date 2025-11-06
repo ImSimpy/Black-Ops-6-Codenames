@@ -3,7 +3,7 @@
 > [!Tip]
 > 
 > Click any Image, It will open up the related Markdown file.
->
+> [the hub is a prototype.]
 
 
 
