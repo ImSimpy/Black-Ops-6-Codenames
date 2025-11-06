@@ -1,4 +1,4 @@
-# something
+# <p align="center"> Operator Hub  </p>
 
 
 <p align="center">
@@ -6,6 +6,9 @@
   <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Crimson%20One.md"><img src="https://static.wikia.nocookie.net/callofduty/images/4/42/Crimson_One_Faction_Icon_BO6.png/revision/latest?cb=20240907155348" width="400"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/CDL.md"><img src="https://github.com/user-attachments/assets/f7b5c15c-b3ee-427f-ad0b-696a984753eb" width="500"></a>
+</p>
 
 
 <p align="center">
@@ -23,6 +26,3 @@
   <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/The%20Terminator.md"><img src="https://github.com/user-attachments/assets/a21ef7fe-7f0b-4f26-9596-42ce1d58974a" width="200"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/CDL.md"><img src="https://github.com/user-attachments/assets/f7b5c15c-b3ee-427f-ad0b-696a984753eb" width="500"></a>
-</p>
