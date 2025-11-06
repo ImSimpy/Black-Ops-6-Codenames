@@ -98,29 +98,38 @@
 
 
 
-
 # Tamira "Westpoint" Chambers
 
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2e/Westpoint_Off_Grid_Skin_BO6.png/revision/latest?cb=20241028013823) <br>Off grid | body_c_t10_usa_pl_westpoint_redcell | head_c_t10_usa_pl_westpoint_redcell | vm_c_t10_usa_pl_westpoint_redcell
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2e/Westpoint_Off_Grid_Skin_BO6.png/revision/latest?cb=20241028013823) <br>Off grid | body_c_t10_usa_pl_westpoint_redcell | head_c_t10_usa_pl_westpoint_redcell | vm_c_t10_usa_pl_westpoint_redcell
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/8c93082a-3871-4c5d-ae26-bf3282e6ca67) <br> Sitrep | body_c_t10_usa_pl_westpoint_delta | head_c_t10_usa_pl_westpoint_delta  | vm_c_t10_usa_pl_westpoint_delta
+| ![Icon](https://github.com/user-attachments/assets/8c93082a-3871-4c5d-ae26-bf3282e6ca67) <br>Sitrep | body_c_t10_usa_pl_westpoint_delta | head_c_t10_usa_pl_westpoint_delta  | vm_c_t10_usa_pl_westpoint_delta
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b4/Westpoint_Squash_Skin_BO6.png/revision/latest?cb=20241028013826) <br>Squash | body_c_t10_usa_pl_westpoint_squash | head_c_t10_usa_pl_westpoint_squash | vm_c_t10_usa_pl_westpoint_squash
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b4/Westpoint_Squash_Skin_BO6.png/revision/latest?cb=20241028013826) <br>Squash | body_c_t10_usa_pl_westpoint_squash | head_c_t10_usa_pl_westpoint_squash | vm_c_t10_usa_pl_westpoint_squash
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/75/Westpoint_Squish_Skin_BO6.png/revision/latest?cb=20241028013831) <br>Squish| body_c_t10_usa_pl_westpoint_squish | head_c_t10_usa_pl_westpoint_squish | vm_c_t10_usa_pl_westpoint_squish
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/75/Westpoint_Squish_Skin_BO6.png/revision/latest?cb=20241028013831) <br>Squish| body_c_t10_usa_pl_westpoint_squish | head_c_t10_usa_pl_westpoint_squish | vm_c_t10_usa_pl_westpoint_squish
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/25/Westpoint_BogBanshee_Skin_BO6.png/revision/latest?cb=20250201180655) <br>Bog Banshee | body_c_t10_usa_pl_westpoint_mire | head_c_t10_usa_pl_westpoint_mire | vm_c_t10_usa_pl_westpoint_mire
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/25/Westpoint_BogBanshee_Skin_BO6.png/revision/latest?cb=20250201180655) <br>Bog Banshee | body_c_t10_usa_pl_westpoint_mire | head_c_t10_usa_pl_westpoint_mire | vm_c_t10_usa_pl_westpoint_mire
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/92/Westpoint_DuneWraith_Skin_BO6.png/revision/latest?cb=20241119185623) <br>Dune Wraith | body_c_t10_usa_pl_westpoint_sand | head_c_t10_usa_pl_westpoint_sand | vm_c_t10_usa_pl_westpoint_sand
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/92/Westpoint_DuneWraith_Skin_BO6.png/revision/latest?cb=20241119185623) <br>Dune Wraith | body_c_t10_usa_pl_westpoint_sand | head_c_t10_usa_pl_westpoint_sand | vm_c_t10_usa_pl_westpoint_sand
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b2/Westpoint_Sinslayer_Skin_BO6.png/revision/latest?cb=20250214011055) <br>Sinslayer | body_c_t10_usa_pl_westpoint_oracle | head_c_t10_usa_pl_westpoint_oracle | vm_c_t10_usa_pl_westpoint_oracle
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/01/Westpoint_DustyVenture_Skin_BO6.png/revision/latest?cb=20250822223818) <br>Dusty Venture | body_c_t10_usa_pl_westpoint_storm | head_c_t10_usa_pl_westpoint_storm | vm_c_t10_usa_pl_westpoint_storm
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/47/Westpoint_FoliaBrasileira_Skin_BO6.png/revision/latest?cb=20250223214951) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b2/Westpoint_Sinslayer_Skin_BO6.png/revision/latest?cb=20250214011055) <br>Sinslayer | body_c_t10_usa_pl_westpoint_oracle | head_c_t10_usa_pl_westpoint_oracle | vm_c_t10_usa_pl_westpoint_oracle
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo65fc80ad231c3c9cce6c021ddf1a81d1e36127369c8a0d05ecf702b3abb8d2ae0_large.webp) <br>Shieldmaiden | body_c_t10_usa_pl_westpoint_paladin | head_c_t10_usa_pl_westpoint_paladin | vm_c_t10_usa_pl_westpoint_paladin
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/de/Westpoint_Paramedic_Skin_BO6.png/revision/latest?cb=20250812231105) <br>Paramedic | body_c_t10_usa_pl_westpoint_medic | head_c_t10_usa_pl_westpoint_medic | vm_c_t10_usa_pl_westpoint_medic
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/47/Westpoint_FoliaBrasileira_Skin_BO6.png/revision/latest?cb=20250223214951) <br>Folia Brasileira | body_c_t10_usa_pl_westpoint_rio | head_c_t10_usa_pl_westpoint_rio | vm_c_t10_usa_pl_westpoint_rio
+| | | | | 
+| ![Icon](https://stockpile.detonated.com/static/bundle_images/resized/bo65fc80ad231c3c9cce6c021ddf1a81d1e36127369c8a0d05ecf702b3abb8d2ae0_large.webp) <br>Shieldmaiden | body_c_t10_usa_pl_westpoint_paladin | head_c_t10_usa_pl_westpoint_paladin | vm_c_t10_usa_pl_westpoint_paladin
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/98/Westpoint_PlanetaryMatriarch_Skin_BO6.png/revision/latest?cb=20250709222849) <br>Planetary Matriarch | body_c_t10_usa_pl_westpoint_alien | head_c_t10_usa_pl_westpoint_alien | vm_c_t10_usa_pl_westpoint_alien
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8f/Westpoint_MechanizedBrain_Skin_BO6.png/revision/latest?cb=20251009221130) <br>Mechanized Brain | body_c_t10_usa_pl_westpoint_brain | head_c_t10_usa_pl_westpoint_brain | vm_c_t10_usa_pl_westpoint_brain
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ed/Westpoint_DragonKnight_Skin_BO6.png/revision/latest?cb=20241119185622) <br>Dragon Knight | body_c_t10_usa_pl_westpoint_dragon | head_c_t10_usa_pl_westpoint_dragon | vm_c_t10_usa_pl_westpoint_dragon
 
 
 
@@ -162,37 +171,51 @@
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/64/Alvarez_Nomad_Skin_BO6.png/revision/latest?cb=20241028013534) <br>Nomad | body_c_t10_pri_pl_yara_rogue | head_c_t10_pri_pl_yara_rogue | vm_c_t10_pri_pl_yara_rogue 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/64/Alvarez_Nomad_Skin_BO6.png/revision/latest?cb=20241028013534) <br>Nomad | body_c_t10_pri_pl_yara_rogue_mld | head_c_t10_pri_pl_yara_rogue | vm_c_t10_pri_pl_yara_rogue 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/40/Alvarez_Get_Bent_Skin_BO6.png/revision/latest?cb=20241119185600) <br> Get Bent | body_c_t10_pri_pl_yara_plaid| head_c_t10_pri_pl_yara_plaid | vm_c_t10_pri_pl_yara_plaid
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/40/Alvarez_Get_Bent_Skin_BO6.png/revision/latest?cb=20241119185600) <br> Get Bent | body_c_t10_pri_pl_yara_plaid| head_c_t10_pri_pl_yara_plaid | vm_c_t10_pri_pl_yara_plaid
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7b/Alvarez_Reverb_Skin_BO6.png/revision/latest?cb=20241220174629) <br>Reverb | body_c_t10_pri_pl_yara_takedown | head_c_t10_pri_pl_yara_takedown | vm_c_t10_pri_pl_yara_takedown  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/63/Alvarez_Scavvy_Skin_BO6.png/revision/latest?cb=20251024173951) <br>Scavvy | body_c_t10_pri_pl_yara_trophyhunter | head_c_t10_pri_pl_yara_trophyhunter | vm_c_t10_pri_pl_yara_trophyhunter | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a8/Alvarez_VacationVibes_Skin_BO6.png/revision/latest?cb=20250223214950) <br>Vacation Vibes | body_c_t10_pri_pl_yara_cdl | head_c_t10_pri_pl_yara_cdl| vm_c_t10_pri_pl_yara_cdl 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/da/Alvarez_Wilder_Skin_BO6.png/revision/latest?cb=20250812230705) <br>Wilder | body_c_t10_pri_pl_yara_gator | head_c_t10_pri_pl_yara_gator | vm_c_t10_pri_pl_yara_gator | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/18/Alvarez_Cruiser_Skin_BO6.png/revision/latest?cb=20241128214954) <br>Cruiser | body_c_t10_pri_pl_yara_tundra | head_c_t10_pri_pl_yara_tundra | vm_c_t10_pri_pl_yara_tundra
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7b/Alvarez_Reverb_Skin_BO6.png/revision/latest?cb=20241220174629) <br>Reverb | body_c_t10_pri_pl_yara_takedown | head_c_t10_pri_pl_yara_takedown | vm_c_t10_pri_pl_yara_takedown  
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/be/Alvarez_Speedtrap_Skin_BO6.png/revision/latest?cb=20250201180608) <br>Speedtrap | body_c_t10_pri_pl_yara_baiku | head_c_t10_pri_pl_yara_baiku | vm_c_t10_pri_pl_yara_baiku |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ea/Alvarez_LaJaguar_Skin_BO6.png/revision/latest?cb=20250601155615) <br>La Jaguar | body_c_t10_pri_pl_yara_tiger | head_c_t10_pri_pl_yara_tiger | vm_c_t10_pri_pl_yara_tiger | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/19/Alvarez_Polyphonic_Skin_BO6.png/revision/latest?cb=20250312212601) <br>Polyphonic | body_c_t10_pri_pl_yara_disk  | head_c_t10_pri_pl_yara_disk | vm_c_t10_pri_pl_yara_disk 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/a8/Alvarez_VacationVibes_Skin_BO6.png/revision/latest?cb=20250223214950) <br>Vacation Vibes | body_c_t10_pri_pl_yara_cdl | head_c_t10_pri_pl_yara_cdl| vm_c_t10_pri_pl_yara_cdl 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/39/Alvarez_BionicBeats_Skin_BO6.png/revision/latest?cb=20250312212554) <br>Bionic Beats | body_c_t10_pri_pl_yara_disk_alt  | head_c_t10_pri_pl_yara_disk_alt | vm_c_t10_pri_pl_yara_disk_alt
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/fe/Alvarez_Nikoniko_Skin_BO6.png/revision/latest?cb=20250731213313) <br>Nikoniko | body_c_t10_pri_pl_yara_chibi | head_c_t10_pri_pl_yara_chibi | vm_c_t10_pri_pl_yara_chibi | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/87/Alvarez_Unleash_The_Truth_Skin_BO6.png/revision/latest?cb=20241028013539) <br>Unleash The Truth | body_c_t10_pri_pl_yara_monster | head_c_t10_pri_pl_yara_monster | vm_c_t10_pri_pl_yara_monster
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b9/Alvarez_Madwhistler_Skin_BO6.png/revision/latest?cb=20250812230703) <br>Mad Whistler | body_c_t10_pri_pl_yara_clown | head_c_t10_pri_pl_yara_clown | vm_c_t10_pri_pl_yara_clown | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/88/Alvarez_Cold_Trail_Skin_BO6.png/revision/latest?cb=20241028013530) <br>Cold Trail | body_c_t10_pri_pl_yara_monster<br>_blue | head_c_t10_pri_pl_yara_monster<br>_blue | vm_c_t10_pri_pl_yara_monster<br>_blue
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/17/Alvarez_Neovira_Skin_BO6.png/revision/latest?cb=20250918224133) <br>Neovira | body_c_t10_pri_pl_yara_mechhuman | head_c_t10_pri_pl_yara_mechhuman | vm_c_t10_pri_pl_yara_mechhuman | 
+| | | | |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/18/Alvarez_Cruiser_Skin_BO6.png/revision/latest?cb=20241128214954) <br>Cruiser | body_c_t10_pri_pl_yara_tundra | head_c_t10_pri_pl_yara_tundra | vm_c_t10_pri_pl_yara_tundra
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7f/Alvarez_The_Beast_Inside_Skin_BO6.png/revision/latest?cb=20241028013535) <br>The Beast Inside | body_c_t10_pri_pl_yara_monster<br>_grey | head_c_t10_pri_pl_yara_monster<br>_grey | vm_c_t10_pri_pl_yara_monster<br>_grey
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/be/Alvarez_Speedtrap_Skin_BO6.png/revision/latest?cb=20250201180608) <br>Speedtrap | body_c_t10_pri_pl_yara_baiku | head_c_t10_pri_pl_yara_baiku | vm_c_t10_pri_pl_yara_baiku |
+| | | | |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/81/Alvarez_LadyQuinn_Skin_BO6.png/revision/latest?cb=20250904224244) <br>Lady-quinn | body_c_t10_pri_pl_yara_retro | head_c_t10_pri_pl_yara_retro | vm_c_t10_pri_pl_yara_retro | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9a/Alvarez_Flight_Path_Skin_BO6.png/revision/latest?cb=20241119185559) <br>Flight Path| body_c_t10_pri_pl_yara_flight | head_c_t10_pri_pl_yara_flight | vm_c_t10_pri_pl_yara_flight
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/11/Alvarez_MercTest_Skin_BO6.png/revision/latest?cb=20250904224245) <br>Merc Test | body_c_t10_pri_pl_yara_plastic | head_c_t10_pri_pl_yara_plastic | vm_c_t10_pri_pl_yara_plastic | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/70/Alvarez_ArcaneConquerer_Skin_BO6.png/revision/latest?cb=20250508215919) <br>Arcana Conqueror | body_c_t10_pri_pl_yara_magic | head_c_t10_pri_pl_yara_magic| vm_c_t10_pri_pl_yara_magic| 
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/c5babd52-d9a9-4174-ad7c-b59567e1bbcb) <br>Arcana Conqueror | body_c_t10_pri_pl_yara_magic | head_c_t10_pri_pl_yara_magic| vm_c_t10_pri_pl_yara_magic| 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9f/Alvarez_SolarDiviner_Skin_BO6.png/revision/latest?cb=20250508215921) <br>Solar Diviner | body_c_t10_pri_pl_yara_magic_alt | head_c_t10_pri_pl_yara_magic_alt| vm_c_t10_pri_pl_yara_magic_alt | 
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/b8771808-ca2c-4647-8f0e-4cf00813f374) <br>Solar Diviner | body_c_t10_pri_pl_yara_magic_alt | head_c_t10_pri_pl_yara_magic_alt| vm_c_t10_pri_pl_yara_magic_alt | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/19/Alvarez_Polyphonic_Skin_BO6.png/revision/latest?cb=20250312212601) <br>Polyphonic | body_c_t10_pri_pl_yara_disk  | head_c_t10_pri_pl_yara_disk | vm_c_t10_pri_pl_yara_disk 
 | | | | | 
-![image](https://github.com/user-attachments/assets/0b106e71-34e8-4324-8c32-dfab4fb55bc7) <br> La Jaguar | body_c_t10_pri_pl_yara_tiger | head_c_t10_pri_pl_yara_tiger | vm_c_t10_pri_pl_yara_tiger | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/39/Alvarez_BionicBeats_Skin_BO6.png/revision/latest?cb=20250312212554) <br>Bionic Beats | body_c_t10_pri_pl_yara_disk_alt  | head_c_t10_pri_pl_yara_disk_alt | vm_c_t10_pri_pl_yara_disk_alt
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/87/Alvarez_Unleash_The_Truth_Skin_BO6.png/revision/latest?cb=20241028013539) <br>Unleash The Truth | body_c_t10_pri_pl_yara_monster | head_c_t10_pri_pl_yara_monster | vm_c_t10_pri_pl_yara_monster
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/88/Alvarez_Cold_Trail_Skin_BO6.png/revision/latest?cb=20241028013530) <br>Cold Trail | body_c_t10_pri_pl_yara_monster<br>_blue | head_c_t10_pri_pl_yara_monster<br>_blue | vm_c_t10_pri_pl_yara_monster<br>_blue
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7f/Alvarez_The_Beast_Inside_Skin_BO6.png/revision/latest?cb=20241028013535) <br>The Beast Inside | body_c_t10_pri_pl_yara_monster<br>_grey | head_c_t10_pri_pl_yara_monster<br>_grey | vm_c_t10_pri_pl_yara_monster<br>_grey
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9a/Alvarez_Flight_Path_Skin_BO6.png/revision/latest?cb=20241119185559) <br>Flight Path| body_c_t10_pri_pl_yara_flight | head_c_t10_pri_pl_yara_flight | vm_c_t10_pri_pl_yara_flight
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/fb/Alvarez_Flight_Path_BlackCell_Skin_BO6.png/revision/latest?cb=20241119185558) <br>Flight Path BlackCell | body_c_t10_pri_pl_yara_flight<br>_blackcell | head_c_t10_pri_pl_yara_flight<br>_blackcell| vm_c_t10_pri_pl_yara_flight<br>_blackcell | 
 
 
 
