@@ -1,6 +1,6 @@
 # Squid Game
 
-![Header](https://github.com/user-attachments/assets/68d2573d-5eb3-421f-9aea-85ed8e385f70)
+<img width="2896" height="1401" alt="pngimg com - squid_game_PNG37" src="https://github.com/user-attachments/assets/0d474300-6e9d-42fd-9cc9-2ea85d1dfeed" />
 
 > [!IMPORTANT]
 > 
