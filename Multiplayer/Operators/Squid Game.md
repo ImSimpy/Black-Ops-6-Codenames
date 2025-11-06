@@ -1,6 +1,6 @@
 # Squid Game
 
-<img width="2896" height="1401" alt="pngimg com - squid_game_PNG37" src="https://github.com/user-attachments/assets/0d474300-6e9d-42fd-9cc9-2ea85d1dfeed" />
+![Header](https://image.tmdb.org/t/p/original/6YFWTX7fiGjWpsnJWLLV4RSbJWd.png)
 
 > [!IMPORTANT]
 > 
