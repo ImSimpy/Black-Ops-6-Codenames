@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Crimson%20One%20(Right%20Team).md"><img src="https://static.wikia.nocookie.net/callofduty/images/9/9f/Rogue_Black_Ops_Faction_Icon_BO6.png/revision/latest?cb=20240907155338" width="400"></a>
-  <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Rogue%20Black%20Ops%20(Left%20Team).md"><img src="https://static.wikia.nocookie.net/callofduty/images/4/42/Crimson_One_Faction_Icon_BO6.png/revision/latest?cb=20240907155348" width="400"></a>
+  <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Rogue%20Black%20Ops%20(Left%20Team).md"><img src="https://static.wikia.nocookie.net/callofduty/images/9/9f/Rogue_Black_Ops_Faction_Icon_BO6.png/revision/latest?cb=20240907155338" width="400"></a>
+  <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Crimson%20One%20(Right%20Team).md"><img src="https://static.wikia.nocookie.net/callofduty/images/4/42/Crimson_One_Faction_Icon_BO6.png/revision/latest?cb=20240907155348" width="400"></a>
 </p>
 
 
