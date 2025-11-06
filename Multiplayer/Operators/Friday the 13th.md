@@ -1,5 +1,8 @@
 # Friday The 13th
 
+<!-- THIS FILE IS FINISHED🥳 -->
+<!-- ONLY CHANGES REQUIRED ARE FIXES OR UPGRADES🎉 -->
+
 ![Header](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Friday_the_13th_%28franchise%29_logo.svg/1200px-Friday_the_13th_%28franchise%29_logo.svg.png)
 
 
