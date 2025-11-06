@@ -1,6 +1,6 @@
 # Teenage Mutant Ninja Turtles
 
-![Header](https://github.com/user-attachments/assets/84b42cce-e19c-43f7-8857-6d37cbb1a3cb)
+![Header](https://1000logos.net/wp-content/uploads/2023/01/Ninja-Turtles-Logo-1987.png)
 
 > [!IMPORTANT]
 > 
