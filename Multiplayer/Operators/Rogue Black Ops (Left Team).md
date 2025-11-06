@@ -194,38 +194,57 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/0b106e71-34e8-4324-8c32-dfab4fb55bc7) <br> La Jaguar | body_c_t10_pri_pl_yara_tiger | head_c_t10_pri_pl_yara_tiger | vm_c_t10_pri_pl_yara_tiger | 
 
- #  Callum Payne
+
+
+#  Callum Payne
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d3/Payne_Safeguard_Skin_BO6.png/revision/latest?cb=20241028013811) <br>Safeguard | body_c_t10_gbr_pl_ratcliff_rogue | head_c_t10_gbr_pl_ratcliff_rogue | vm_c_t10_gbr_pl_ratcliff_rogue | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/d3/Payne_Safeguard_Skin_BO6.png/revision/latest?cb=20241028013811) <br>Safeguard | body_c_t10_gbr_pl_ratcliff_rogue | head_c_t10_gbr_pl_ratcliff_rogue | vm_c_t10_gbr_pl_ratcliff_rogue | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d3/Payne_My_Name_Is_Skin_BO6.png/revision/latest?cb=20241028013809) <br>My Name Is... | body_c_t10_gbr_pl_ratcliff_bo1 | head_c_t10_gbr_pl_ratcliff_bo1 | vm_c_t10_gbr_pl_ratcliff_bo1 | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/d3/Payne_My_Name_Is_Skin_BO6.png/revision/latest?cb=20241028013809) <br>My Name Is... | body_c_t10_gbr_pl_ratcliff_bo1 | head_c_t10_gbr_pl_ratcliff_bo1 | vm_c_t10_gbr_pl_ratcliff_bo1 | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f4/Payne_SC1_Skin_BO6.png/revision/latest?cb=20241028013812) <br>SC1  | body_c_t10_gbr_pl_ratcliff_code | head_c_t10_gbr_pl_ratcliff_code | vm_c_t10_gbr_pl_ratcliff_code | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/af/Payne_Hotshot_Skin_BO6.png/revision/latest?cb=20250812230255) <br>Hotshot | body_c_t10_gbr_pl_ratcliff_patch | head_c_t10_gbr_pl_ratcliff_patch | vm_c_t10_gbr_pl_ratcliff_patch |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5b/Payne_Fixer_Skin_BO6.png/revision/latest?cb=20241119221807) <br>Fixer  | body_c_t10_gbr_pl_ratcliff_bodyguard | head_c_t10_gbr_pl_ratcliff_bodyguard | vm_c_t10_gbr_pl_ratcliff_bodyguard |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/5d/Payne_ParanormalInvestigator_Skin_BO6.png/revision/latest?cb=20251009221119) <br>Paranormal Investigator | body_c_t10_gbr_pl_ratcliff_record | head_c_t10_gbr_pl_ratcliff_record | vm_c_t10_gbr_pl_ratcliff_record |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/9e/Payne_WardensFan_Skin_BO6.png/revision/latest?cb=20250403215207) <br>Wardens Fan  | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f4/Payne_SC1_Skin_BO6.png/revision/latest?cb=20241028013812) <br>SC1 | body_c_t10_gbr_pl_ratcliff_code | head_c_t10_gbr_pl_ratcliff_code | vm_c_t10_gbr_pl_ratcliff_code | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/df/Payne_VerdanskFan_Skin_BO6.png/revision/latest?cb=20250403215206) <br>Verdansk Fan | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/01/Payne_Uniform_Skin_BO6.png/revision/latest?cb=20250601152932) <br>Uniform | body_c_t10_gbr_pl_ratcliff_disguise | head_c_t10_gbr_pl_ratcliff_disguise | vm_c_t10_gbr_pl_ratcliff_disguise |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic  | body_c_t10_gbr_pl_ratcliff_vertigo | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/5b/Payne_Fixer_Skin_BO6.png/revision/latest?cb=20241119221807) <br>Fixer | body_c_t10_gbr_pl_ratcliff_bodyguard | head_c_t10_gbr_pl_ratcliff_bodyguard | vm_c_t10_gbr_pl_ratcliff_bodyguard |  
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br> Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/25/Payne_TreasureSeeker_Skin_BO6.png/revision/latest?cb=20250508215929) <br>Treasure Seeker | body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/1418286c-ee0b-490b-8a36-8659f2289357) <br>Treasure Seeker| body_c_t10_gbr_pl_ratcliff_cdl | head_c_t10_gbr_pl_ratcliff_cdl | vm_c_t10_gbr_pl_ratcliff_cdl | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c4/Payne_SASDirective_Skin_BO6.png/revision/latest?cb=20250828211209) <br>SAS Directive | body_c_t10_gbr_pl_ratcliff_beret | head_c_t10_gbr_pl_ratcliff_beret | vm_c_t10_gbr_pl_ratcliff_beret |
 | | | | | 
-|  ![image](https://github.com/user-attachments/assets/ba998ef4-dec5-487c-baa4-31c59230bcb0) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/42/Payne_HippieFree_Skin_BO6.png/revision/latest?cb=20251009135358) <br>Hippie Free | body_c_t10_gbr_pl_ratcliff_mellow | head_c_t10_gbr_pl_ratcliff_mellow | vm_c_t10_gbr_pl_ratcliff_mellow |
 | | | | | 
-![image](https://github.com/user-attachments/assets/dc91b1ac-5329-49ae-a994-4acf898f8a26) <br> Uniform | body_c_t10_gbr_pl_ratcliff_disguise | head_c_t10_gbr_pl_ratcliff_disguise | vm_c_t10_gbr_pl_ratcliff_disguise |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ed/Payne_SpiritPumpkin_Skin_BO6.png/revision/latest?cb=20251019002143) <br>Spirit Pumpkin | body_c_t10_gbr_pl_ratcliff_hunt | head_c_t10_gbr_pl_ratcliff_hunt | vm_c_t10_gbr_pl_ratcliff_hunt |
 | | | | | 
-![image](https://github.com/user-attachments/assets/ed252773-472e-41c2-a2a0-79c5cd0beedf) <br> Uniform BlackCell | body_c_t10_gbr_pl_ratcliff_disguise_bc | head_c_t10_gbr_pl_ratcliff_disguise_bc | vm_c_t10_gbr_pl_ratcliff_disguise_bc |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9e/Payne_WardensFan_Skin_BO6.png/revision/latest?cb=20250403215207) <br>Wardens Fan | body_c_t10_gbr_pl_ratcliff_wardens | head_c_t10_gbr_pl_ratcliff_wardens | vm_c_t10_gbr_pl_ratcliff_wardens | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/df/Payne_VerdanskFan_Skin_BO6.png/revision/latest?cb=20250403215206) <br>Verdansk Fan | body_c_t10_gbr_pl_ratcliff_verdansk | head_c_t10_gbr_pl_ratcliff_verdansk | vm_c_t10_gbr_pl_ratcliff_verdansk | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/92/Payne_Stallion_Skin_BO6.png/revision/latest?cb=20250704143707) <br>Stallion | body_c_t10_gbr_pl_ratcliff_horse | head_c_t10_gbr_pl_ratcliff_horse | vm_c_t10_gbr_pl_ratcliff_horse |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2d/Payne_Dieceratops_Skin_BO6.png/revision/latest?cb=20250705002905) <br>Die-ceratops | body_c_t10_gbr_pl_ratcliff_dino | head_c_t10_gbr_pl_ratcliff_dino | vm_c_t10_gbr_pl_ratcliff_dino |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7a/Payne_Plasmic_Skin_BO6.png/revision/latest?cb=20250120221217) <br>Plasmic | body_c_t10_gbr_pl_ratcliff_vertigo | head_c_t10_gbr_pl_ratcliff_vertigo | vm_c_t10_gbr_pl_ratcliff_vertigo | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/33/Payne_WizardOfCOD_Skin_BO6.png/revision/latest?cb=20250227234724) <br>Wizard of COD | body_c_t10_gbr_pl_ratcliff_wizard | head_c_t10_gbr_pl_ratcliff_wizard | vm_c_t10_gbr_pl_ratcliff_wizard | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/cb/Payne_MischiefOfCommensals_Skin_BO6.png/revision/latest?cb=20251016203021) <br>Mischief of Commensals | body_c_t10_gbr_pl_ratcliff_rats | head_c_t10_gbr_pl_ratcliff_rats | vm_c_t10_gbr_pl_ratcliff_rats |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/fc/Payne_Disavowed_Skin_BO6.png/revision/latest?cb=20250508215928) <br>Disavowed| body_c_t10_gbr_pl_ratcliff_classified | head_c_t10_gbr_pl_ratcliff_classified | vm_c_t10_gbr_pl_ratcliff_classified |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/85/Payne_UniformBlackCell_Skin_BO6.png/revision/latest?cb=20250601152933) <br>Uniform BlackCell | body_c_t10_gbr_pl_ratcliff_disguise_bc | head_c_t10_gbr_pl_ratcliff_disguise_bc | vm_c_t10_gbr_pl_ratcliff_disguise_bc |
 
 
 
 # Troy Marshall
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | |
@@ -268,7 +287,7 @@
 
 
 
- #  Sevati Dumas
+#  Sevati Dumas
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
