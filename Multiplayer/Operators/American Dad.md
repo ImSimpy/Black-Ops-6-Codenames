@@ -1,5 +1,8 @@
 # American Dad
 
+<!-- THIS FILE IS FINISHED🥳 -->
+<!-- ONLY CHANGES REQUIRED ARE FIXES OR UPGRADES🎉 -->
+
 
 <img width="3000" height="2000" alt="Header" src="https://github.com/user-attachments/assets/ed8589c0-7c17-40c8-883c-b08fc4cae59c" />
 
