@@ -1,6 +1,6 @@
 # CDL
 
-![image](https://github.com/user-attachments/assets/a5cba8db-3438-402e-a743-03db51ad8e03)
+![image](https://github.com/user-attachments/assets/8e4f49d1-9ece-479e-a186-1a328ff3e303)
 
 
 
@@ -137,5 +137,6 @@
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/6/6e/WZTop250Competitor_Skin_BO6.png/revision/latest?cb=20250104110501) <br>WZ Top 250 Competitor | body_c_t10_usa_pl_cdl_home_ranked_wz_t250 | head_c_t10_usa_pl_cdl_home_ranked_wz_t250 | vm_c_t10_usa_pl_cdl_home_ranked_wz_t250 | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/71/WZTop250Champion_Skin_BO6.png/revision/latest?cb=20250104110500) <br>WZ Top 250 Champion | body_c_t10_usa_pl_cdl_home_ranked_wz_number1 | head_c_t10_usa_pl_cdl_home_ranked_wz_number1 | vm_c_t10_usa_pl_cdl_home_ranked_wz_number1 | 
+
 
 
