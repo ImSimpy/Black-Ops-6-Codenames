@@ -1,5 +1,8 @@
 # Squid Game
 
+<!-- THIS FILE IS FINISHED🥳 -->
+<!-- ONLY CHANGES REQUIRED ARE FIXES OR UPGRADES🎉 -->
+
 ![Header](https://image.tmdb.org/t/p/original/6YFWTX7fiGjWpsnJWLLV4RSbJWd.png)
 
 > [!IMPORTANT]
@@ -7,10 +10,11 @@
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
 
+
  # Masked VIPs
  
  > [!IMPORTANT]
- > In Cordycep
+ > In Cordycep:
  > 
  > `Lion VIP - Loadwc *nazir_grim*`
  >
@@ -26,19 +30,16 @@
 
 
 
-
-
-
  # Pink Guards
 
  > [!IMPORTANT]
- > In Cordycep
+ > In Cordycep:
  > 
  > `Masked Worker - Loadwc *stone_pumpkin*`
  >
  > `Masked Soldier - Loadwc *bailey_leaf*`
  >
- >`Masked Manager - Loadwc *caine_fall`
+ > `Masked Manager - Loadwc *caine_fall`
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
@@ -58,6 +59,8 @@
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/19/Young-hee_Default_Skin_BO6.png/revision/latest?cb=20250104102432) <br>Young-hee | body_c_t10_ury_pl_witch_base | head_c_t10_ury_pl_witch_base | vm_c_t10_ury_pl_witch_base |
 | | | | | 
+
+
 
 # The Front Man
 
