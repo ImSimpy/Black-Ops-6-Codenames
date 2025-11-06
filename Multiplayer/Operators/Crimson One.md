@@ -237,19 +237,19 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/5/5c/Brutus_WardenOfAlcatraz_Skin_BO6.png/revision/latest?cb=20241028013554) <br>Warden of Alcatraz | body_c_t10_usa_pl_warden_damned  | head_c_t10_usa_pl_warden_damned | vm_c_t10_usa_pl_warden_damned | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/5c/Brutus_WardenOfAlcatraz_Skin_BO6.png/revision/latest?cb=20241028013554) <br>Warden of Alcatraz | body_c_t10_usa_pl_warden_damned  | head_c_t10_usa_pl_warden_damned | vm_c_t10_usa_pl_warden_damned | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4a/Brutus_Tackle_Skin_BO6.png/revision/latest?cb=20250213213916) <br>Tackle | body_c_t10_usa_pl_warden_tackle  | head_c_t10_usa_pl_warden_tackle | vm_c_t10_usa_pl_warden_tackle | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4a/Brutus_Tackle_Skin_BO6.png/revision/latest?cb=20250213213916) <br>Tackle | body_c_t10_usa_pl_warden_tackle  | head_c_t10_usa_pl_warden_tackle | vm_c_t10_usa_pl_warden_tackle | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Brutus_DecayedBronze_Skin_BO6.png/revision/latest?cb=20250704143655) <br>Decayed Bronze | body_c_t10_usa_pl_warden_liberty  | head_c_t10_usa_pl_warden_liberty | vm_c_t10_usa_pl_warden_liberty | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4c/Brutus_DecayedBronze_Skin_BO6.png/revision/latest?cb=20250704143655) <br>Decayed Bronze | body_c_t10_usa_pl_warden_liberty  | head_c_t10_usa_pl_warden_liberty | vm_c_t10_usa_pl_warden_liberty | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f2/Brutus_Geophase_Skin_BO6.png/revision/latest?cb=20250516001053) <br>Geophase | body_c_t10_usa_pl_warden_geode  | head_c_t10_usa_pl_warden_geode | vm_c_t10_usa_pl_warden_geode | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f2/Brutus_Geophase_Skin_BO6.png/revision/latest?cb=20250516001053) <br>Geophase | body_c_t10_usa_pl_warden_geode  | head_c_t10_usa_pl_warden_geode | vm_c_t10_usa_pl_warden_geode | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/20/Brutus_Calamity_Skin_BO6.png/revision/latest?cb=20250213213915) <br>Calamity | body_c_t10_usa_pl_warden_metal  | head_c_t10_usa_pl_warden_metal | vm_c_t10_usa_pl_warden_metal | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/20/Brutus_Calamity_Skin_BO6.png/revision/latest?cb=20250213213915) <br>Calamity | body_c_t10_usa_pl_warden_metal  | head_c_t10_usa_pl_warden_metal | vm_c_t10_usa_pl_warden_metal | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3b/Brutus_Dreadwarden_Skin_BO6.png/revision/latest?cb=20250601154048) <br>Dreadwarden  | body_c_t10_usa_pl_warden_guard  | head_c_t10_usa_pl_warden_guard | vm_c_t10_usa_pl_warden_guard | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/3b/Brutus_Dreadwarden_Skin_BO6.png/revision/latest?cb=20250601154048) <br>Dreadwarden  | body_c_t10_usa_pl_warden_guard  | head_c_t10_usa_pl_warden_guard | vm_c_t10_usa_pl_warden_guard | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/75/Brutus_DreadwardenBlackCell_Skin_BO6.png/revision/latest?cb=20250601154049) <br>Dreadwarden BlackCell  | body_c_t10_usa_pl_warden_guard<br>_bc  | head_c_t10_usa_pl_warden_guard<br>_bc | vm_c_t10_usa_pl_warden_guard<br>_bc | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/75/Brutus_DreadwardenBlackCell_Skin_BO6.png/revision/latest?cb=20250601154049) <br>Dreadwarden BlackCell  | body_c_t10_usa_pl_warden_guard<br>_bc  | head_c_t10_usa_pl_warden_guard<br>_bc | vm_c_t10_usa_pl_warden_guard<br>_bc | 
 
 
 
