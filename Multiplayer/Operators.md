@@ -1,10 +1,15 @@
 # <p align="center"> Operator Hub  </p>
 
 
+
+
+
 <p align="center">
   <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Rogue%20Black%20Ops.md"><img src="https://static.wikia.nocookie.net/callofduty/images/9/9f/Rogue_Black_Ops_Faction_Icon_BO6.png/revision/latest?cb=20240907155338" width="400"></a>
   <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/Crimson%20One.md"><img src="https://static.wikia.nocookie.net/callofduty/images/4/42/Crimson_One_Faction_Icon_BO6.png/revision/latest?cb=20240907155348" width="400"></a>
 </p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rogue Black Ops &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Crimson One
+
 
 <p align="center">
   <a href="https://github.com/ImSimpy/Black-Ops-6-Codenames/blob/main/Multiplayer/Operators/CDL.md"><img src="https://github.com/user-attachments/assets/f7b5c15c-b3ee-427f-ad0b-696a984753eb" width="500"></a>
