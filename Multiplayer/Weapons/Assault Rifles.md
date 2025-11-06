@@ -78,6 +78,8 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/72399081-2ea6-4922-92ee-4e59f45d7f9b)<br> Chaos Sow | ar_aking74_assam | 
 | | | | | 
+<br>  |  |
+| | | | | 
 ![image](https://github.com/user-attachments/assets/9eb05acd-d01a-480a-9cb3-a71b1cb006a3)<br> Exile's Resolve  | ar_aking74_outcast | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/df76b2dd-c9e8-47c1-a333-e924e0195658)<br> Gratitude | ar_aking74_gvibes | 
@@ -397,6 +399,7 @@
 | | | | | 
 <br> Default | ar_aspen | 
 | | | | |
+
 
 
 
