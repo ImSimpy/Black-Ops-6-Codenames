@@ -3,9 +3,8 @@
 > [!Tip]
 > 
 > Click any Image, It will open up the related Markdown file.
-> [the hub is a prototype.]
-
-
+> 
+>>The Hub is in Pre-Alpha🤓☝️. its kind of ugly for now
 
 
 <p align="center">
