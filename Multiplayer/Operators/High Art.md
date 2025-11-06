@@ -1,5 +1,8 @@
 # High Art
 
+<!-- THIS FILE IS FINISHED🥳 -->
+<!-- ONLY CHANGES REQUIRED ARE FIXES OR UPGRADES🎉 -->
+
 ![image](https://static.wikia.nocookie.net/callofduty/images/e/e6/HighArt_Event_Logo_BO6.png/revision/latest/scale-to-width-down/1000?cb=20250509001925)
 
 
