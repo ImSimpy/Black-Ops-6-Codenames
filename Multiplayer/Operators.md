@@ -2,7 +2,7 @@
 
 > [!Tip]
 > 
-> Click any Image, It will open up the relative Markdown file.
+> Click any Image, It will open up the related Markdown file.
 >
 
 
