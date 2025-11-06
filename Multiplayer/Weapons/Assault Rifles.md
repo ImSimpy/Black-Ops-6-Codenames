@@ -22,19 +22,37 @@
 | | | | | 
 ![image](https://github.com/user-attachments/assets/ac038f4a-f672-47e5-bdb7-2a3068051979)<br> Conduit | ar_coslo723_enforcer | 
 | | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/826fb7ac-2364-4aac-bad7-3bc1381ff989" /> <br>  Dreaded Haproon |  ar_coslo723_punch | 
+| | | | | 
 ![image](https://github.com/user-attachments/assets/f2f4f366-0faa-49b7-931c-b43469284d9f)<br> Energy Siphon | ar_coslo723_s3blk | 
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/2e04525a-0c93-4f0f-9c37-a817aa49a7ea" /> <br> Ghost Above | ar_coslo723 |
 | | | | | 
 ![image](https://github.com/user-attachments/assets/d06e1e02-b20f-461e-b101-6e87c4dc565d)<br> Gumball Ballistics | ar_coslo723_repair | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/8a281126-958b-46fc-b4dd-931f4ca1f770)<br> High Authority | ar_coslo723_stingray04 | 
 | | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/e624c306-ad6b-4306-a884-34c022681a6e" /> <br> Neurostinger | ar_coslo723_mechhuman |
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/b3c9e62b-0398-42e1-b785-2e2d5215a08c" /> <br> Nightshade | ar_coslo723_reg |
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/2c6733ef-623d-4eb9-8b97-68c086ead5de" /> <br> Nuke Proof | ar_coslo723_nuketown |
+| | | | | 
 ![image](https://github.com/user-attachments/assets/610f48b5-e23a-49b8-ae17-91a71ac8e416)<br> Plundergut | ar_coslo723_plundergut | 
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/2cb63033-b227-4fb6-89a2-14588005b80d" /> <br> Prismatic | ar_coslo723_s5rev |
 | | | | | 
 ![image](https://github.com/user-attachments/assets/06fc844e-0f54-40d5-9a68-d5e647341d62)<br> Razor Burn | ar_coslo723_steam | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/95b15dd5-f596-49ec-8a2e-4489064f435c)<br> Shared Fate | ar_coslo723_senses | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/f8502ef5-5326-4065-953a-123170ac261f)<br> Speedway | ar_coslo723_racecar | 
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/a55cc799-3bd5-41e9-913b-47c16bb06c60" /> <br> Terror Alert Yellow | ar_coslo723_retriever |
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/bd2fc890-5e34-4167-b490-29919d086d31" /> <br> Thermoplastic | ar_coslo723_printer |
+| | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/f32b58da-e652-4228-a3ab-283c04051137" /> <br> Trophy Hunter | ar_coslo723_milk |
 | | | | | 
 ![image](https://github.com/user-attachments/assets/df1176e6-3640-4883-a5bb-0fcdebe2c01d)<br> Venomer | ar_coslo723_snake | 
 | | | | | 
@@ -43,6 +61,11 @@
 ![image](https://github.com/user-attachments/assets/05c75d09-ea91-4565-baff-35721fc5276e)<br> Wild Mannered | ar_coslo723_dots | 
 | | | | | 
 ![image](https://github.com/user-attachments/assets/3a4b83ae-81fb-495d-829c-19dc799517ec)<br> Wild Mannered BlackCell | ar_coslo723_dotsblk | 
+
+
+
+
+
 
 
 
@@ -374,6 +397,7 @@
 | | | | | 
 <br> Default | ar_aspen | 
 | | | | |
+
 
 
 
