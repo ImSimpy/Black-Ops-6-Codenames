@@ -131,29 +131,63 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7d/Toro_Duster_Skin_BO6.png/revision/latest?cb=20250201180643) <br>Duster | body_c_t10_arg_pl_alejo_bounty  | head_c_t10_arg_pl_alejo_bounty | vm_c_t10_arg_pl_alejo_bounty | 
 | | | | | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/8/8e/Toro_TKO_Skin_BO6.png/revision/latest?cb=20250812231825) <br>TKO | body_c_t10_arg_pl_alejo_pants | head_c_t10_arg_pl_alejo_pants | vm_c_t10_arg_pl_alejo_pants | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Toro_JugONot_Skin_BO6.png/revision/latest?cb=20250403215450) <br>Jug-O-Naught | body_c_t10_arg_pl_alejo_juggernaut  | head_c_t10_arg_pl_alejo_juggernaut | vm_c_t10_arg_pl_alejo_juggernaut | 
+| | | | | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/d/dd/Toro_EarlyRelease_Skin_BO6.png/revision/latest?cb=20250601155005) <br>Early Release | body_c_t10_arg_pl_alejo_escape | head_c_t10_arg_pl_alejo_escape | vm_c_t10_arg_pl_alejo_escape | 
+| | | | | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/a/a4/Toro_PrintMaster_Skin_BO6.png/revision/latest?cb=20250614152001) <br>Print Master | body_c_t10_arg_pl_alejo_printed | head_c_t10_arg_pl_alejo_printed | vm_c_t10_arg_pl_alejo_printed | 
+| | | | | 
+| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Toro_FlowState_Skin_BO6.png/revision/latest?cb=20250201180644) <br>Flow State | body_c_t10_arg_pl_alejo_foil  | head_c_t10_arg_pl_alejo_foil | vm_c_t10_arg_pl_alejo_foil | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c2/Toro_Bladesman_Skin_BO6.png/revision/latest?cb=20241203225702) <br>Bladesman | body_c_t10_arg_pl_alejo_knight | head_c_t10_arg_pl_alejo_knight | vm_c_t10_arg_pl_alejo_knight | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/32/Toro_DaddyClaus_Skin_BO6.png/revision/latest?cb=20241220174632) <br>Daddy Claus | body_c_t10_arg_pl_alejo_santa | head_c_t10_arg_pl_alejo_santa | vm_c_t10_arg_pl_alejo_santa |  
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/44/Toro_UndeadFootClan_Skin_BO6.png/revision/latest?cb=20250227234728) <br>Undead Foot Clan | body_c_t10_arg_pl_alejo_moonshade  | head_c_t10_arg_pl_alejo_moonshade | vm_c_t10_arg_pl_alejo_moonshade | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/7/7c/Toro_Goloso_Skin_BO6.png/revision/latest?cb=20250508215934) <br>Goloso | body_c_t10_arg_pl_alejo_pinata  | head_c_t10_arg_pl_alejo_pinata | vm_c_t10_arg_pl_alejo_pinata | 
+| | | | |
+| ![image](https://static.wikia.nocookie.net/callofduty/images/e/e4/Toro_Mariachi_Skin_BO6.png/revision/latest?cb=20251019002146) <br>Mariachi | body_c_t10_arg_pl_alejo_muertos | head_c_t10_arg_pl_alejo_muertos | vm_c_t10_arg_pl_alejo_muertos | 
 | | | | | 
 | ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo61a8d37e7cf8f8d61cae2d223fc71a4d2e321f560ff74dfa3f61fb99b461b2062_large.webp) <br>Undying Radiation | body_c_t10_arg_pl_alejo_nuclear  | head_c_t10_arg_pl_alejo_nuclear | vm_c_t10_arg_pl_alejo_nuclear | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/07/Toro_ToyMan_Skin_BO6.png/revision/latest?cb=20241226225715) <br>Toy Man | body_c_t10_arg_pl_alejo_action  | head_c_t10_arg_pl_alejo_action | vm_c_t10_arg_pl_alejo_action | 
 | | | | | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/e/ed/Toro_Armordillo_Skin_BO6.png/revision/latest?cb=20250601155004) <br>Armordillo | body_c_t10_arg_pl_alejo_armadillo | head_c_t10_arg_pl_alejo_armadillo | vm_c_t10_arg_pl_alejo_armadillo | 
+| | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2e/Toro_Saltwater_Skin_BO6.png/revision/latest?cb=20250201180647) <br>Saltwater | body_c_t10_arg_pl_alejo_creature  | head_c_t10_arg_pl_alejo_creature | vm_c_t10_arg_pl_alejo_creature | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a1/Toro_FlowState_Skin_BO6.png/revision/latest?cb=20250201180644) <br>Flow State | body_c_t10_arg_pl_alejo_foil  | head_c_t10_arg_pl_alejo_foil | vm_c_t10_arg_pl_alejo_foil | 
-| | | | | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/4/46/Toro_TheChamp_Skin_BO6.png/revision/latest?cb=20250601155515) <br>The Champ | body_c_t10_arg_pl_alejo_fight | head_c_t10_arg_pl_alejo_fight | vm_c_t10_arg_pl_alejo_fight | 
+| | | | |
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c8/Toro_FlowStateBlackCell_Skin_BO6.png/revision/latest?cb=20250201180646) <br>Flow State BlackCell | body_c_t10_arg_pl_alejo_sabre  | head_c_t10_arg_pl_alejo_sabre | vm_c_t10_arg_pl_alejo_sabre | 
-| | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7c/Toro_JugONot_Skin_BO6.png/revision/latest?cb=20250403215450) <br>Jug-O-Naught | body_c_t10_arg_pl_alejo_juggernaut  | head_c_t10_arg_pl_alejo_juggernaut | vm_c_t10_arg_pl_alejo_juggernaut | 
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Toro_JugONotBlackCell_Skin_BO6.png/revision/latest?cb=20250403215451) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/7126adb5-beac-46ee-8a6f-3d6cf6f3888c)<br>Goloso | body_c_t10_arg_pl_alejo_pinata  | head_c_t10_arg_pl_alejo_pinata | vm_c_t10_arg_pl_alejo_pinata | 
-| | | | |
-| ![image](https://github.com/user-attachments/assets/d6783512-a584-4878-be24-dac7481b319a) <br> The Champ | body_c_t10_arg_pl_alejo_fight | head_c_t10_arg_pl_alejo_fight | vm_c_t10_arg_pl_alejo_fight | 
+| ![image](https://static.wikia.nocookie.net/callofduty/images/d/d4/Toro_TKOBlackCell_Skin_BO6.png/revision/latest?cb=20250812232541) <br>TKO BlackCell | body_c_t10_arg_pl_alejo_pants_bc | head_c_t10_arg_pl_alejo_pants_bc | vm_c_t10_arg_pl_alejo_pants_bc | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -170,7 +204,7 @@
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2f/Bailey_SmokingGun_Skin_BO6.png/revision/latest?cb=20250213213912) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_fatale | head_c_t10_usa_pl_bailey_fatale | vm_c_t10_usa_pl_bailey_fatale | 
 | | | | | 
-| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/ba/Bailey_StarReader_Skin_BO6.png/revision/latest?cb=20250926151856) <br>Star Reader | body_c_t10_usa_pl_bailey_astrology | head_c_t10_usa_pl_bailey_astrology | vm_c_t10_usa_pl_bailey_astrology | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/ba/Bailey_StarReader_Skin_BO6.png/revision/latest?cb=20250926151856) <br>Star Reader | body_c_t10_usa_pl_bailey_<br>astrology | head_c_t10_usa_pl_bailey_<br>astrology | vm_c_t10_usa_pl_bailey_<br>astrology | 
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
@@ -180,9 +214,9 @@
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
 | | | | | 
-| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bc/Bailey_DataCipher_Skin_BO6.png/revision/latest?cb=20250616235519) <br>Data Cipher | body_c_t10_usa_pl_bailey_codebreaker | head_c_t10_usa_pl_bailey_codebreaker | vm_c_t10_usa_pl_bailey_codebreaker |
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bc/Bailey_DataCipher_Skin_BO6.png/revision/latest?cb=20250616235519) <br>Data Cipher | body_c_t10_usa_pl_bailey_<br>codebreaker | head_c_t10_usa_pl_bailey_<br>codebreaker | vm_c_t10_usa_pl_bailey_<br>codebreaker |
 | | | | | 
-| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_<br>moonshade | head_c_t10_usa_pl_bailey_<br>moonshade | vm_c_t10_usa_pl_bailey_<br>moonshade | 
 | | | | | 
 | ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_AllSmiles_Skin_BO6.png/revision/latest?cb=20241226225705) <br>All Smiles | body_c_t10_usa_pl_bailey_positive | head_c_t10_usa_pl_bailey_positive | vm_c_t10_usa_pl_bailey_positive | 
 | | | | | 
