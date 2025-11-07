@@ -1,4 +1,3 @@
-
 # Crimson One
 
 <img width="3000" height="1000" alt="" src="https://github.com/user-attachments/assets/e511facc-3d4d-4c52-89d8-7352387bc657" />
@@ -9,31 +8,40 @@
 >
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
-<!--FINISHED-->
-<!-- ^^^^^^ THIS MEANS LISTED SKIN IS FINISHED -->
+
 
 # Volta Rossi
  
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1a/Volta_Covert_Skin_BO6.png/revision/latest?cb=20241028013820) <br>Covert | body_c_t10_ita_pl_volta_hike | head_c_t10_ita_pl_volta_hike | vm_c_t10_ita_pl_volta_hike | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/1a/Volta_Covert_Skin_BO6.png/revision/latest?cb=20241028013820) <br>Covert | body_c_t10_ita_pl_volta_hike | head_c_t10_ita_pl_volta_hike | vm_c_t10_ita_pl_volta_hike | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/70/Volta_TheCleaner_Skin_BO6.png/revision/latest?cb=20250122004954) <br>The Cleaner  | body_c_t10_ita_pl_volta_exec  | head_c_t10_ita_pl_volta_exec | vm_c_t10_ita_pl_volta_exec | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/df/Volta_Hardtop_Skin_BO6.png/revision/latest?cb=20250812231618) <br>Hardtop | body_c_t10_ita_pl_volta_armored | head_c_t10_ita_pl_volta_armored | vm_c_t10_ita_pl_volta_armored |  
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4d/Volta_SkyTraveler_Skin_BO6.png/revision/latest?cb=20250912222521) <br>Sky Traveler | body_c_t10_ita_pl_volta_penguin | head_c_t10_ita_pl_volta_penguin | vm_c_t10_ita_pl_volta_penguin |  
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/70/Volta_TheCleaner_Skin_BO6.png/revision/latest?cb=20250122004954) <br>The Cleaner  | body_c_t10_ita_pl_volta_exec  | head_c_t10_ita_pl_volta_exec | vm_c_t10_ita_pl_volta_exec | 
 | | | | |
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1f/Volta_MeanStreets_Skin_BO6.png/revision/latest?cb=20241119185619) <br>Mean Streets | body_c_t10_ita_pl_volta_silent | head_c_t10_ita_pl_volta_silent | vm_c_t10_ita_pl_volta_silent | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f1/Volta_Gunsmoke_Skin_BO6.png/revision/latest?cb=20250201180648) <br>Gunsmoke | body_c_t10_ita_pl_volta_commando | head_c_t10_ita_pl_volta_commando | vm_c_t10_ita_pl_volta_commando |  
+| | | | |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/1f/Volta_MeanStreets_Skin_BO6.png/revision/latest?cb=20241119185619) <br>Mean Streets | body_c_t10_ita_pl_volta_silent | head_c_t10_ita_pl_volta_silent | vm_c_t10_ita_pl_volta_silent | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c3/Volta_Unavowed_Skin_BO6.png/revision/latest?cb=20250214011054) <br>Unavowed | body_c_t10_ita_pl_volta_prowler | head_c_t10_ita_pl_volta_prowler | vm_c_t10_ita_pl_volta_prowler |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c3/Volta_Unavowed_Skin_BO6.png/revision/latest?cb=20250214011054) <br>Unavowed | body_c_t10_ita_pl_volta_prowler | head_c_t10_ita_pl_volta_prowler | vm_c_t10_ita_pl_volta_prowler |  
 | | | | |  
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/3e/Volta_Volatile_Skin_BO6.png/revision/latest?cb=20241119185620) <br>Volatile  | body_c_t10_ita_pl_volta_bite | head_c_t10_ita_pl_volta_bite | vm_c_t10_ita_pl_volta_bite | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/3e/Volta_Volatile_Skin_BO6.png/revision/latest?cb=20241119185620) <br>Volatile  | body_c_t10_ita_pl_volta_bite | head_c_t10_ita_pl_volta_bite | vm_c_t10_ita_pl_volta_bite | 
 | | | | |  
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4b/Volta_SmirkMerc_Skin_BO6.png/revision/latest?cb=20250227234725) <br>Smirk Merc | body_c_t10_ita_pl_volta_joke | head_c_t10_ita_pl_volta_joke | vm_c_t10_ita_pl_volta_joke |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4b/Volta_SmirkMerc_Skin_BO6.png/revision/latest?cb=20250227234725) <br>Smirk Merc | body_c_t10_ita_pl_volta_joke | head_c_t10_ita_pl_volta_joke | vm_c_t10_ita_pl_volta_joke |  
 | | | | |  
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/70/Volta_Brightraider_Skin_BO6.png/revision/latest?cb=20250111010306) <br>Brightrider  | body_c_t10_ita_pl_volta_unicorn | head_c_t10_ita_pl_volta_unicorn | vm_c_t10_ita_pl_volta_unicorn |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bf/Volta_GrimReef_Skin_BO6.png/revision/latest?cb=20251019002147) <br>Grim Reef | body_c_t10_ita_pl_volta_angler | head_c_t10_ita_pl_volta_angler | vm_c_t10_ita_pl_volta_angler |  
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ec/Volta_MossCryptid_Skin_BO6.png/revision/latest?cb=20251009221124) <br>Moss Cryptid | body_c_t10_ita_pl_volta_moss | head_c_t10_ita_pl_volta_moss | vm_c_t10_ita_pl_volta_moss |  
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/70/Volta_Brightraider_Skin_BO6.png/revision/latest?cb=20250111010306) <br>Brightrider  | body_c_t10_ita_pl_volta_unicorn | head_c_t10_ita_pl_volta_unicorn | vm_c_t10_ita_pl_volta_unicorn |  
 | | | | |  
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f1/Volta_Gunsmoke_Skin_BO6.png/revision/latest?cb=20250201180648) <br>Gunsmoke | body_c_t10_ita_pl_volta_commando | head_c_t10_ita_pl_volta_commando | vm_c_t10_ita_pl_volta_commando |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/fb/Volta_GunsmokeBlackCell_Skin_BO6.png/revision/latest?cb=20250201180650) <br>Gunsmoke Blackcell | body_c_t10_ita_pl_volta_shroud | head_c_t10_ita_pl_volta_shroud | vm_c_t10_ita_pl_volta_shroud |  
 | | | | |  
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fb/Volta_GunsmokeBlackCell_Skin_BO6.png/revision/latest?cb=20250201180650) <br>Gunsmoke Blackcell | body_c_t10_ita_pl_volta_shroud | head_c_t10_ita_pl_volta_shroud | vm_c_t10_ita_pl_volta_shroud |  
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bb/Volta_MossCryptidBlackCell_Skin_BO6.png/revision/latest?cb=20251009221126) <br>Moss Cryptid Blackcell | body_c_t10_ita_pl_volta_moss_bc | head_c_t10_ita_pl_volta_moss_bc | vm_c_t10_ita_pl_volta_moss_bc |  
 
 
 
@@ -86,21 +94,30 @@
 | Icon  | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1b/Niran_Ranger_Skin_BO6.png/revision/latest?cb=20241028013639) <br>Ranger | body_c_t10_tha_pl_niran_sable | head_c_t10_tha_pl_niran_sable | vm_c_t10_tha_pl_niran_sable
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/1b/Niran_Ranger_Skin_BO6.png/revision/latest?cb=20241028013639) <br>Ranger | body_c_t10_tha_pl_niran_sable | head_c_t10_tha_pl_niran_sable | vm_c_t10_tha_pl_niran_sable
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/a/a2/Niran_Machetero_Skin_BO6.png/revision/latest?cb=20241220174631) <br>Machetero | body_c_t10_tha_pl_niran_tattoo | head_c_t10_tha_pl_niran_tattoo | vm_c_t10_tha_pl_niran_tattoo
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/a2/Niran_Machetero_Skin_BO6.png/revision/latest?cb=20241220174631) <br>Machetero | body_c_t10_tha_pl_niran_tattoo | head_c_t10_tha_pl_niran_tattoo | vm_c_t10_tha_pl_niran_tattoo
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/e1/Niran_BigSlick_Skin_BO6.png/revision/latest?cb=20241119185612) <br>Big Slick | body_c_t10_tha_pl_niran_equipped | head_c_t10_tha_pl_niran_equipped | vm_c_t10_tha_pl_niran_equipped 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/e1/Niran_BigSlick_Skin_BO6.png/revision/latest?cb=20241119185612) <br>Big Slick | body_c_t10_tha_pl_niran_equipped | head_c_t10_tha_pl_niran_equipped | vm_c_t10_tha_pl_niran_equipped 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b9/Niran_Haxor_Skin_BO6.png/revision/latest?cb=20250213213918) <br>Haxor | body_c_t10_pak_pl_nazir_hacker | head_c_t10_pak_pl_nazir_hacker | vm_c_t10_pak_pl_nazir_hacker
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b9/Niran_Haxor_Skin_BO6.png/revision/latest?cb=20250213213918) <br>Haxor | body_c_t10_pak_pl_nazir_hacker | head_c_t10_pak_pl_nazir_hacker | vm_c_t10_pak_pl_nazir_hacker
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/49/Niran_Player006_Skin_BO6.png/revision/latest?cb=20250103235853) <br>Player 006 | body_c_t10_tha_pl_niran_ghoul | head_c_t10_tha_pl_niran_ghoul | vm_c_t10_tha_pl_niran_ghoul
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/dc/Niran_Detective_Skin_BO6.png/revision/latest?cb=20250812232117) <br>Detective | body_c_t10_tha_pl_niran_business | head_c_t10_tha_pl_niran_business | vm_c_t10_tha_pl_niran_business
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/13/Niran_RaccoonGoon_Skin_BO6.png/revision/latest?cb=20241126214919) <br>Raccoon Goon | body_c_t10_tha_pl_niran_raccoon | head_c_t10_tha_pl_niran_raccoon | vm_c_t10_tha_pl_niran_raccoon
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/49/Niran_Player006_Skin_BO6.png/revision/latest?cb=20250103235853) <br>Player 006 | body_c_t10_tha_pl_niran_ghoul | head_c_t10_tha_pl_niran_ghoul | vm_c_t10_tha_pl_niran_ghoul
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo6edfee625ed4685b226801e58859e1c8dc549041a16e645f5cfed061f14c45517_large.webp) <br>Mech Enthusiast | body_c_t10_tha_pl_niran_bot | head_c_t10_tha_pl_niran_bot | vm_c_t10_tha_pl_niran_bot
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8b/Niran_StainedHunter_Skin_BO6.png/revision/latest?cb=20250610001011) <br>Stained Hunter | body_c_t10_tha_pl_niran_paintball | head_c_t10_tha_pl_niran_paintball | vm_c_t10_tha_pl_niran_paintball
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/22/Niran_Sleet_Skin_BO6.png/revision/latest?cb=20241226225707) <br>Sleet | body_c_t10_tha_pl_niran_frost | head_c_t10_tha_pl_niran_frost | vm_c_t10_tha_pl_niran_frost
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/13/Niran_RaccoonGoon_Skin_BO6.png/revision/latest?cb=20241126214919) <br>Raccoon Goon | body_c_t10_tha_pl_niran_raccoon | head_c_t10_tha_pl_niran_raccoon | vm_c_t10_tha_pl_niran_raccoon
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/db/Niran_Paranoiac_Skin_BO6.png/revision/latest?cb=20250723230042) <br>Paranoiac | body_c_t10_tha_pl_niran_illusion | head_c_t10_tha_pl_niran_illusion | vm_c_t10_tha_pl_niran_illusion
+| | | | | 
+| ![Icon](https://stockpile.detonated.com/static/bundle_images/resized/bo6edfee625ed4685b226801e58859e1c8dc549041a16e645f5cfed061f14c45517_large.webp) <br>Mech Enthusiast | body_c_t10_tha_pl_niran_bot | head_c_t10_tha_pl_niran_bot | vm_c_t10_tha_pl_niran_bot
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/22/Niran_Sleet_Skin_BO6.png/revision/latest?cb=20241226225707) <br>Sleet | body_c_t10_tha_pl_niran_frost | head_c_t10_tha_pl_niran_frost | vm_c_t10_tha_pl_niran_frost
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/ce/Niran_DetectiveBlackCell_Skin_BO6.png/revision/latest?cb=20250812232118) <br>Detective Blackcell | body_c_t10_tha_pl_niran_business_bc | head_c_t10_tha_pl_niran_business_bc | vm_c_t10_tha_pl_niran_business_bc
+
 
 
 # Alejo "Toro" Carasco
@@ -134,9 +151,9 @@
 | | | | | 
 | ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Toro_JugONotBlackCell_Skin_BO6.png/revision/latest?cb=20250403215451) <br>Jug-O-Naught Blackcell | body_c_t10_arg_pl_alejo_<br>juggernaut_bc  | head_c_t10_arg_pl_alejo_<br>juggernaut_bc | vm_c_t10_arg_pl_alejo_<br>juggernaut_bc | 
 | | | | | 
-|![image](https://github.com/user-attachments/assets/7126adb5-beac-46ee-8a6f-3d6cf6f3888c)<br>Goloso | body_c_t10_arg_pl_alejo_pinata  | head_c_t10_arg_pl_alejo_pinata | vm_c_t10_arg_pl_alejo_pinata | 
+| ![image](https://github.com/user-attachments/assets/7126adb5-beac-46ee-8a6f-3d6cf6f3888c)<br>Goloso | body_c_t10_arg_pl_alejo_pinata  | head_c_t10_arg_pl_alejo_pinata | vm_c_t10_arg_pl_alejo_pinata | 
 | | | | |
-![image](https://github.com/user-attachments/assets/d6783512-a584-4878-be24-dac7481b319a) <br> The Champ | body_c_t10_arg_pl_alejo_fight | head_c_t10_arg_pl_alejo_fight | vm_c_t10_arg_pl_alejo_fight | 
+| ![image](https://github.com/user-attachments/assets/d6783512-a584-4878-be24-dac7481b319a) <br> The Champ | body_c_t10_arg_pl_alejo_fight | head_c_t10_arg_pl_alejo_fight | vm_c_t10_arg_pl_alejo_fight | 
 
 
 
@@ -145,74 +162,89 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c7/Bailey_Recon_Skin_BO6.png/revision/latest?cb=20241028013543) <br>Recon  | body_c_t10_usa_pl_bailey_sable | head_c_t10_usa_pl_bailey_sable | vm_c_t10_usa_pl_bailey_sable | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c7/Bailey_Recon_Skin_BO6.png/revision/latest?cb=20241028013543) <br>Recon  | body_c_t10_usa_pl_bailey_sable | head_c_t10_usa_pl_bailey_sable | vm_c_t10_usa_pl_bailey_sable | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/fe/Bailey_Art_Of_War_Skin_BO6.png/revision/latest?cb=20241028013542) <br>Art Of War | body_c_t10_usa_pl_bailey_cw | head_c_t10_usa_pl_bailey_cw | vm_c_t10_usa_pl_bailey_cw | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/fe/Bailey_Art_Of_War_Skin_BO6.png/revision/latest?cb=20241028013542) <br>Art Of War | body_c_t10_usa_pl_bailey_cw | head_c_t10_usa_pl_bailey_cw | vm_c_t10_usa_pl_bailey_cw | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2f/Bailey_SmokingGun_Skin_BO6.png/revision/latest?cb=20250213213912) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_fatale | head_c_t10_usa_pl_bailey_fatale | vm_c_t10_usa_pl_bailey_fatale | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/3f/Bailey_LowTide_Skin_BO6.png/revision/latest?cb=20250904224246) <br>Low Tide | body_c_t10_usa_pl_bailey_swim | head_c_t10_usa_pl_bailey_swim | vm_c_t10_usa_pl_bailey_swim | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/9/94/Bailey_Velocity_Skin_BO6.png/revision/latest?cb=20250213213913) <br>Velocity  | body_c_t10_usa_pl_bailey_space | head_c_t10_usa_pl_bailey_space | vm_c_t10_usa_pl_bailey_space | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2f/Bailey_SmokingGun_Skin_BO6.png/revision/latest?cb=20250213213912) <br>Smoking Gun  | body_c_t10_usa_pl_bailey_fatale | head_c_t10_usa_pl_bailey_fatale | vm_c_t10_usa_pl_bailey_fatale | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/ba/Bailey_StarReader_Skin_BO6.png/revision/latest?cb=20250926151856) <br>Star Reader | body_c_t10_usa_pl_bailey_astrology | head_c_t10_usa_pl_bailey_astrology | vm_c_t10_usa_pl_bailey_astrology | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_AllSmiles_Skin_BO6.png/revision/latest?cb=20241226225705) <br>All Smiles | body_c_t10_usa_pl_bailey_positive | head_c_t10_usa_pl_bailey_positive | vm_c_t10_usa_pl_bailey_positive | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/94/Bailey_Velocity_Skin_BO6.png/revision/latest?cb=20250213213913) <br>Velocity  | body_c_t10_usa_pl_bailey_space | head_c_t10_usa_pl_bailey_space | vm_c_t10_usa_pl_bailey_space | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/79/Bailey_Aero_Skin_BO6.png/revision/latest?cb=20241218224607) <br>Aero | body_c_t10_usa_pl_bailey_mech | head_c_t10_usa_pl_bailey_mech | vm_c_t10_usa_pl_bailey_mech | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2b/Bailey_NocturnalScout_Skin_BO6.png/revision/latest?cb=20250601155136) <br>Nocturnal Scout | body_c_t10_usa_pl_bailey_lightsout | head_c_t10_usa_pl_bailey_lightsout | vm_c_t10_usa_pl_bailey_lightsout | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_Pixel_Skin_BO6.png/revision/latest?cb=20250403212535) <br>Pixel | body_c_t10_usa_pl_bailey_gamer | head_c_t10_usa_pl_bailey_gamer | vm_c_t10_usa_pl_bailey_gamer | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_Subterfuge_Skin_BO6.png/revision/latest?cb=20241130213812) <br>Subterfuge | body_c_t10_usa_pl_bailey_milsim | head_c_t10_usa_pl_bailey_milsim | vm_c_t10_usa_pl_bailey_milsim | 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ea/Bailey_Anarchist_Skin_BO6.png/revision/latest?cb=20241119185600) <br>Anarchist  | body_c_t10_usa_pl_bailey_vigilante | head_c_t10_usa_pl_bailey_vigilante | vm_c_t10_usa_pl_bailey_vigilante | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bc/Bailey_DataCipher_Skin_BO6.png/revision/latest?cb=20250616235519) <br>Data Cipher | body_c_t10_usa_pl_bailey_codebreaker | head_c_t10_usa_pl_bailey_codebreaker | vm_c_t10_usa_pl_bailey_codebreaker |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br> Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante_blackcell | head_c_t10_usa_pl_bailey_vigilante_blackcell | vm_c_t10_usa_pl_bailey_vigilante_blackcell | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/8a/Bailey_FootClan_Skin_BO6.png/revision/latest?cb=20250227234723) <br>Foot Clan | body_c_t10_usa_pl_bailey_moonshade | head_c_t10_usa_pl_bailey_moonshade | vm_c_t10_usa_pl_bailey_moonshade | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/4ced56c2-76be-4c1b-8d16-764a7e125dc3) <br> Nocturnal Scout | body_c_t10_usa_pl_bailey_lightsout | head_c_t10_usa_pl_bailey_lightsout | vm_c_t10_usa_pl_bailey_lightsout | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_AllSmiles_Skin_BO6.png/revision/latest?cb=20241226225705) <br>All Smiles | body_c_t10_usa_pl_bailey_positive | head_c_t10_usa_pl_bailey_positive | vm_c_t10_usa_pl_bailey_positive | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/1355c888-a15f-40c6-9f2a-e1559bfa2454) <br> Nocturnal Scout BlackCell | body_c_t10_usa_pl_bailey_lightsout_bc | head_c_t10_usa_pl_bailey_lightsout_bc | vm_c_t10_usa_pl_bailey_lightsout_bc | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/79/Bailey_Aero_Skin_BO6.png/revision/latest?cb=20241218224607) <br>Aero | body_c_t10_usa_pl_bailey_mech | head_c_t10_usa_pl_bailey_mech | vm_c_t10_usa_pl_bailey_mech | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/1355c888-a15f-40c6-9f2a-e1559bfa2454) <br> Nocturnal Scout BlackCell | body_c_t10_usa_pl_bailey_ | head_c_t10_usa_pl_bailey_ | vm_c_t10_usa_pl_bailey_ | 
-
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b0/Bailey_Pixel_Skin_BO6.png/revision/latest?cb=20250403212535) <br>Pixel | body_c_t10_usa_pl_bailey_gamer | head_c_t10_usa_pl_bailey_gamer | vm_c_t10_usa_pl_bailey_gamer | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f0/Bailey_QueenOfHearts_Skin_BO6.png/revision/latest?cb=20250926151853) <br>Queen of Hearts | body_c_t10_usa_pl_bailey_queen | head_c_t10_usa_pl_bailey_queen | vm_c_t10_usa_pl_bailey_queen | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/4c/Bailey_AnarchistBlackCell_Skin_BO6.png/revision/latest?cb=20241119185601) <br>Anarchist BlackCell | body_c_t10_usa_pl_bailey_vigilante<br>_blackcell | head_c_t10_usa_pl_bailey_vigilante<br>_blackcell | vm_c_t10_usa_pl_bailey_vigilante<br>_blackcell | 
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/95/Bailey_NocturnalScoutBlackCell_Skin_BO6.png/revision/latest?cb=20250601155136) <br>Nocturnal Scout BlackCell | body_c_t10_usa_pl_bailey_lightsout<br>_bc | head_c_t10_usa_pl_bailey_lightsout<br>_bc | vm_c_t10_usa_pl_bailey_lightsout<br>_bc | 
 
 
 
 # Harry Stone
 
-| Icon  | Body | Head | Arms 
+| Icon | Body | Head | Arms 
 | :--: | :--: | :--: | :--: 
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/12/Stone_Faceless_Skin_BO6.png/revision/latest?cb=20241028013814) <br>Faceless | body_c_t10_gbr_pl_stone_sable | head_c_t10_gbr_pl_stone_sable | vm_c_t10_gbr_pl_stone_sable
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/12/Stone_Faceless_Skin_BO6.png/revision/latest?cb=20241028013814) <br>Faceless | body_c_t10_gbr_pl_stone_sable | head_c_t10_gbr_pl_stone_sable | vm_c_t10_gbr_pl_stone_sable |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c2/Stone_Snowdrift_Skin_BO6.png/revision/latest?cb=20250201180642) <br>Snowdrift | body_c_t10_gbr_pl_stone_arctic | head_c_t10_gbr_pl_stone_arctic | vm_c_t10_gbr_pl_stone_arctic
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/74/Stone_ZipTie_Skin_BO6.png/revision/latest?cb=20241119185617) <br>Zip Tie | body_c_t10_gbr_pl_stone_mobilized | head_c_t10_gbr_pl_stone_mobilized | vm_c_t10_gbr_pl_stone_mobilized |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/39/Stone_Deco_Skin_BO6.png/revision/latest?cb=20241119185616) <br>Deco | body_c_t10_gbr_pl_stone_deco | head_c_t10_gbr_pl_stone_deco | vm_c_t10_gbr_pl_stone_deco
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/1c/Stone_AllTerrain_Skin_BO6.png/revision/latest?cb=20250403215345) <br>All Terrain | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo62dd0f4dbc6adf5e9688ea19fcc359e2c445fb62f799128eb19aa32a7bb4e0684_large.webp) <br>Not Enough Bacon | body_c_t10_gbr_pl_stone_bacon | head_c_t10_gbr_pl_stone_bacon | vm_c_t10_gbr_pl_stone_bacon
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/e4/Stone_CasualOps_Skin_BO6.png/revision/latest?cb=20250508215933) <br>Casual Ops | body_c_t10_gbr_pl_stone_jeans | head_c_t10_gbr_pl_stone_jeans | vm_c_t10_gbr_pl_stone_jeans |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo63b64a9aa7b8861667dd9e3e7b6f432373c581fdd62a4d888f55d5c5c3da6ad71_large.webp) <br>Bulldog | body_c_t10_gbr_pl_stone_bulldog | head_c_t10_gbr_pl_stone_bulldog | vm_c_t10_gbr_pl_stone_bulldog
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/e3/Stone_DarkWhisper_Skin_BO6.png/revision/latest?cb=20251009221123) <br>Dark Whisper | body_c_t10_gbr_pl_stone_sas | head_c_t10_gbr_pl_stone_sas | vm_c_t10_gbr_pl_stone_sas |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/74/Stone_Blunty_Skin_BO6.png/revision/latest?cb=20241226225711) <br>Blunty | body_c_t10_gbr_pl_stone_bong | head_c_t10_gbr_pl_stone_bong | vm_c_t10_gbr_pl_stone_bong
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_ShadowWork_Skin_BO6.png/revision/latest?cb=20250201180639) <br>Shadow Work | body_c_t10_gbr_pl_stone_scorn | head_c_t10_gbr_pl_stone_scorn | vm_c_t10_gbr_pl_stone_scorn |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/d/d8/Stone_Siphon_Skin_BO6.png/revision/latest?cb=20250227234727) <br>Siphon | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/66/Stone_H2O_Skin_BO6.png/revision/latest?cb=20250803212557) <br>H2O | body_c_t10_gbr_pl_stone_diver | head_c_t10_gbr_pl_stone_diver | vm_c_t10_gbr_pl_stone_diver |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/74/Stone_ZipTie_Skin_BO6.png/revision/latest?cb=20241119185617) <br>Zip Tie | body_c_t10_gbr_pl_stone_mobilized | head_c_t10_gbr_pl_stone_mobilized | vm_c_t10_gbr_pl_stone_mobilized
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c2/Stone_Snowdrift_Skin_BO6.png/revision/latest?cb=20250201180642) <br>Snowdrift | body_c_t10_gbr_pl_stone_arctic | head_c_t10_gbr_pl_stone_arctic | vm_c_t10_gbr_pl_stone_arctic |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/19/Stone_ZipTieBlackCell_Skin_BO6.png/revision/latest?cb=20241119185618) <br>Zip Tie Blackcell | body_c_t10_gbr_pl_stone_mobilized<br>_blackcell | head_c_t10_gbr_pl_stone_mobilized<br>_blackcell | vm_c_t10_gbr_pl_stone_mobilized<br>_blackcell
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/39/Stone_Deco_Skin_BO6.png/revision/latest?cb=20241119185616) <br>Deco | body_c_t10_gbr_pl_stone_deco | head_c_t10_gbr_pl_stone_deco | vm_c_t10_gbr_pl_stone_deco |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_ShadowWork_Skin_BO6.png/revision/latest?cb=20250201180639) <br>Shadow Work | body_c_t10_gbr_pl_stone_scorn | head_c_t10_gbr_pl_stone_scorn | vm_c_t10_gbr_pl_stone_scorn
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/b1/Stone_CardMaster_Skin_BO6.png/revision/latest?cb=20250912222520) <br>Card Master | body_c_t10_gbr_pl_stone_cards | head_c_t10_gbr_pl_stone_cards | vm_c_t10_gbr_pl_stone_cards |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/3/34/Stone_ShadowWorkBlackCell_Skin_BO6.png/revision/latest?cb=20250201180640) <br>Shadow Work BlackCell | body_c_t10_gbr_pl_stone_valor | head_c_t10_gbr_pl_stone_valor | vm_c_t10_gbr_pl_stone_valor
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bb/Stone_5h4dow_Skin_BO6.png/revision/latest?cb=20250812231330) <br>5h4dow | body_c_t10_gbr_pl_stone_edge | head_c_t10_gbr_pl_stone_edge | vm_c_t10_gbr_pl_stone_edge |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/1/1c/Stone_AllTerrain_Skin_BO6.png/revision/latest?cb=20250403215345) <br>All Terrain | body_c_t10_gbr_pl_stone_brush | head_c_t10_gbr_pl_stone_brush | vm_c_t10_gbr_pl_stone_brush
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/35/Stone_NotEnoughBacon_Skin_BO6.png/revision/latest?cb=20250417234920) <br>Not Enough Bacon | body_c_t10_gbr_pl_stone_bacon | head_c_t10_gbr_pl_stone_bacon | vm_c_t10_gbr_pl_stone_bacon |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_AllTerrainBlackCell_Skin_BO6.png/revision/latest?cb=20250403215346) <br>All Terrain Blackcell | body_c_t10_gbr_pl_stone_brush_bc | head_c_t10_gbr_pl_stone_brush_bc | vm_c_t10_gbr_pl_stone_brush_bc
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/5/56/Stone_Bulldog_Skin_BO6.png/revision/latest?cb=20250424184959) <br>Bulldog | body_c_t10_gbr_pl_stone_bulldog | head_c_t10_gbr_pl_stone_bulldog | vm_c_t10_gbr_pl_stone_bulldog |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/44b9e2c1-d754-437b-8372-946b778f1d53) <br>Casual Ops | body_c_t10_gbr_pl_stone_jeans | head_c_t10_gbr_pl_stone_jeans | vm_c_t10_gbr_pl_stone_jeans
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/74/Stone_Blunty_Skin_BO6.png/revision/latest?cb=20241226225711) <br>Blunty | body_c_t10_gbr_pl_stone_bong | head_c_t10_gbr_pl_stone_bong | vm_c_t10_gbr_pl_stone_bong |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/d/d8/Stone_Siphon_Skin_BO6.png/revision/latest?cb=20250227234727) <br>Siphon | body_c_t10_gbr_pl_stone_ferro | head_c_t10_gbr_pl_stone_ferro | vm_c_t10_gbr_pl_stone_ferro |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/1/19/Stone_ZipTieBlackCell_Skin_BO6.png/revision/latest?cb=20241119185618) <br>Zip Tie Blackcell | body_c_t10_gbr_pl_stone_mobilized<br>_blackcell | head_c_t10_gbr_pl_stone_mobilized<br>_blackcell | vm_c_t10_gbr_pl_stone_mobilized<br>_blackcell |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/3/34/Stone_ShadowWorkBlackCell_Skin_BO6.png/revision/latest?cb=20250201180640) <br>Shadow Work BlackCell | body_c_t10_gbr_pl_stone_valor | head_c_t10_gbr_pl_stone_valor | vm_c_t10_gbr_pl_stone_valor |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/00/Stone_AllTerrainBlackCell_Skin_BO6.png/revision/latest?cb=20250403215346) <br>All Terrain Blackcell | body_c_t10_gbr_pl_stone_brush_bc | head_c_t10_gbr_pl_stone_brush_bc | vm_c_t10_gbr_pl_stone_brush_bc |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/86/Stone_5h4dowBlackCell_Skin_BO6.png/revision/latest?cb=20250812231331) <br>5h4dow Blackcell | body_c_t10_gbr_pl_stone_edge_bc | head_c_t10_gbr_pl_stone_edge_bc | vm_c_t10_gbr_pl_stone_edge_bc |
 
 
 
 # Nocturne
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -233,7 +265,7 @@
 
 
 # Brutus
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -254,7 +286,7 @@
 
 
 # Klaus
-<!--FINISHED-->
+
 | Icon  | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -273,7 +305,7 @@
 
 
 # Mackenzie Carver
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | |
@@ -302,7 +334,7 @@
 
 
 # Elizabeth Grey
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | |
@@ -333,7 +365,7 @@
 
 
 # Mace
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -348,7 +380,7 @@
 
 
 # John Black Ops
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
@@ -357,7 +389,7 @@
 
 
 # Blackcell Exclusives
-<!--FINISHED-->
+
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
