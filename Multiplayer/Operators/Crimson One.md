@@ -1,5 +1,9 @@
 # Crimson One
 
+<!-- THIS FILE IS FINISHED🥳 -->
+<!-- ONLY CHANGES REQUIRED ARE FIXES OR UPGRADES🎉 -->
+
+
 <img width="3000" height="1000" alt="" src="https://github.com/user-attachments/assets/e511facc-3d4d-4c52-89d8-7352387bc657" />
 
 > [!IMPORTANT]
@@ -50,42 +54,55 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/c1/Caine_Taskmaster_Skin_BO6.png/revision/latest?cb=20241028013605) <br>Taskmaster | body_c_t10_usa_pl_caine_sable  | head_c_t10_usa_pl_caine_sable | vm_c_t10_usa_pl_caine_sable | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/c1/Caine_Taskmaster_Skin_BO6.png/revision/latest?cb=20241028013605) <br>Taskmaster | body_c_t10_usa_pl_caine_sable | head_c_t10_usa_pl_caine_sable | vm_c_t10_usa_pl_caine_sable |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/b/be/Caine_Major_Za_Skin_BO6.png/revision/latest?cb=20241028013559) <br>Major Za | body_c_t10_usa_pl_caine_caesars  | head_c_t10_usa_pl_caine_caesars | vm_c_t10_usa_pl_caine_caesars | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/2c/Caine_Coyote_Skin_BO6.png/revision/latest?cb=20241218224710) <br>Coyote | body_c_t10_usa_pl_caine_goggles | head_c_t10_usa_pl_caine_goggles | vm_c_t10_usa_pl_caine_goggles |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/2/2c/Caine_Coyote_Skin_BO6.png/revision/latest?cb=20241218224710) <br>Coyote | body_c_t10_usa_pl_caine_goggles  | head_c_t10_usa_pl_caine_goggles | vm_c_t10_usa_pl_caine_goggles | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/c/cd/Caine_FutureCombatant_Skin_BO6.png/revision/latest?cb=20250403212614) <br> Future Combatant | body_c_t10_usa_pl_caine_bo4 | head_c_t10_usa_pl_caine_bo4 | vm_c_t10_usa_pl_caine_caine_bo4 |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/c/cd/Caine_FutureCombatant_Skin_BO6.png/revision/latest?cb=20250403212614) <br> Future Combatant | body_c_t10_usa_pl_caine_bo4  | head_c_t10_usa_pl_caine_bo4 | vm_c_t10_usa_pl_caine_caine_bo4 | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bd/Caine_Swordmaster_Skin_BO6.png/revision/latest?cb=20250201180615) <br>Swordmaster | body_c_t10_usa_pl_caine_judo  | head_c_t10_usa_pl_caine_judo | vm_c_t10_usa_pl_caine_judo |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo61b8eb6fe9d661ea83006a67b8b0bed4aaf655dbe242936684526b7d012fe7af8_large.webp) <br>Star Player | body_c_t10_usa_pl_caine_retrowave  | head_c_t10_usa_pl_caine_retrowave | vm_c_t10_usa_pl_caine_retrowave | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f7/Caine_RideNDie_Skin_BO6.png/revision/latest?cb=20250115220407) <br>Ride-N-Die |  body_c_t10_usa_pl_caine_biker | head_c_t10_usa_pl_caine_biker | vm_c_t10_usa_pl_caine_biker |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/f/f7/Caine_RideNDie_Skin_BO6.png/revision/latest?cb=20250115220407) <br>Ride-N-Die |  body_c_t10_usa_pl_caine_biker  | head_c_t10_usa_pl_caine_biker | vm_c_t10_usa_pl_caine_biker | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/9/9d/Caine_CunningThievery_Skin_BO6.png/revision/latest?cb=20250918224135) <br>Cunning Thievery | body_c_t10_usa_pl_caine_cowboy  | head_c_t10_usa_pl_caine_cowboy | vm_c_t10_usa_pl_caine_cowboy |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/e/ec/Caine_TheBull_Skin_BO6.png/revision/latest?cb=20241120221835) <br>The Bull | body_c_t10_usa_pl_caine_longhorn  | head_c_t10_usa_pl_caine_longhorn | vm_c_t10_usa_pl_caine_longhorn | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/45/Caine_TrailBlazer_Skin_BO6.png/revision/latest?cb=20250403221900) <br>Trail Blazer | body_c_t10_usa_pl_caine_traveler | head_c_t10_usa_pl_caine_traveler | vm_c_t10_usa_pl_caine_traveler |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/43/Caine_NoLove_Skin_BO6.png/revision/latest?cb=20250201180613) <br>No Love | body_c_t10_usa_pl_caine_single  | head_c_t10_usa_pl_caine_single | vm_c_t10_usa_pl_caine_single | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/75/Caine_HonedRavager_Skin_BO6.png/revision/latest?cb=20250523222334) <br>Honed Ravager | body_c_t10_usa_pl_caine_viking | head_c_t10_usa_pl_caine_viking | vm_c_t10_usa_pl_caine_viking |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/4/45/Caine_TrailBlazer_Skin_BO6.png/revision/latest?cb=20250403221900) <br>Trail Blazer | body_c_t10_usa_pl_caine_traveler  | head_c_t10_usa_pl_caine_traveler | vm_c_t10_usa_pl_caine_traveler | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/ec/Caine_TheBull_Skin_BO6.png/revision/latest?cb=20241120221835) <br>The Bull | body_c_t10_usa_pl_caine_longhorn | head_c_t10_usa_pl_caine_longhorn | vm_c_t10_usa_pl_caine_longhorn |
 | | | | | 
-| ![Preview](https://stockpile.detonated.com/static/bundle_images/resized/bo671d1f57028495c5150b42422450fb08cd69dcd46d21e297a8dd35bfb079a7851_large.webp) <br>Bearserker | body_c_t10_usa_pl_caine_orc  | head_c_t10_usa_pl_caine_orc | vm_c_t10_usa_pl_caine_orc | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7d/Caine_Bearserker_Skin_BO6.png/revision/latest?cb=20250424213121) <br>Bearserker | body_c_t10_usa_pl_caine_orc | head_c_t10_usa_pl_caine_orc | vm_c_t10_usa_pl_caine_orc |
 | | | | | 
-| ![Preview](https://static.wikia.nocookie.net/callofduty/images/7/7d/Caine_Falconer_Skin_BO6.png/revision/latest?cb=20250214010543) <br>Falconer | body_c_t10_usa_pl_caine_cleaver  | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/2/22/Caine_ChillFlannel_Skin_BO6.png/revision/latest?cb=20250904224251) <br>Combat Flannel | body_c_t10_usa_pl_caine<br>_energy | head_c_t10_usa_pl_caine<br>_energy | vm_c_t10_usa_pl_caine_caine<br>_energy |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/83b7a2dc-f75a-40f3-9a40-344008da74fe) <br> Combat Flannel | body_c_t10_usa_pl_caine_energy  | head_c_t10_usa_pl_caine_energy | vm_c_t10_usa_pl_caine_caine_energy | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/a9/Caine_CombatFlannel_Skin_BO6.png/revision/latest?cb=20250508215921) <br>Chill Flannel | body_c_t10_usa_pl_caine<br>_energy_grey | head_c_t10_usa_pl_caine<br>_energy_grey | vm_c_t10_usa_pl_caine_caine<br>_energy_grey |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/03c54540-af27-4c91-a137-bc9211456ff2) <br> Veiled | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam| 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/a/a7/Caine_Veiled_Skin_BO6.png/revision/latest?cb=20250516001055) <br>Veiled | body_c_t10_usa_pl_caine_mam  | head_c_t10_usa_pl_caine_mam | vm_c_t10_usa_pl_caine_mam |
 | | | | | 
-| ![image](https://github.com/user-attachments/assets/f6455bea-2552-4071-907f-f2446ce41ab8) <br>Daggered | body_c_t10_usa_pl_caine_mam_alt  | head_c_t10_usa_pl_caine_mam_alt | vm_c_t10_usa_pl_caine_mam_alt| 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/62/Caine_Daggered_Skin_BO6.png/revision/latest?cb=20250516001054) <br>Daggered | body_c_t10_usa_pl_caine_mam_alt | head_c_t10_usa_pl_caine_mam_alt | vm_c_t10_usa_pl_caine_mam_alt |
 | | | | | 
-![image](https://github.com/user-attachments/assets/ae71bf74-1b29-4016-a26a-35a6f20c9738) <br> Chow Time | body_c_t10_usa_pl_caine_cafe | head_c_t10_usa_pl_caine_cafe | vm_c_t10_usa_pl_caine_cafe | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/be/Caine_Major_Za_Skin_BO6.png/revision/latest?cb=20241028013559) <br>Major Za | body_c_t10_usa_pl_caine_caesars | head_c_t10_usa_pl_caine_caesars | vm_c_t10_usa_pl_caine_caesars |
 | | | | | 
-![image](https://github.com/user-attachments/assets/5bef42b7-0faf-49fe-8177-996c5df0a9d3) <br> Chow Time BlackCell | body_c_t10_usa_pl_caine_cafe_bc  | head_c_t10_usa_pl_caine_cafe_bc | vm_c_t10_usa_pl_caine_cafe_bc | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/b/bb/Caine_CommanderCrust_Skin_BO6.png/revision/latest?cb=20250405102413) <br>Commander Crust | body_c_t10_usa_pl_caine_caesars_alt | head_c_t10_usa_pl_caine_caesars | vm_c_t10_usa_pl_caine_caesars_alt |
 | | | | | 
-![image](https://github.com/user-attachments/assets/97c511d7-a864-43a9-8f38-29e670e42a58) <br> Zeus | body_c_t10_usa_pl_caine_zeus  | head_c_t10_usa_pl_caine_zeus | vm_c_t10_usa_pl_caine_zeus | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/e/e9/Caine_RuthlessJock_Skin_BO6.png/revision/latest?cb=20251009220934) <br>Ruthless Jock | body_c_t10_usa_pl_caine_jock | head_c_t10_usa_pl_caine_jock | vm_c_t10_usa_pl_caine_jock |
 | | | | | 
-<br> TBA | body_c_t10_usa_pl_caine_viking  | head_c_t10_usa_pl_caine_viking | vm_c_t10_usa_pl_caine_viking | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/6/62/Caine_ChowTime_Skin_BO6.png/revision/latest?cb=20250601154724) <br>Chow Time | body_c_t10_usa_pl_caine_cafe | head_c_t10_usa_pl_caine_cafe | vm_c_t10_usa_pl_caine_cafe |
 | | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/8/89/Caine_StarPlayer_Skin_BO6.png/revision/latest?cb=20250417200625) <br>Star Player | body_c_t10_usa_pl_caine_retrowave | head_c_t10_usa_pl_caine_retrowave | vm_c_t10_usa_pl_caine_retrowave |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/4/43/Caine_NoLove_Skin_BO6.png/revision/latest?cb=20250201180613) <br>No Love | body_c_t10_usa_pl_caine_single | head_c_t10_usa_pl_caine_single | vm_c_t10_usa_pl_caine_single |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/0/0f/Caine_HighAltitude_Skin_BO6.png/revision/latest?cb=20250709222847) <br>High Altitude | body_c_t10_usa_pl_caine_plane | head_c_t10_usa_pl_caine_plane | vm_c_t10_usa_pl_caine_plane |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7d/Caine_Falconer_Skin_BO6.png/revision/latest?cb=20250214010543) <br>Falconer | body_c_t10_usa_pl_caine_cleaver | head_c_t10_usa_pl_caine_cleaver | vm_c_t10_usa_pl_caine_cleaver |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/77/Caine_Zeus_Skin_BO6.png/revision/latest?cb=20250601154728) <br>Zeus | body_c_t10_usa_pl_caine_zeus | head_c_t10_usa_pl_caine_zeus | vm_c_t10_usa_pl_caine_zeus |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/f/f5/Caine_Hades_Skin_BO6.png/revision/latest?cb=20251016203015) <br>Hades | body_c_t10_usa_pl_caine_hades | head_c_t10_usa_pl_caine_hades | vm_c_t10_usa_pl_caine_hades |
+| | | | | 
+| ![Icon](https://static.wikia.nocookie.net/callofduty/images/7/7c/Caine_ChowTimeBlackCell_Skin_BO6.png/revision/latest?cb=20250601154727) <br>Chow Time BlackCell | body_c_t10_usa_pl_caine_cafe_bc | head_c_t10_usa_pl_caine_cafe_bc | vm_c_t10_usa_pl_caine_cafe_bc |
 
 
 
